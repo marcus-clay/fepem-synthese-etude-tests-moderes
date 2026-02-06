@@ -1,15 +1,38 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@500;600;700;800&display=swap');
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 * {
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
 }
 
+.prose-narrative {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Page transition */
+@keyframes pageEnter {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: none; }
+}
+.page-enter {
+  animation: pageEnter 0.4s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* Slide in (legacy) */
 @keyframes slideIn {
   from { transform: translateX(100%); }
   to { transform: translateX(0); }
 }
 
+/* Fade in */
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(20px); }
   to { opacity: 1; transform: translateY(0); }
@@ -21,4 +44,64 @@
 
 .animate-fade-in {
   animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Apple modal */
+@keyframes modalIn {
+  from { opacity: 0; transform: scale(0.92) translateY(8px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+@keyframes modalOut {
+  from { opacity: 1; transform: scale(1) translateY(0); }
+  to { opacity: 0; transform: scale(0.92) translateY(8px); }
+}
+@keyframes backdropIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes backdropOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.modal-enter {
+  animation: modalIn 0.35s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+.modal-exit {
+  animation: modalOut 0.2s cubic-bezier(0.55, 0, 1, 0.45) forwards;
+}
+.backdrop-enter {
+  animation: backdropIn 0.3s ease forwards;
+}
+.backdrop-exit {
+  animation: backdropOut 0.2s ease forwards;
+}
+
+/* Back to top */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Magazine card hover */
+.card-hover {
+  transition: transform 0.25s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.25s ease;
+}
+.card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.08);
+}
+
+/* Hero image */
+.hero-image {
+  object-fit: cover;
+  object-position: center 30%;
+}
+
+/* Button press effect */
+.btn-press {
+  transition: all 0.2s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.btn-press:active {
+  transform: scale(0.97);
 }
