@@ -1,0 +1,514 @@
+# Retour utilisateur : améliorer la planification des missions.
+
+> Date : 03 février 2026, 09:30
+
+> Durée : 00:56:37
+
+
+## Résumé succinct :
+
+Test utilisateur d'une application de services. L'expérience est positive, mais l'utilisatrice recommande d'ajouter la distance, la durée et la récurrence des missions pour une meilleure planification.
+
+## Retranscription :
+
+Speaker1: Bonjour.  Est-ce que vous nous entendez bien?  ?  
+
+Speaker0: Oui, oui, merci.  
+
+Speaker1: Ah, super.  Nous, on vous entend bien, on ne vous voit pas pour.  l'instant.  
+
+Speaker0: Ah !  Non, mais en fait, c'est mon téléphone qui désactive à chaque fois le micro et la caméra alors que je m'autorise.  
+
+Speaker1: Bon, là, c'est bon, on vous voit, on vous entend bien.  Super.  
+
+Speaker0: D'accord.  
+
+Speaker1: Merci d'avoir accepté de participer à cet échange avec nous.  L'objectif, c'est qu'on fasse une heure ensemble.  Qui on est ?  Thomas et moi-même, on travaille sur une nouvelle application mobile qui est lancée par la FEPEM.  La FEPEM, c'est la Fédération des Particuliers Employés.  Et donc on s'apprête à lancer en mi-février en production sur les stores d'applications, donc une nouvelle application pour mettre en relation les particuliers employeurs et les salariés.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et donc aujourd'hui l'objectif ça va être de discuter avec vous et de vous faire manipuler l'application et de comprendre comment vous allez l'utiliser.  et l'idée c'est qu'on va être sur une application de test.  donc les données qu'on va pouvoir renseigner sur l'application ou les profits que vous allez pouvoir voir en fait ce sont des données fictives et le but c'est que ce soit un exercice et que vous puissiez nous partager vos impressions, vos ressentis, vos besoins et qu'on puisse noter de manière assez méthodique en fait tous les points à revoir pour améliorer l'application et donc Faire que quand elle sort dans quelques jours, elle soit corrigée et qu'elle corresponde au mieux à vos besoins.  Très bien.  Pour commencer, avant de rentrer un peu plus dans le vif du sujet, j'aurais aimé qu'on fasse un petit check ensemble de logistique.  de voir si déjà, nous dire si vous avez pu installer l'application FEPM sur votre téléphone.  
+
+Speaker0: Oui, je l'ai fait.  
+
+Speaker1: D'accord.  Ça, c'est super.  
+
+Speaker0: J'ai pu installer et ouvrir.  
+
+Speaker1: Après, j'ai lancé tel quel.  Ok, nickel.  Ça veut dire que vous l'avez vu s'ouvrir.  C'est top.  Ça, c'est super.  Et le deuxième point pour ce test, l'idée, c'est qu'on puisse enregistrer la conversation et qu'on puisse enregistrer et voir votre écran.  Et donc, est-ce que vous pourriez, s'il vous plaît, partager votre écran et partager aussi l'application ?  Comme ça, ça nous permet de voir comment vous naviguez dedans.  
+
+Speaker0: Il faut juste m'expliquer comment ça fonctionne pour partager.  
+
+Speaker1: Oui, tout à fait.  
+
+Speaker0: Je ne connais pas.  
+
+Speaker1: Je vais vous montrer.  Vous êtes sur Android ?  Oui.  D'accord.  Alors, je vais juste vous afficher un petit guide et vous allez me dire si vous voyez... Si vous voyez bien ça, je vais partager mon écran et vous allez me dire si vous voyez bien.  Oui, ça va, je vois.  Premièrement, on est sur l'écran de conversation, on se voit l'un et l'autre.  En bas à droite, vous avez un bouton avec les trois petits points ?  Ensuite, vous avez plusieurs boutons, mais celui qui nous correspond, c'est...  
+
+Speaker0: Oui, je vois.  Après, il y a continuer.  
+
+Speaker1: C'est ça.  
+
+Speaker0: Très bien.  
+
+Speaker1: Après, il y a le partage d'une appli en particulier.  
+
+Speaker0: Et je sélectionne.  Très bien.  
+
+Speaker1: Et après, vous sélectionnez FPM.  Et là, elle va se lancer.  Et ce sera bon.  
+
+Speaker0: Alors... Non, je n'ai pas le sous-titre.  Pourquoi ce n'est pas le même... Partagez l'audio.  
+
+Speaker1: Oui, il n'y a pas besoin qu'on puisse continuer.  
+
+Speaker0: Pourtant, j'ai bien appuyé sur le carré avec... Ah, c'est là.  
+
+Speaker1: Oui, c'est bon.  Ah, c'est bon.  Ok.  C'est pas beau, ça ?  Ça ne vous propose pas de partager l'appli ?  Oui, c'est vrai que là, vous avez partagé votre écran.  Donc, c'est top parce qu'on le voit dans la visio.  Et là, peut-être que là, ce qu'il faut que vous fassiez, c'est que vous retournez dans les trois petits points.  Voilà.  Et en déplacement.  Pourquoi ça vous a partagé l'écran et pas une appli ?  
+
+Speaker0: C'est dans l'outil, non ?  
+
+Speaker1: Sinon, vous allez retaper sur le bouton du partage qui est à gauche.  Est-ce que vous pouvez cliquer sur le bouton du partage pour annuler le petit carré avec la flèche vers le haut ?  Ok, donc là on a annulé le partage, on va essayer de recommencer.  
+
+Speaker0: Très bien.  
+
+Speaker1: Alors, on va refaire la même chose, la même manip, donc rouvrir les trois petits points, choisir le partage.  Ensuite, quand il va vous demander de partager l'audio, ça on s'en fiche, on va continuer directement.  
+
+Speaker0: Voilà, c'est bon, démarrer l'instrument, la diffusion, voilà.  Ok.  
+
+Speaker1: Et est-ce que là, il y a un moment où il vous propose de partager une application ?  Parce que c'est ça, je pense qu'il... Comment on peut faire ?  
+
+Speaker0: Je vais voir dans paramètres, peut-être qu'ils peuvent... On va bien trouver ?  
+
+Speaker1: Ouais, on va y arriver !  
+
+Speaker0: Où est-il ?  Où ?  Où ?  
+
+Speaker1: les sous-titres.  
+
+Speaker0: C'est la main, je ne sais pas à quoi elle sert.  
+
+Speaker1: La main, c'est pour lever la main dans la conversation.  Et là, est-ce que vous voyez encore mon écran?  ?  
+
+Speaker0: Oui, je vois tous les deux, oui.  
+
+Speaker1: Est-ce que vous voyez, à ce moment-là, quand vous avez tapé sur l'icône, est-ce que vous avez partagé votre écran avec le continué?  ?  
+
+Speaker0: Oui, j'ai partagé l'écran avec le continué, donc je n'ai pas activé le son.  
+
+Speaker1: Et après, est-ce qu'il vous a proposé de partager une appli?  ?  
+
+Speaker0: Non.  Vous n'avez pas eu la petite pop-up comme Victor sur la 4, Non, pas du tout.  
+
+Speaker1: D'accord.  Je suis embêté parce que je ne sais pas comment on peut faire pour le gérer de distance.  
+
+Speaker0: Après, sinon, ce n'est pas idéal, mais ça fonctionne.  Est-ce que vous pouvez quitter ici en appuyant sur le home de votre téléphone et lancer directement l'application de la FEPM ?  Oui, j'y vais.  
+
+Speaker1: Hop.  Ah, ben, top.  Parfait.  Parfait, parfait.  Super.  Bon, alors, ça, c'est top.  Donc, on a bien l'application qui est visible à l'écran.  Donc, ça, c'est super.  Alors, je vais arrêter de partager mon écran.  Tac.  Voilà.  Et donc, avant de rentrer dans le vif du sujet, on aurait aimé avoir quelques minutes pour échanger avec vous, pour savoir un petit peu qui êtes-vous, dans quel domaine vous travaillez et comment vous trouvez habituellement vos employeurs.  
+
+Speaker0: Alors, moi, avant de créer mon entreprise, j'ai beaucoup travaillé en tant qu'agent d'entretien et j'ai travaillé en tant qu'ASH dans une maison de retraite.  
+
+Speaker1: D'accord.  
+
+Speaker0: Ça s'est très mal passé, donc j'ai arrêté, j'ai juste un remplacement.  Et j'avais commencé par créer une boutique en ligne, en fait, de vente de produits, de beauté, etc.  Et vu que ça stagnait, mon mari m'a dit, mais en fait, tu as travaillé énormément en tant qu'agent d'entretien, etc.  Tu aimes travailler avec les gens, donc pourquoi pas créer ton entreprise en service à la personne ?  Oui, effectivement, c'est beaucoup recherché dans mon secteur.  Ça fait un an que j'ai créé mon entreprise.  Je dispatchais des flyers, j'ai une page pro Facebook.  Régulièrement, je fais de la publicité, je publie sur Facebook, etc.  Pour l'instant, je n'ai qu'un couple de clients chez qui je travaille depuis sept ans.  
+
+Speaker1: D'accord.  
+
+Speaker0: J'ai un monsieur qui m'avait contacté.  Normalement, j'avais rendez-vous hier, mais il m'a dit non, franchement.  Et voilà, pour l'instant, c'est très, très calme.  
+
+Speaker1: D'accord.  Et donc, vous allez chercher... Donc, effectivement, vous avez trouvé des personnes, des employeurs par le biais de la communication et la promotion via Facebook.  Et donc, aujourd'hui...  
+
+Speaker0: Je m'étais inscrite à une groupe Facebook qui met en relation.  
+
+Speaker1: D'accord.  
+
+Speaker0: J'ai eu des clients, mais après, cette personne s'est moquée de moi.  Enfin, celle qui nous a mis en relation s'est moquée de moi, donc j'ai arrêté avec elle.  
+
+Speaker1: D'accord.  
+
+Speaker0: Et du coup, c'est par l'audit de cette personne que j'ai eu mes premiers clients.  
+
+Speaker1: D'accord.  Ok.  Très bien.  Écoutez, je vous propose qu'on démarre.  Comme je l'ai dit tout à l'heure, on va être dans un mode de test avec des données fictives, mais en tout cas, les écrans de l'application sont bien là.  L'idée, ça va être ensemble de faire une phase de test.  On va tester des scénarios ensemble pendant une petite demi-heure sur la partie d'introduction et la création de votre compte.  Ensuite, vous pourrez créer et publier votre profil Et enfin, vous pourrez donc analyser les offres qui se présentent à vous.  Et s'il nous reste du temps, on pourrait également sélectionner une offre et envoyer une candidature.  D'accord ?  D'accord.  C'est clair pour vous ?  
+
+Speaker0: Pas de souci.  
+
+Speaker1: Ok, super.  Alors déjà, je vois dans l'écran qu'en bas à droite, il y a la petite fenêtre de Google Meet.  Est-ce que c'est quelque chose que vous voyez aussi?  ?  
+
+Speaker0: Oui, oui.  
+
+Speaker1: Ok.  
+
+Speaker0: Ça, je le disais pour...  
+
+Speaker1: Ça marche.  Ok.  Là, vous avez ouvert l'application.  Qu'est-ce que vous comprenez à cette étape ?  
+
+Speaker0: Ça présente le fonctionnement de l'appli.  C'est autant pour les particuliers, les employeurs que les professionnels.  
+
+Speaker1: D'accord.  
+
+Speaker0: C'est clair.  
+
+Speaker1: D'accord.  
+
+Speaker0: Là, les trois pages de présentation sont assez claires.  
+
+Speaker1: D'accord.  Dans l'idée, là, c'est qu'on va imaginer que vous cherchez un nouvel employeur pour des heures complémentaires.  Et donc, vous allez créer votre compte.  Créer un compte.  
+
+Speaker0: Donc, on va pouvoir... Donc, c'est bon, je vais me laisser recommencer ?  
+
+Speaker1: Oui, vous pouvez commencer.  
+
+Speaker0: Il faut que je rebouge la fenêtre.  Alors... Voilà...  
+
+Speaker1: Là, juste attendez avant de continuer.  Ah, oui.  
+
+Speaker0: On va faire un retour en arrière.  On va vous donner une adresse mail fictive pour que ce soit plus simple.  Du coup, c'est FEPEM, donc F-E-P-E-M.  Oui.  6.  Je n'ai pas compris ensuite.  6, le numéro 6.  Arrobase.  Y-O-P.  C'est bon ?  
+
+Speaker1: Très bien, oui.  Ensuite, qu'est-ce que vous comprenez à cet écran ?  
+
+Speaker0: Là, il y a deux sections.  Il y a la section pour les particuliers et pour les personnes qui recherchent un emploi.  
+
+Speaker1: Oui.  
+
+Speaker0: Donc, pour l'instant, il n'y a rien de difficile, en fait.  
+
+Speaker1: D'accord.  OK.  Et donc, qu'est-ce que vous souhaitez faire à ce moment-là ?  
+
+Speaker0: Moi, mon objectif, c'est rechercher un emploi.  
+
+Speaker1: OK.  
+
+Speaker0: Donc, je clique dessus, c'est bon ?  
+
+Speaker1: Oui.  
+
+Speaker0: Alors, c'est pas mal.  Il y a tout.  Il y a vraiment tout, c'est complet.  Oui, je trouve que ça va.  Il y a le choix, il n'y en a pas trop.  Parce que c'est les principaux domaines que les gens recherchent ou que les gens proposent.  
+
+Speaker1: OK.  Et donc, moi, si vous deviez en sélectionner un ?  
+
+Speaker0: Moi, je fais aide ménagère, mais aussi dame de compagnie.  On va en sélectionner qu'un pour l'instant.  Ménagère, c'est ce qu'on propose, le ménage, le repassage, l'entretien du linge.  Je ne vois rien d'autre à rajouter.  Non, par rapport au domaine, non.  Pourquoi il n'y a pas le continuer ?  C'est tout coché ?  Ah non, en fait, il fallait cocher, d'accord.  En fait, vu qu'il y a déjà le V dans le carré, on croit que c'est déjà coché.  Mais en fait, non, il faut cliquer dessus.  Bon, on va mettre que ménage pour l'instant.  
+
+Speaker1: D'accord.  
+
+Speaker0: En fait, c'est le V qui est perturbé, mais... Une fois qu'on se dit, je clique dessus, c'est bon.  Tout le monde va... On va forcément le trouver.  
+
+Speaker1: OK.  
+
+Speaker0: Hop, continuer.  Donc là, c'est bon, je rentre mes coordonnées.  
+
+Speaker1: Là, vous pouvez rentrer vos coordonnées et vous pouvez aussi renseigner un numéro de téléphone fictif.  Ce n'est pas très important.  
+
+Speaker0: Je mets celui que je connais.  Enfin, le mien, c'est pareil.  Hop.  Si je fais des fautes, on ne va pas y arriver.  L'adresse mail est alignée, la fictive.  Alors, un mot de passe, on va mettre Ardèche 07.  On vérifie.  Ah, il faut un caractère spécial, d'accord.  Bon, au moins c'est sécurisé.  
+
+Speaker1: Hum hum.  
+
+Speaker0: Voilà, là, ça me l'a accepté.  De toute façon, le mot de passe, c'est partout pareil, je veux dire.  Voilà.  Je suis autorisé.  Je consens.  Et pourquoi ça ne m'est pas ?  Je m'inscris.  Attends, j'ai tout rond.  Ah non, je n'ai pas sectionné, madame.  Voilà.  Oui, tout bon.  J'attends le code.  
+
+Speaker1: Oui, c'est Thomas qui va vous le transmettre.  
+
+Speaker0: Oui, alors le code, c'est 972.  Alors, oui.  895.  Envoyé.  Mais ce mot de passe a été divulgué, je ne sais pas quoi.  On va recommencer.  Peut-être que...  
+
+Speaker1: En fait, ça, c'est un petit couac qu'on a effectivement dans la version de test de l'application.  Donc, ce qu'on va faire, c'est qu'on va, s'il vous plaît, revenir en arrière et on va changer le mot de passe, s'il vous plaît.  
+
+Speaker0: Ah, d'accord.  On va rajouter un arbre au base.  Voilà.  737 082. 737 082,  ça me dit code incorrect.  Pourtant, c'est bon.  Ah non, c'est un nouveau qui vient d'arriver.  C'est 426.  Je t'ai envoyé.  Autoriser notification.  Là, c'est normal.  Le compte a été créé.  
+
+Speaker1: On continue.  Peut-être que là, vous pouvez baisser la petite fenêtre.  La fenêtre du call.  Ah !  Bon, ce n'est pas grave parce que... Ah, on est resté le coup.  Oui, oui, parce qu'on est resté dedans.  C'est plus qu'on n'a plus la petite fenêtre.  Ce n'est pas très grave.  Vous êtes toujours là ?  
+
+Speaker0: Oui, oui, oui.  
+
+Speaker1: Ah, super.  On peut continuer, mais on est libre.  Vous êtes là un peu trop vite.  Donc là, vous êtes arrivés à cette étape-là.  Alors, qu'est-ce que vous comprenez de cette étape, de ce que vous observez à l'écran ?  Est-ce que vous pouvez verbaliser ce que vous voyez, ce que vous comprenez ?  
+
+Speaker0: Pour l'instant, il n'y a rien de difficile.  Ça me demande de décrire ma zone où je veux travailler, quand je veux commencer, mes tarifs.  C'est un peu mon entreprise, on va dire.  Oui.  C'est présenter ce que je propose.  
+
+Speaker1: D'accord.  Est-ce qu'il y a déjà à cette étape-là, vous avez des questionnements ou potentiellement des incohérences, de choses qui ne vous semblent pas claires ou manquantes ?  
+
+Speaker0: Non, là, je trouve qu'elle est compétente.  Voilà, c'est ce que je propose.  Notre intervention, c'est bien parce que c'est moins les clients.  On peut trouver une offre d'emploi dans la zone.  
+
+Speaker1: D'accord.  
+
+Speaker0: Date de début, c'est clair aussi.  Les tarifs, c'est ce que je propose.  Année d'expérience, ça permet aux clients de savoir que je suis professionnel, que j'ai de l'expérience et Ça peut, comment dire, plus les inciter à me contacter.  Pour moi, un client qui voit quelqu'un qui a 6 mois d'expérience et qui voit un profil de 8 ans d'expérience, il aura peut-être plus envie d'aller vers le 8 ans que vers l'autre.  Oui.  Je crois que c'est rassurant pour le client.  
+
+Speaker1: Bien sûr.  Et pour vous, la petite question sur le deuxième élément, la zone d'intervention, est-ce que vous pouvez me décrire ce que vous comprenez par ça ?  
+
+Speaker0: C'est ce que je fais déjà, par exemple, sur mes flyers, c'est-à-dire dans quelle zone je travaille.  Par exemple, je m'adresse à un prier autour de 15 kilomètres.  
+
+Speaker1: D'accord.  Très bien.  On peut continuer.  
+
+Speaker0: Donc je complète ou je le ferai plus tard ?  
+
+Speaker1: Après, c'est à vous.  Nous, on ne peut pas forcément vous guider.  C'est plutôt à vous de nous indiquer votre ressenti.  et si vous le ferez dès maintenant, si vous le ferez plus tard.  
+
+Speaker0: Moi, je me dis que pour le test, il vaut mieux le faire maintenant.  Que tout soit clair.  Pour l'adresse, on va vous donner une adresse fictive.  
+
+Speaker1: Pareil.  
+
+Speaker0: Vous pouvez mettre 79 rue de Monceau.  À Paris, d'accord.  Je vais mettre 15 kilomètres comme c'est pour chez moi.  
+
+Speaker1: D'accord.  
+
+Speaker0: Au moins, en fait, ça va nous envoyer.  vraiment, avec cette application, ça va vraiment envoyer des clients dans notre zone géographique, dans la zone qu'on a de l'immunité.  Je pense bien qu'après, parce que pour l'instant, je suis piétonne, je n'ai pas le permis.  Donc, j'ai un bus qui dessert très bien, mais il me dit que si après, je veux élargir ma zone une fois que j'aurai passé le permis, Je sais que je peux modifier et élargir ma zone.  
+
+Speaker1: D'accord.  
+
+Speaker0: Alors, tête de début.  Allez, on va mettre aujourd'hui.  Tarif horaire.  Moi, je suis à 22 et mettre entre... Assistant de vie, en fait, ça ne me concerne pas parce que ce n'est pas mon domaine.  
+
+Speaker1: D'accord.  
+
+Speaker0: Donc ça, après, les gens, en fait, ils ne vont pas chipoter.  Ils vont se dire, voilà, pour la stente de vie, ils ont leurs tarifs, mais pour d'autres entrepreneurs, ils ont leurs propres tarifs, comme moi.  
+
+Speaker1: D'accord.  Après, renseigner...  
+
+Speaker0: Non, c'est bon.  
+
+Speaker1: OK.  
+
+Speaker0: Il y a au moins un exemple pour un domaine.  
+
+Speaker1: Donc...  
+
+Speaker0: Il n'y a rien de gênant ou quoi que ce soit.  
+
+Speaker1: Ok.  
+
+Speaker0: Donc, enregistré, année d'expérience, 8 ans.  Alors, félicitations, votre profil est prêt à accéder aux annonces ou renseigner encore quelques informations.  On va regarder, continuer à compléter mon profil, ce que c'est, ce que c'est intéressant.  C'est pas mal, ça.  Après, on peut compléter.  On peut mettre... En général, c'est 9 heures.  On peut mettre comme ça.  Je pense qu'on va en faire un pour le test, c'est bien.  Titres de contrats... Moi, en fait, je prends tout.  
+
+Speaker1: D'accord.  
+
+Speaker0: Parce que moi, je ne fais pas de contrat avec mes clients.  Je ne fais pas signer de contrat.  Je veux vraiment que mon client soit libre.  C'est juste un ménage ponctuel ou occasionnel.  Je ne veux pas qu'il se dise, j'ai signé avec cette personne, je suis bloqué pour six mois et là, j'ai perdu mon travail.  qui se disent qu'il y a des conditions pour résilier.  
+
+Speaker1: D'accord.  
+
+Speaker0: Descriptions, ce n'est pas nécessaire.  Tu peux me refaire un employeur.  Je suis obligée de mettre quelque chose au hasard.  Hop, au moins pour compléter.  Et ça, on va mettre une date au hasard.  Allez, on va dire que je l'ai aujourd'hui.  Ouais, bon, du coup, en fait, on ne peut pas.  Allez, ça va.  On l'offra plus tard.  Donc là, offre d'emploi.  Bon, déjà, c'est bien.  Ça indique la cliente, la prestation recherchée.  
+
+Speaker1: D'accord.  
+
+Speaker0: Donc, samedi, c'est à Paris, donc c'est sur la ville exacte de mon lieu d'intervention.  Ça indique la date, les jours souhaités.  Après, je trouve que ce serait de dire est-ce que c'est occasionnel, est-ce que c'est récurrent ?  Parce que là, on voit Mme Dupont, elle dit que le lundi et le jeudi, mais on ne sait pas si c'est….  Pour moi, la logique veut que ce soit deux fois par semaine.  
+
+Speaker1: D'accord.  Mais pour vous, qu'est-ce qui serait mieux ?  Qu'est-ce qu'on pourrait améliorer ?  
+
+Speaker0: En fait, proposer au client s'il veut un ménage occasionnel ou régulier.  
+
+Speaker1: D'accord.  
+
+Speaker0: Parce que Mme Dupont, elle peut vouloir le lundi et jeudi chaque semaine sur la durée ou dire qu'il ne faut que cette semaine, le lundi et jeudi, après j'ai fini.  
+
+Speaker1: D'accord.  
+
+Speaker0: Donc qu'on soit informé si c'est occasionnel ou régulier.  
+
+Speaker1: D'accord.  Et mis à part cette information-là, qu'est-ce que vous pensez de cet écran et de la carte sur Jeanne Dupont ?  Est-ce que pour vous, vous avez toutes les informations pour vous projeter ?  Est-ce qu'il y a des endroits, des informations qui viennent à manquer ?  
+
+Speaker0: Oui, peut-être le nombre d'heures.  
+
+Speaker1: D'accord.  Donc, le nombre d'heures que Mme Dupont va… dont elle va avoir besoin, qu'elle va proposer.  
+
+Speaker0: Par exemple, moi, là, imaginons le lundi matin, par exemple, j'ai des clients.  Je fais deux heures de ménage.  Pour pouvoir répondre à Mme Dupont, j'ai besoin de savoir….  Si c'est juste une heure ou deux heures, si je peux lui dire, c'est bon pour moi le loan, valider l'offre pour le loan, parce que je sais que j'ai le temps d'enchaîner avec elle, ou pas.  
+
+Speaker1: D'accord.  J'ai une question pour vous, si on va un peu plus loin.  Selon vous, le contrat ou l'interaction que vous allez avoir avec Madame Dupont, est-ce que c'est quelque chose qui peut être ponctuel?  et donc qu'elle fasse appel à vous une fois et ensuite c'est terminé ?  Est-ce que vous pensez que c'est une relation long terme qui va se créer ?  
+
+Speaker0: Moi, de mon côté, par rapport à mes clients à l'heure actuelle, ils sont très contents de mon travail, donc je pense que en faisant bien mon travail, en ayant un bon relationnel avec Madame Dupont, oui, ça peut durer.  
+
+Speaker1: D'accord.  
+
+Speaker0: Après, en fait, c'est à moi, voilà, en tant que professionnelle, de lui montrer mes compétences, de lui montrer que je fais ce qu'elle attend de moi pour qu'elle soit satisfaite et de vouloir continuer avec moi.  
+
+Speaker1: D'accord.  
+
+Speaker0: Est-ce que c'était ça la question ?  
+
+Speaker1: Oui, en partie, oui.  Mais c'est vrai que pour nous, ce qui est intéressant de comprendre du fait d'avoir, je veux dire que c'est des offres d'emploi pour des métiers, pour des emplois qui sont très variables entre aide ménagère, assistant de vie auxiliaire, garde d'enfant, etc.  En fait, c'est des métiers qui peuvent être assez différents les uns les autres.  Mais là, on les regroupe tous sous la bannière d'offre d'emploi.  Et donc, peut-être que pour vous, par rapport à votre activité ou métier que vous pratiquez, peut-être que ça a un sens différent.  Et ce qui m'intéressait de savoir, c'était effectivement si pour vous, dans votre tête, c'est quelque chose qui s'inscrit dans le long terme ou si c'est plutôt « Madame Dupont va faire appel à vous une fois et vous allez faire une petite mission et puis après, vous allez continuer à en chercher d'autres, etc.  ».  Vous vous dites qu'avec une personne qui publie un offre d'emploi, ça va être une relation longue ?  
+
+Speaker0: Moi, je me dis que déjà, par rapport à ce que vous expliquez, dans l'offre d'emploi, il y aura un peu tous les domaines.  Je trouve que ce n'est pas gênant parce qu'après, nous, on va prendre l'offre qui correspond à notre domaine.  Après, par rapport à l'offre d'emploi, si elle est occasionnelle ou occasionnelle, ça n'empêche pas à côté de répondre à d'autres offres pour compléter.  Après, oui, le souhait, c'est que ce soit régulier, mais après, on s'adapte par rapport aux demandes des clients, par rapport aux offres d'emploi, par rapport à son agenda.  D'accord.  En tout cas, moi, là, si l'application sera sortie... même si je vois plein d'offres qui ne correspondent pas à mon domaine, pour moi, ce n'est pas gênant.  Pour moi, je regarde les offres qui me correspondent.  Si je suis disponible aux dates demandées, je réponds à l'offre.  Et si malheureusement, je ne suis pas disponible, je n'y réponds pas.  Je sais qu'il y aura sûrement d'autres personnes qui pourront y répondre.  
+
+Speaker1: D'accord.  
+
+Speaker0: Ok, mais c'est très... Après, je viens, on m'empêche aussi, par exemple, si quelqu'un a déjà répondu, comme je fais actuellement, par exemple, sur Allo Voisin ou autre, de quand même postuler pour l'offre et que la dame ait plusieurs profils, plusieurs réponses, après, à elle de voir si elle souhaite répondre à mon profil ou au profil de la colle.  
+
+Speaker1: Ok.  
+
+Speaker0: En tout cas, pour la page que j'ai devant les yeux, à part les deux choses que je vous ai dit, il n'y a rien de particulier.  
+
+Speaker1: C'est clair.  Ok.  C'est super intéressant.  En tout cas, encore une fois, merci pour votre temps et pour tout ce que vous nous dites.  C'est précis et ça nous aide beaucoup.  Très bien.  Il se trouve qu'il n'y a qu'une offre.  J'allais vous poser la question, qu'est-ce qui vous attire dans une offre ?  Il n'y en a qu'une.  À présent, on va imaginer que vous avez observé l'écran et que vous avez repéré l'offre de Jeanne Dupont.  C'est quelque chose qui vous intéresse et vous souhaitez postuler auprès de Mme Dupont.  Si vous allez sur la fiche de Mme Dupont, À nouveau, on va prendre un temps pour observer, que vous puissiez verbaliser les informations, identifier les éléments qui fonctionnent, les éléments qu'on va devoir revoir parce que ce n'est pas clair, et donner l'indication de si vous êtes en confiance pour postuler ou si vous n'avez pas confiance ou vous hésitez.  Qu'est-ce qui vous fait hésiter ?  
+
+Speaker0: Là, je remarque finalement que la fréquence est liée.  J'ai les infos, c'est tout clair.  Je vois que dans les tâches, elle veut les trois tâches, ménage, repassage, entretien, donc je sais à quoi m'attendre.  La fréquence est bonne, date de début, c'est bon.  Là, elle dit bien qu'elle veut lundi, jeudi, matinée, Donc, je pense qu'on la contactant, on peut se mettre d'accord sur une heure, sur une plage ouverte.  Donc, je pense que c'est déjà disponibilité lundi, jeudi matiné.  C'est très bien, comme ça, ça laisse la liberté aux professionnels de contacter la personne et de convenir en commun de la plage horaire.  
+
+Speaker1: D'accord.  
+
+Speaker0: Ça va.  
+
+Speaker1: D'accord.  Et concernant la distance par rapport à cette offre d'emploi ?  
+
+Speaker0: Par rapport à la distance, j'habite Paris.  C'est super.  sur Paris.  Après, peut-être que la cliente pourrait mettre son adresse exacte au pire.  
+
+Speaker1: D'accord.  
+
+Speaker0: Je pense que ça va être fait vu que moi, j'ai pu rentrer une adresse.  Mais voilà, être renseigné de l'adresse, par exemple, je ne sais pas, moi, j'habite à un point, savoir combien j'ai de temps, pour aller chez la cliente.  Après ça, on peut toujours le demander à la cliente.  Ce n'est pas un problème en soi.  Mais ce que je veux dire, par exemple, je ne sais pas moi, mes clients actuels, ils habitent aussi Saint-Prier comme moi.  Je leur ai demandé l'adresse.  Comme ça, je sais.  Moi, je suis à 5 minutes à pied.  Je connais l'adresse.  Je connais le temps de trajet.  Donc, si jamais c'est une cliente à mettre juste après mes autres clients, je peux dire, voilà, de chez mes clients, je suis allé à 10 heures.  De chez mes clients à chez vous, j'ai tant de temps de trajet.  Donc, je peux vous proposer d'arriver, de commencer à telle heure.  
+
+Speaker1: D'accord.  
+
+Speaker0: Donc, ça, voilà.  Moi, je m'organise.  parce que si jamais entre temps on va dire j'ai une autre emploi que j'accepte aussi je peux m'organiser entre chaque client dire voilà lui il est à tel endroit.  le deuxième que j'ai en contact il est à l'autre bout de la ville et le troisième qui s'est rajouté il est au milieu.  au lieu de faire on va je peux m'organiser et dire je commence par le premier lui il est plus proche donc je peux aller à lui et finir par celui qui est le plus loin.  d'accord c'est pour ça que tout à l'heure j'ai vu qu'on peut rentrer son adresse précise.  mais voilà que la géolocalisation de l'adresse c'est important pour que nous on puisse savoir voilà et déléger pour faire le trajet entre deux.  
+
+Speaker1: D'accord.  Ok, c'est bien compris.  
+
+Speaker0: Est-ce que c'est ce que vous attendiez ?  
+
+Speaker1: Alors, je n'attendais pas forcément de réponse particulière.  Enfin, on ne coche pas des cases, mais en tout cas, c'est intéressant parce que chaque conversation qu'on a avec les différentes personnes qui font l'exercice, chacun a sa vision, a son contexte.  à ces critères de sélection, et donc c'est ça qui rend l'exercice très intéressant et riche, parce que pour vous, effectivement, typiquement, je vous donne un exemple, dans les personnes qui vont être plutôt dans des types d'auxiliaires de vie, des aides, des assistantes de vie, en fait, on sent qu'elles sont plutôt dans une recherche de la création d'une seule relation entre le particulier et l'employeur.  sur le long terme, Là où vous, c'est intéressant parce que vous nous parlez de clients et donc d'en sélectionner, de postuler, de travailler chez plusieurs clients.  Et là, comme vous nous le dites, de pouvoir, via la géolocalisation, organiser votre planning en travaillant, en enchaînant plusieurs missions successives qui vont être calées dans votre planning.  Donc, en fait, on est sur des contextes et sur un mode de fonctionnement qui est vraiment différent.  C'est ça qui... C'est ça qui rend l'exercice complexe, mais en même temps, très intéressant pour nous.  
+
+Speaker0: Moi, après, mon but, oui, c'est d'avoir des clients réguliers.  
+
+Speaker1: Bien sûr.  
+
+Speaker0: Oui, de dire, tiens, lundi, je vais chez Mme Dupont à telle heure.  Après, je vais chez Mme Dumas.  Oui, j'aimerais avoir des clients réguliers.  Mon agenda de la semaine, il est complet.  J'ai mes clients réguliers.  Mais après, imaginons un jour... Madame Dumas me contacte en me disant je suis malade.  la prestation de 9h à midi elle est annulée parce que je ne peux pas.  je peux toujours avoir une offre d'emploi pour un ménage occasionnel et dire ce que j'ai perdu avec Madame Dumas parce que malheureusement elle est malade.  je peux le récupérer avec un ménage occasionnel.  
+
+Speaker1: Par rapport à ces questions liées à l'organisation de votre planning, qu'est-ce que vous pensez si vous pouviez organiser votre planning dans cette application ?  Pour vous, est-ce que ça aurait du sens ?  Ou est-ce que ça ferait doublon avec un autre outil que vous utilisez ?  Qu'est-ce que vous en pensez ?  
+
+Speaker0: Alors, moi, je n'utilise aucun outil actuellement.  En fait, je vais sur mon agenda via mon portable.  
+
+Speaker1: D'accord.  
+
+Speaker0: Je trouve qu'avoir géré mes interventions via l'application, ça serait beaucoup plus pratique.  
+
+Speaker1: D'accord.  
+
+Speaker0: Au moins, au lieu d'aller à mon agenda, parce que du coup, moi, j'ai mon agenda, mais je note sur mon frigo aussi pour mon mari qui sache quand je travaille et tout.  Là, avoir l'application, ça m'éviterait d'avoir 10 000 agendas, on va dire, enfin 10 000... noté à un petit versant droit et au moins, l'application me ferait gagner du temps et de l'organisation.  
+
+Speaker1: Ok.  À présent, si vous êtes dans une posture, si vous avez fait votre choix, est-ce que vous pouvez envoyer votre candidature à Madame Dupont ?  
+
+Speaker0: Le message d'accroche, je trouve qu'il est bien.  Après, ce n'est pas quelque chose sur lequel je vais m'arrêter parce que moi, j'aime bien personnaliser mes messages.  Je n'utilise pas forcément à chaque fois les messages qui sont déjà prêts.  
+
+Speaker1: D'accord.  
+
+Speaker0: Mais Ce n'est pas un problème.  Pour quelqu'un qui n'a vraiment pas le temps, je trouve que le message est clair.  Ça incite le client à valider la prise de contact et à revenir vers le professionnel.  Je trouve que ce message-là est très bien fait.  D'accord.  C'est clair.  Tout est bon.  
+
+Speaker1: Très bien, mais je vous invite à envoyer.  Très bien.  À présent, qu'est-ce que vous comprenez alors de cet écran?  ?  
+
+Speaker0: Là, en fait, je comprends cet écran que ça propose d'envoyer une flotte profil pour que le client puisse mettre... une image sur notre tête pour qu'il puisse savoir à qui il a affaire.  
+
+Speaker1: D'accord.  Et c'est la photo, c'est vous qui l'envoyez ou c'est la personne en face qui la met en ligne ?  
+
+Speaker0: Ah non, c'est moi qui la mets.  
+
+Speaker1: D'accord.  
+
+Speaker0: Très bien.  C'est clair, c'est marquant.  On peut aussi ajouter une photo de vous.  Moi, c'est ce que je fais.  J'ai une photo de moi et c'est vrai que passer... C'est plus sécurisant et plus agréable pour le client de savoir à qui il va avoir affaire.  
+
+Speaker1: D'accord.  
+
+Speaker0: La photo, on la mettra plus tard.  
+
+Speaker1: Et donc là, vous êtes à quel endroit ?  
+
+Speaker0: Sur le message, la candidature de Mégane Raoult.  Bonjour, je suis intéressée par votre annonce.  Je souhaiterais échanger avec vous pour savoir plus sur vos besoins.  ça reprend le message qui était fait automatiquement.  ça indique à la cliente mon tarif horaire qu'elle est dans ma zone au moins.  la cliente sait à quoi s'attendre déjà.  elle sait que je suis proche de chez elle et elle connait mes tarifs.  donc là elle peut avoir par exemple 4 messages ouais un qui est à 22 euros, on va dire un qui est à 25, parce que j'ai un qui est à 25, et un, par exemple, qui va se mettre à 15.  Donc là, au moins, la cliente a le choix de dire celui-là me convient mieux par rapport aux tarifs horaires, donc je vais aller là-dessus.  
+
+Speaker1: D'accord.  Et le fait d'être dans une interface de messagerie, qu'est-ce que vous en pensez ?  
+
+Speaker0: Je trouve que c'est bien fait déjà et c'est bien parce qu'on peut échanger avec la cliente.  On n'est pas obligé d'avoir directement les coordonnées.  On peut échanger avec la cliente dans un premier temps, dire voilà, moi, je vous propose ça.  
+
+Speaker1: D'accord.  
+
+Speaker0: Et par la suite, dire je vous propose un rendez-vous.  Dans ces cas-là, on donne nos coordonnées.  La cliente n'est pas obligée de tout d'un coup envoyer un numéro.  Et là, elle est libre.  
+
+Speaker1: D'accord.  
+
+Speaker0: C'est sécurisant pour la client.  
+
+Speaker1: D'accord.  
+
+Speaker0: Là, je pense que c'est bien fait, oui.  
+
+Speaker1: OK.  Qu'est-ce qui, selon vous, manquerait à cette étape-là ?  Vous avez postulé, vous avez envoyé votre candidature, vous êtes dans l'écran de messagerie avec Mme Dupont.  Qu'est-ce qui pourrait vous manquer là pour aller plus loin ?  Qu'est-ce que vous imaginez faire derrière ?  
+
+Speaker0: Moi, pour l'instant, il ne me manque rien.  
+
+Speaker1: D'accord.  
+
+Speaker0: Ce qui me manquerait, ce n'est pas vous, ce n'est pas l'application en elle-même.  
+
+Speaker1: D'accord.  
+
+Speaker0: C'est que la cliente réponde et qu'on se mette d'accord ou pas d'échanger les coordonnées ?  pour pouvoir dire si jamais il y a un moment où je vais être en retard, au lieu de forcément passer par l'appli, que je puisse appeler directement, dire je vais avoir 5 000 de retard ou je ne sais pas.  Mais là, c'est bien, c'est sécurisé parce qu'il n'y a pas le numéro de téléphone, etc.  Il n'y a pas un numéro de téléphone comme ça.  Je trouve qu'un premier contact via la messagerie de l'appli, c'est très bien.  Là, c'est clair pour la cliente, autant pour elle que pour moi, ça me dit ce que j'ai envoyé.  Je ne vois rien de particulier à ajouter ou à retirer.  
+
+Speaker1: D'accord.  C'est top.  Donc, on est arrivé au bout de notre aventure.  Très bien.  Il nous reste encore quelques minutes.  Si vous voulez, on peut prendre quelques minutes pour faire un petit débrief ensemble ?  Donc, si vous repensez à tout ce que vous avez parcouru depuis le moment où on a tenté notre partage d'écran, jusqu'à cet écran de messagerie, si vous deviez résumer votre expérience en un mot ou en une phrase courte, qu'est-ce que ce serait, de manière très honnête ?  
+
+Speaker0: Moi, je trouve que l'application est très bien développée.  Je trouve qu'elle est claire.  Là, par exemple, je vais revenir à l'accueil.  on a le strict minimum qu'on a besoin.  
+
+Speaker1: D'accord.  
+
+Speaker0: Donc, on peut revenir à l'accueil, on peut aller sur offre d'emploi, messages, etc.  Je trouve qu'elle n'est pas surchargée, l'application.  
+
+Speaker1: D'accord.  
+
+Speaker0: Après, comme je l'ai dit, par rapport à l'offre d'emploi, voilà, justement, il y a une localisation pour pouvoir voir la distance.  
+
+Speaker1: D'accord.  
+
+Speaker0: Et rajouter... Sur l'offre d'emploi, quand on clique dessus, on voit que c'est régulier, mais ça serait bien de l'avoir sur l'offre avant de cliquer dessus.  Mais sinon, c'est une application qui donne envie, qui est très claire.  Moi, j'en serais contente.  Je crois que vous avez fait de très bons travails.  C'est une application difficile à utiliser.  
+
+Speaker1: Et qu'est-ce qui vous a le plus plu parmi tout ce que vous avez pu voir ?  
+
+Speaker0: Ce qui m'a le plus plu, c'est quand on clique sur offre d'emploi, c'est vraiment tout détaillé.  On sait à quoi s'attendre, on sait ce qu'elle veut, et quand elle souhaite commencer.  Quand on va prendre contact avec Mme Dupont, on n'a pas besoin de tout lui faire répéter.  On le voit là.  J'ai connaissance.  de votre demande, ce que vous souhaitez, les dates, les jours, moi, ça me convient.  Maintenant, ce que j'ai besoin de voir avec vous, c'est les heures.  
+
+Speaker1: D'accord.  Et à l'inverse, qu'est-ce qui vous a le moins plu ?  
+
+Speaker0: Ce que je vous ai dit, la localisation pour qu'on soit à distance.  C'est ça qui manque.  Et le fait si c'est régulier ou pas.  Enfin, ce n'est pas que ça ne m'a pas plu, c'est juste que je trouve qu'il manque ça, que ce soit affiché dès la première page qu'on voit, au lieu de devoir systématiquement cliquer sur l'offre.  
+
+Speaker1: D'accord.  
+
+Speaker0: C'est juste ça, moi, je trouve.  
+
+Speaker1: Ok.  Et est-ce qu'il y a un moment où vous vous êtes sentie perdue ou frustrée ?  
+
+Speaker0: Non, non, pas du tout.  Non.  Après, voilà, j'ai cliqué sur offre, là, il y a tous les détails.  Donc, je sais à quoi m'attendre.  
+
+Speaker1: D'accord.  
+
+Speaker0: Donc, à moi, voilà, de répondre favorablement ou pas à l'offre, à moi de choisir, de prendre contact ou pas.  
+
+Speaker1: Et si à présent, vous avez une baguette magique et que vous pouviez changer une seule chose, là, dans l'immédiat, qu'est-ce que ce serait ?  
+
+Speaker0: Moi, j'ai la priorité, c'est la zone géographique, de savoir la distance entre ma cliente et moi.  
+
+Speaker1: D'accord.  
+
+Speaker0: C'est ça, en fait, la priorité, je dirais.  Parce que du coup, oui, quand je clique sur  
+
+Speaker1: offre,  
+
+Speaker0: ça me met bien que c'est à Paris, mais du coup, je dois demander à la dame, même si elle ne met pas le numéro exact parce qu'elle n'a pas envie, elle a peur, mais au moins avoir le nom de la rue.  
+
+Speaker1: Et parce que vous... En fait, si vous aviez le nom de la rue, qu'est-ce que vous feriez ?  
+
+Speaker0: Je pourrais calculer la distance.  On va dire, là, aujourd'hui, je ne travaille pas.  La dame, elle a besoin de quelqu'un occasionnel dans une heure, on va dire.  Là, je peux contacter la dame.  Déjà, je vois... elle souhaite m'attiner.  
+
+Speaker1: OK.  
+
+Speaker0: Si elle, on va dire, 20 minutes de chez moi, je peux dire, hop, c'est bon, je peux être là à telle heure.  Donc, je contacte la dame.  Je lui dis, moi, votre offre, je peux y répondre favorablement.  Je peux être chez vous dans tant de temps.  
+
+Speaker1: OK.  Est-ce qu'il y a un endroit, juste pour finir, sur l'écran qui vous donne l'indication d'une distance ?  
+
+Speaker0: Oui, en haut, il y a marqué 0 km, parce que c'est marqué Paris, comme sur la simulation.  Donc ça, c'est bien.  Mais c'est vrai que s'il y avait mon adresse plus, on va dire, la rue de la cliente, là, ça afficherait, par exemple, je ne sais pas, 3 km.  
+
+Speaker1: Ça me permettrait de m'organiser,  etc.,  D'accord, tout en sachant que vous lancez l'itinéraire derrière, de votre côté, en dehors de l'appli.  
+
+Speaker0: En dehors de l'appli, ça dépend.  Si je connais la rue, je sais combien de temps, donc il n'y a pas de souci.  D'accord.  Pour quelqu'un qui ne connaît pas, oui, il devra lancer un GPS en dehors de l'appli.  
+
+Speaker1: Oui.  Ok.  Écoutez, Mégane, on est arrivé au bout.  
+
+Speaker0: Très bien.  
+
+Speaker1: On est arrivé au bout et avec Thomas, en tout cas, on voulait vous remercier chaleureusement pour le temps que vous nous avez accordé.  
+
+Speaker0: Je vais quand même retirer le partage pour dire au revoir.  Oui.  Ah, il s'est remis.  
+
+Speaker1: Ah, ça y est.  
+
+Speaker0: Je veux remercier, en tout cas, SINAPI qui donne envie de l'installer, qui donne envie de travailler avec nous.  Moi, en tout cas, c'est ce que je recherche.  
+
+Speaker1: D'accord.  Écoutez, c'est super parce que nous, ça va vraiment nous aider à affiner précisément certains points.  On ne garantit pas qu'on va tout prendre en compte et qu'on va tout mettre à jour, mais au moins, les points précieux, on va essayer de les adresser.  Et est-ce que vous seriez éventuellement intéressés pour qu'on refasse un échange peut-être dans les trois mois qui viennent pour vous repartager une nouvelle version et vous re-questionner ?  
+
+Speaker0: Oui, il n'y a pas de souci.  On reste en contact.  Vous me tenez au courant si vous avez besoin.  Il n'y a pas de souci.  
+
+Speaker1: D'accord.  Ok.  Écoutez, super.  Merci beaucoup encore, Morgane.  Et à la prochaine alors.  Merci.  
+
+Speaker0: À la prochaine.  Merci.  
+
+Speaker1: Au revoir.  Au revoir.  

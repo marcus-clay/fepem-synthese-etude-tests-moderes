@@ -1,0 +1,54 @@
+# Affiner le ciblage vers les missions courtes.
+
+> Date : 03 février 2026, 10:33
+
+> Durée : 00:08:58
+
+
+## Résumé succinct :
+
+L'application est adaptée aux prestataires enchaînant les missions courtes, mais pas à ceux cherchant une relation de confiance à long terme. Un choix stratégique de cible est donc nécessaire.
+
+## Retranscription :
+
+Speaker1: bah ouais voilà quand la technologie fonctionne ça fonctionne.  
+
+Speaker0: ah ouais par contre elle était tellement à l'aise avec l'app c'est ouf ouais elle a même commencé à compléter toute seule les trucs obligatoires tout ça je pense qu'il y a ce que j'analyse je pense que tu l'as en tête aussi.  
+
+Speaker1: mais en fait avec les On ne s'adresse clairement pas à des profils équivalents sur les attentes et sur le parcours et la recherche.  Parce que là, la nana, elle nous parle de halos voisins, elle a déjà les groupes Facebook, elle est déjà habituée aux petits services, elle enquille les prestations.  Donc, en fait, elle va postuler à 4, 5 personnes, elle va se faire son planning et puis elle va enchaîner sans forcément avoir de contrat.  Donc, c'est... On est vraiment dans un mode client-fournisseur, qu'elle a répété d'ailleurs plusieurs fois, mes clients, mes clients, mes clients.  En fait, l'application s'adresse à plein d'usagers qui ont des attentes différentes.  Et typiquement là, l'ergonomie, toute la UI, tous les signaux, les patterns, les applications de service, ça a fonctionné très bien et elle s'est sentie... Comme à la maison, direct, ça fonctionne bien, je comprends très bien.  Je pense que le sujet de la localisation, on l'a répété plusieurs fois, parce que comme c'était fake et qu'on ne pouvait pas vraiment renseigner d'adresse précise, on n'a pas eu la perception de 1,2 km.  
+
+Speaker0: J'ai noté quand même un truc qu'elle disait, c'était aussi pouvoir finalement... peut-être avoir une forme de cartographie de tous ses clients.  Comme ça, elle peut faire son itinéraire, bien organiser les jours.  En plus, elle est à pied.  Donc, pareil, tu vois, se dire qu'en fait, le temps de trajet, parce que c'est bien le kilomètre.  En fait, 3 km en voiture, 3 km à pied, ce n'est pas la même chose.  Ou 3 km en bus, ce n'est pas la même chose en termes de délai, etc.  Donc, pareil, je trouve que cette notion est intéressante quand même.  J'ai noté.  Mais oui, en fait, et je l'avais bien en tête.  On a plus ou moins copié des trucs comme Allo Voisin, Ujo,  etc.,  des trucs de prestataire, client, service un peu one-shot, mais un peu simple.  Donc, ça marche bien pour ce genre de profil.  A contrario, pour des trucs où beaucoup plus de relations de confiance,  etc.,  là, ce n'est pas du tout adapté.  
+
+Speaker1: Exactement.  Parce qu'on n'a pas les codes du... du contrat long terme, de la mise en relation, pourquoi pas, ça me fait penser là, pourquoi pas démarrer une visio avec la personne pour la première fois, apprendre à se connaître, même clarifier dans les étapes du processus la phase d'apprendre à se connaître, la phase du premier contact, la phase du premier échange ?  pas tout ce qui va créer ce climat de confiance dans lequel on va s'engager sur une relation long terme, potentiellement monorrelation.  J'en ai qu'un, j'ai qu'un employeur pendant six ans parce que je vais m'en occuper matin, midi et soir parce que je vais être à ses côtés, parce que ça va devenir un monde de ma famille.  Là où ce qu'on a perçu là, c'est que Mégane est dans une recherche d'enchaîner les clients et plus on peut en faire, plus elle peut encaser dans son planning dans la semaine, mieux elle se porte parce qu'elle a le mieux elle fait son chiffre.  
+
+Speaker0: Pour te dire d'autres éléments sur la partie assistant de vie, ils ont souvent plusieurs PE, parce qu'ils ne peuvent pas faire tout avec un, mais malgré tout il y a ce truc beaucoup plus relationnel, qu'il peut y avoir plus que sur des prestations de ménage où je pense qu'il y en a qui attendent aussi.  ça.  on l'a vu hier avec Véronique.  mais bon Véronique c'est un peu biaisé.  elle est aussi dans le truc de la FEPM l'idée de confiance et tout.  mais je pense que c'est ce qu'elle attend quand même malgré tout et à contrario je prends l'exemple moi de mes parents qui ont déjà pu employer une aide ménagère parce qu'en fait ils ont eu des chèques césus ils savaient pas trop quoi en faire.  ils se sont dit bah tiens ça va être cool.  Bon, la relation, il s'en foutait un peu du moment qu'elle faisait bien son travail.  En plus, pour te donner le contexte, c'était une portugaise, elle ne parlait pas forcément très bien français.  En fait, il n'y avait pas plus de relation que ça.  Voilà, juste elle faisait son travail et ensuite, bonjour, au revoir et voilà.  Donc, je pense qu'il y a les deux, en fait, clairement.  Et pour le SPE et pour le PE, pareil, il ne faut pas non plus oublier, on vend un truc de confiance, mais à voir si nous, du coup, on cible que ça.  Et donc, du coup, il y a peut-être une partie de certains qu'on ne pourra pas vraiment cibler.  Je pense à du bricolage, des déménagements, des trucs comme ça, ce n'est peut-être pas finalement notre cible.  Donc, voilà, c'est aussi prioriser là-dessus.  Je pense que c'est des éléments qu'on peut avoir en tête pour leur partager.  En fait, Je sais qu'ils ont l'idéal d'être universalistes, la FEPM, mais attention à ce qu'on parle bien aux bonnes personnes et que ça corresponde aussi à la mission qu'on a derrière.  
+
+Speaker1: Exactement.  Et que si on ne s'adresse pas en priorité aux petits services, aux bricoleurs et au personnel de ménage qui enchaînent les missions, ce n'est pas grave, on fait un choix.  Mais par contre, c'est comment, à l'inverse, la relation longue, tout le contexte, le confort, le lien, prolongation de soi-même, la création du lien, la relation long terme, comment on la crée, comment on pave the way, comment à chaque étape on crée le climat, on crée les outils ?  pour faciliter la création du contrat, pour faciliter la mise en relation, se voir, apprendre à se connaître et créer la confiance.  Parce que ce n'est pas juste de la mise en relation.  Là, en l'occurrence, c'est plus de la mise en relation pure et dure.  
+
+Speaker0: Disons que c'est accessoire finalement qu'il y ait une relation avec le PE.  Oui, évidemment, elle aimerait,  etc.,  Mais en soi, ce qu'elle veut, c'est finalement booker son planning pour avoir sa paye, ce qui est aussi normal, clairement.  Ce qui est bien, c'est qu'on a eu quand même beaucoup ces retours-là de la part des SPE.  Chaque SPE est un peu dans ce truc-là qu'on a eu.  Après, c'est aussi parce qu'ils n'ont pas forcément de trucs très bookés aujourd'hui.  Mais malgré tout, c'est quand même leur objectif principal à la base.  On book d'abord et ensuite, on pense au relationnel en réalité.  
+
+Speaker1: Exactement, oui.  
+
+Speaker0: Et bon, c'est logique.  
+
+Speaker1: Mais c'était super intéressant.  Et ça faisait du bien d'avoir un test fluide bouclé en 56 minutes.  Pas de souci.  
+
+Speaker0: Les prochains devraient être plus simples aussi.  On est avec les gens de la FEPM, ça devrait être un peu mieux.  
+
+Speaker1: Quoique, le genre de la FEPM est exigeant.  
+
+Speaker0: Oui, bien sûr.  Juste pour prévenir, il y en a une l'après-midi.  Elle est du marketing, elle a déjà testé là.  C'est quand même pour info qu'elle a déjà navigué dedans, etc.  OK.  Voilà.  
+
+Speaker1: OK.  
+
+Speaker0: Sinon, les deux autres n'ont pas navigué dedans, normalement.  
+
+Speaker1: D'accord.  
+
+Speaker0: J'ai deux questions pour toi, j'en profite.  Look back, on est d'accord qu'il faut les participants pour demain ?  Les 20 sites là, ce serait idéal ?  
+
+Speaker1: Ce serait bien.  Maintenant, je me disais aussi, on pourrait en lancer une première vague de 4-5, déjà pour activer la chose.  Mais dans l'idéal, ce serait de tous les avoir, comme je le disais dans le mail, pour être bien dans le planning et tout.  Tu vois, si on peut faire... Ok.  Ok.  Comme ça, on est bon dans les temps et tout.  Ouais, très bien.  Et donc, justement, tiens, attends, je vais juste prendre mes notes.  Attends.  
+
+Speaker0: J'ai une autre question pour toi, je ne me souviens plus, mais tu me diras après.  
+
+Speaker1: Ok, tac, oui.  Alors, attends, je vais couper, hop, comme ça.  

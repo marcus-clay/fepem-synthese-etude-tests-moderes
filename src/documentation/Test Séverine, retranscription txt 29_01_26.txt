@@ -1,0 +1,594 @@
+Test Séverine, retranscription txt 29/01/26
+
+> Date : 29 January 2026, 16:42
+
+> Duration : 01:33:10
+
+
+## Brief summary :
+
+A user tested a new home care app, providing critical feedback. They identified confusing workflows, unclear job categories, and terminology that misaligned with their real-world needs and experience.
+
+## Transcript :
+
+Speaker0: Thank you.  Thank you.  Ahem.  hmm hmm Salut !  Ça va ?  Ouais, toi ?  Ouais, ça va.  
+
+Speaker2: J'ai eu le temps, je pense que t'as vu, de recontacter des petites personnes en plus, des SPE.  Attends, je te vois en noir et blanc.  
+
+Speaker0: Ouais, c'est ma caméra qui s'amuse à changer.  Hop, voilà.  
+
+Speaker2: j'espère alors il y en a une un peu dubitatif on verra.  je devais la rappeler pour installer puisque comme elle est sur iphone j'ai proposé qu'on se rappelle pour faire l'installation.  pas de réponse.  bon je réessaye demain on verra.  et de toute façon le plus important pour moi c'était surtout la deuxième qui était sur aide ménagère et là j'avoue que je prie tous les dieux pour que elle reste comme ça.  on a au moins deux salariés et un de chaque.  Ouais.  Au moins ça.  
+
+Speaker0: Bah ouais ouais.  Tu m'étonnes.  Bah je pour te dire moi j'ai avancé là j'ai euh j'ai putain mais ma caméra elle s'est abusée.  le attends je quitte la caméra je la relance parce que c'est ouf.  Attends hop.  Tu m'entends toujours ?  Oui, je t'entends.  Qu'est-ce que je vais dire ?  J'ai essayé de compiler toutes les notes, mis en ligne la vidéo pour qu'on puisse y accéder pendant un temps, plus faire un transcript de tous les textes de la vidéo, parce qu'on avait beaucoup parlé pendant la vidéo.  donc ça nous servirait bien de matière.  Et j'ai fait un rapport de synthèse pour le test de Kidisty.  Donc il est dans Kidisty.  En fait, je regroupe tout.  A la base, j'avais prévu de faire plusieurs dossiers, mais en fait, c'est plus simple de... Attends.  Ok, donc là, je reprends la cam.  Hop.  voilà ok.  donc là on a un rapport de synthèse et je vais travailler avec ce même template en adaptant PE et SPE.  mais on a tout là.  quoi avec tous les insights, des verbatimes les problèmes identifiés la synthèse exécutive les trois points clés à retenir si vous voulez déjà en communiquer auprès de votre décision.  Tu as trois points clés intéressants en synthèse à partager au tout début.  Tu as un rappel du contexte, la découverte majeure, ce qu'elle cherche vraiment, les problèmes identifiés écran par écran, les besoins réels de l'utilisatrice, ensuite la classification des insights.  à la fin et les opportunités et chantiers stratégiques pour la FEPM.  Donc, tu vois, typiquement...  
+
+Speaker2: Ah ouais, ouais, ouais, ok.  Gros travail.  Tu vois, donc pour que,  
+
+Speaker0: globalement, et ça, à la fin, on va faire la synthèse de tous et on va tous les compiler ensemble et on va faire un gros matching d'analyse pour se dire, voilà, en fait, en synthèse de cette étude, il y a, bah déjà, il y a le, je pense, le premier gros point qu'on a noté, mais c'est en gros... la relation transactionnelle entre l'humain et l'app ce n'est pas du tout le modèle mental de la personne qui elle est plutôt dans un pas dans un modèle transactionnel mais plutôt un modèle relationnel et qui elle va se mettre dans un rôle d'accompagnant très long terme.  donc elle a besoin de créer un lien fort elle a besoin de pas besoin de faire 50 choix.  en fait elle voit une mission qui correspond plutôt bien elle voit que la personne Elle est à peu près bien, elle n'est pas radicalisée, elle n'a pas de vue bizarre, tu vois, donc après elle se dit, c'est bon, moi je suis dispo maintenant, c'est parti, tu vois.  Donc voilà, franchement, il y a vraiment des trucs intéressants à apprendre.  Donc voilà, et puis voilà, on va faire la même...  
+
+Speaker2: Non, je dirais que c'était bien, et effectivement, ce qui est bien, c'est de pouvoir rentrer un maximum de détails, tu vois, toutes les mentions, tout ce qu'on observe.  
+
+Speaker0: tous les choses, les non-dits ou ce qu'on voit pas mais qu'on ressent nous et sur lesquels on a une sensation, qu'on a une conviction qui sort.  Il faut vraiment le dire et comme ça, ça nous permet d'adresser à la fois la partie conceptuelle du service par rapport à l'usager et en même temps ergonomie, IHM et concrètement correctif concret dans l'interface.  il y a ce double niveau qui est intéressant et le niveau supérieur de.  ah ouais en fait là c'est des personnes en précarité c'est ça qu'on doit en ressortir.  en fait c'est ça qui doit aussi que tu dois aller aussi challenger auprès des équipes marketing et tout c'est de dire la URL, le branding, l'illustratif ça on sait faire, c'est gratuit.  par contre le vrai enjeu c'est comment on Comment on arrive à faciliter la vie de ces personnes qui sont dans le besoin ?  En l'occurrence ici, elle est là depuis 6 mois, elle est toute seule, à Lognes, dans un truc tout paumé, elle n'a pas de taf, elle n'a pas de voiture et tout.  Comment on fait pour lui dire, vas-y, et en 5 minutes, ok, commence, et on gère la partie contractuelle, on automatise tout ça, et tu es sûr que la personne est qualifiée, enfin, elle est de qualité, donc tu peux y aller avec les yeux fermés, et c'est facile ?  C'est ça l'enjeu.  
+
+Speaker2: moins technique, moins rationnel on va dire presque du produit, c'était plus sur le côté humain finalement, du moins humain de la personne, où en fait tu te rends compte que ouais ok il y a des enjeux bien plus grands que ça.  finalement aujourd'hui peut-être à aller chercher, au lieu de se prendre la tête sur un bouton, sur de l'affichage en fait.  Disons que ça, ça va être des collatérales à un grand truc.  
+
+Speaker0: Exactement, et que le dispositif technique produit, il existe, et en soi... c'est pas, enfin à la limite c'est des apps natives, ça a été fait par une agence et tout.  donc à la limite ok c'est cool et potentiellement c'est peut-être jetable.  tu vois, ça se trouve même si ça sera peut-être 30 000 balles de gaspillés.  mais en fait si derrière il faut repartir avec une page web simple tu vois mais qu'on déploie plus de ressources sur les contacts téléphoniques, sur le système de mise en relation facilité sur le système de, je sais pas, vérification, conformité facile, sur, enfin, ça sera autant d'argent économisé et mieux réinvesti, quoi.  Parce que, et on l'a bien vu, mais c'était hyper intéressant de se dire, le modèle Yojo, il tue, en fait, quand t'es en mode petits travaux.  Moi, en deux minutes, j'ai pris la prestat, j'ai fait mon paiement Paypal, hop, c'était bon, c'était provisionné sur le compte, on s'est écrit avec le mec, il est venu, enfin, c'était ultra fluide.  Parfait.  Mais par contre, c'est un autre monde.  C'est un autre monde.  Non, on n'enchaîne pas l'émission.  Tu ne viens pas enchaîner l'émission.  Tu viens...  
+
+Speaker2: Il y a un salarié qui connaît l'app, avec un salarié qui parle bien français, là depuis longtemps, et sûrement aussi français, parce qu'on n'est pas sûr qu'elle est française.  C'est une carte, tu vois, de séjour ou un truc comme ça.  Donc, si ça fait six mois, il y a des chances, quoi.  Donc on est dans des mondes complètement différents en fait.  On est pas du tout à la même perte.  
+
+Speaker0: Et potentiellement elle a des choses qu'elle pourra peut-être pas dévoiler parce que c'est embarrassant, c'est gênant, parce que c'est l'intimité de la personne.  Je pense qu'il y a vraiment une carte à jouer là-dessus.  Se dire en sortie de tous ces tests, et franchement le dispositif qu'on est en train de construire là il est beau, ça montre vraiment qu'on peut arriver à sortir des informations qui sont hyper intéressantes à tous les niveaux, mais ça montre aussi que, comme moi je l'ai eu chez Banque des Territoires, comme je le vois de plus en plus sur les... les marketplaces.  Le côté, on va mettre le paiement facile, la mise en relation directe via SMS, tout ça.  Mais en fait, les gens, ils n'en sont pas là.  Les gens, ils ne sont pas dans le modèle.  j'ai une app, cool, ok.  En fait, non.  C'est pas comme ça.  
+
+Speaker2: En fait, on parle au culin.  C'est ça qui finalement, effectivement, sur de la facilitation bon à la limite tu peux aller chercher les gens dessus.  mais sur le relationnel enfin ne serait-ce que déjà nous là de se voir à distance comme ça et de se voir en réel c'est un on complètement différent.  et pourtant quand tu regardes la finalité est la même on se voit, on se parle mais en fait c'est pas du tout la même chose.  non, non non ça change tout quoi.  Est-ce que j'essaierais pas d'appeler Séverine ?  Oui !  
+
+Speaker0: C'est vrai qu'on n'est pas là jusqu'à minuit.  Je te rappelle qu'on a tous... Moi j'ai mes enfants, j'ai écrit à mes filles dans l'entrée, je leur ai mis des panneaux.  Je fais une interview avec une utilisatrice, soit dans la cuisine, soit dans votre chambre en silence, mais merci pour votre aide.  J'aurais mis un deuxième post-it dix mètres plus loin.  Avez-vous lu le mot dans l'entrée ?  Pour qu'il y ait pas de soucis.  
+
+Speaker2: Alors, Séphrine, elle est où ?  Ouais, je la trouve pas.  Allez, là.  Ok, je vais lui envoyer par SMS.  Je crois qu'il y a un pattern qui est en train de se faire.  Par contre, apparemment, elle a des petits problèmes d'internet, je crois, parce qu'elle m'a dit qu'elle avait des problèmes avec SFR.  
+
+Speaker0: Ah ben, c'est bien, ça nous fait un autre... Voilà.  
+
+Speaker2: Un autre mode... Est-ce que ça t'étonne ?  Moi, ça ne m'étonne pas.  
+
+Speaker0: Pourtant, j'ai SFR là, ça va.  On va voir si elle peut partager mais ça va être plan B.  
+
+Speaker2: Est-ce que tu voudras partager toi ton écran ou c'est moi qui partage l'écran et tu enregistres ?  
+
+Speaker0: On peut refaire comme tout à l'heure, moi je peux enregistrer avec QuickTime.  
+
+Speaker2: Ok.  Tu vérifies que le mythe ne fonctionne plus ?  
+
+Speaker0: Oh non, Thomas, ce n'est pas sérieux ça.  
+
+Speaker2: Le mythe, on est dessus, donc je ne vois pas comment il ne pourrait pas marcher.  
+
+Speaker0: Tu peux pas aller en phase finale de l'église champion avec des crampons en mousse.  
+
+Speaker2: Attends, regarde, je comprends pas là, qu'est-ce qu'il se passe.  Alors, allez, on essaie.  Il a l'air de fonctionner le lien.  Maintenant il faut que j'arrive à le copier.  Il a réussi ou pas ?  Copier.  Coller.  Là, ça devrait être bon.  Ah, ça y est, j'ai envoyé le bon lien.  Ça marche mieux.  Bonjour Séverine, vous avez votre micro coupé.  Si vous pouvez l'activer.  Ah, c'est bon.  Parfait, bonjour.  
+
+Speaker1: Oui, bonjour.  Ben voilà, c'est bon, nickel.  Ça ne fonctionnait pas, le premier lien.  Par contre, je suis sur données mobiles, je vais rester comme ça, je pense, parce que je crois que le réseau est mauvais pendant ma Wi-Fi.  
+
+Speaker2: On va vous partager l'écran, alors.  Comme ça, vous allez pouvoir regarder.  
+
+Speaker1: Moi, je suis vraiment bien malade depuis une semaine, donc c'est un peu compliqué.  
+
+Speaker0: Ok.  En tout cas, super.  Enchanté de vous avoir.  Merci pour votre temps, même si on voit que vous avez la gorge qui souffre.  
+
+Speaker1: j'avais plus de force.  voyez là vous avez de la chance.  ça fait une heure que j'arrive un peu à parler et à m'asseoir dans mon lit.  quoi faut voir les étapes dans lesquelles je peux être.  
+
+Speaker0: écoutez on remercie encore plus et on va essayer de l'objectif c'est vraiment de tenir en une heure max et de pas trop vous prendre de temps.  donc voilà en tout cas merci.  
+
+Speaker1: j'ai téléchargé l'application et du coup je me suis fait un profil parce qu'en fait on pouvait pas avancer.  donc fallait vraiment que je mette dorénavant fallait que je fasse une... Une annonce en réalité.  Donc j'ai fait une annonce en fait en mettant janvier 2027.  
+
+Speaker0: D'accord.  
+
+Speaker1: Comme j'avais dit à Thomas, c'est ça ?  
+
+Speaker0: Ouais, Thomas qui est là, ouais.  
+
+Speaker1: En fait, moi j'avais adhéré depuis quelques mois et je prenais des informations dans le projet de faire de l'emploi direct peut-être dans quelques mois ou voilà.  
+
+Speaker0: Ok, en tout cas c'est top déjà parce que vous avez pu installer l'appli et donc ça va nous faciliter la vie pour bien démarrer.  Avant de rentrer vraiment dans le vif du sujet de l'appli, rapidement donc déjà merci d'avoir accepté de participer.  Avec Thomas, on travaillait avec l'équipe de la FEPM dans une campagne de test, donc l'objectif c'est de rencontrer nos usagers ou nos futurs usagers, qu'ils soient particuliers, employeurs ou bien salariés et aides de vie par exemple.  Donc moi je suis Victor, je suis sur la partie UX, Thomas il est sur la partie design et donc on travaille à concevoir et lancer cette application qui va bientôt sortir en production la mi-février.  Et donc l'objectif c'est de pouvoir proposer une mise en relation entre les particuliers et les salariés de manière simple et facile au travers d'une app mobile.  Donc là, l'objectif, c'est que...  
+
+Speaker1: J'étais au courant qu'il y avait un... D'ailleurs, j'ai une auxiliaire de vie qui est assistante maternelle et j'en ai parlé et elle me disait qu'elle avait déjà une appli quand elle était à SMAT.  Là, je vois que vous avez la possibilité aussi, non ?  
+
+Speaker0: Oui, il y a aussi la possibilité pour les assistantes maternelles de se créer un compte et d'avoir accès aux candidatures et aux jobs possibles.  
+
+Speaker1: C'est pas qu'assistant de vie, alors ?  
+
+Speaker0: Oui, c'est ça.  C'est vraiment tous les métiers représentés.  et il y a les deux parties donc les profits employeurs et les profits salariés.  et donc là l'idée ça va être de passer une petite heure ensemble pour observer comment vous utilisez l'appli qu'est-ce qui vous parle, qu'est-ce qui selon vous est problématique, qu'est-ce que vous ne comprenez pas de façon à nous recueillir en fait de manière assez simple tous vos retours et ensuite d'améliorer l'appli.  donc l'étape de notre échange elle est super intéressante, elle est cruciale dans notre parcours.  donc c'est top Pour vous dire que...  
+
+Speaker1: D'accord mais comment je fais pour vous dire déjà là parce que j'ai pas testé en fait et comme je suis aussi sur le téléphone ?  
+
+Speaker0: Eh ben justement on va s'en parler tout de suite.  L'idée là c'est qu'on est dans un échange où on va vous demander de penser à voix haute pendant les scénarios que vous allez tester.  Vous allez pouvoir tester l'app et à chaque écran en fait on va vous demander de verbaliser et on va aussi vous poser des questions.  Quoi vous dire d'autre côté logistique ?  Donc on enregistre la session dans un but d'étude en interne pour nous.  Donc c'était déjà validé avec vous que vous étiez ok pour qu'on enregistre l'échange qu'on va avoir ?  ok cool merci attention à ce que je dis.  alors non mais après ça reste dans notre cadre entre guillemets interne et on a. enfin voilà c'est vraiment à nous pour améliorer le service.  donc tout ce que vous direz même en mal en mauvais sera retenu contre vous.  donc vous nous disiez que vous avez pu installer l'application sur votre téléphone.  c'est ça ok.  
+
+Speaker1: par contre il disait que c'était un que c'était malveillant, qu'il ne fallait pas l'installer, etc.  
+
+Speaker0: Ah d'accord.  
+
+Speaker2: Oui, alors c'est normal, c'est parce que comme c'est une application test, les téléphones ne sont pas forcément configurés pour installer ce genre d'application, mais c'est une version en fait encore en développement.  
+
+Speaker1: Oui, vous l'aviez mis dans le mail.  
+
+Speaker2: Ça peut arriver, tous les téléphones ne l'affichent pas, mais certains téléphones l'affichent effectivement.  
+
+Speaker0: Yes, donc voilà.  Je vais juste démarrer l'enregistrement.  Pour commencer, pourriez-vous faire un petit test pour nous partager l'écran de votre appli ?  Lancez l'appli et partagez votre écran dans le meeting, dans le call.  
+
+Speaker1: Comment faire pour partager ?  
+
+Speaker2: Un petit bouton, ça ressemble à un ordinateur avec une flèche vers le haut sur l'écran à l'intérieur.  
+
+Speaker1: Non.  
+
+Speaker2: C'est à côté de la caméra, normalement.  
+
+Speaker1: En bas, non.  Non, en bas, je n'ai rien du tout comme ça.  Ce n'est pas en haut, plutôt ?  
+
+Speaker2: Peut-être.  
+
+Speaker1: Je ne sais pas.  Il y a deux icônes jaunes en haut, vers votre tête.  
+
+Speaker2: Ah non, ce n'est pas ça.  
+
+Speaker1: Mais moi, je n'ai rien de plus, là.  Je suis bien embêtée.  Attendez, il y a le son, la caméra, il y a le smiley, et après, il y a les trois petits points.  
+
+Speaker0: Alors, c'est peut-être dans les trois petits points.  C'est peut-être dans les trois petits points ?  
+
+Speaker1: paramètre ?  
+
+Speaker0: non c'est partage.  
+
+Speaker2: partage.  
+
+Speaker1: normalement message en développement outil j'ai pas hein.  enfin après je sais pas le logo que c'est.  moi j'ai CC j'ai un carré avec une flèche un carré avec CC.  
+
+Speaker0: dedans un carré avec une flèche ça doit être ça.  
+
+Speaker2: le carré avec une flèche ça doit être ça.  
+
+Speaker1: alors attendez partagez votre écran partagez l'audio de votre appareil le bouton de coupure de son mail.  Mais fin au partage de l'audio, désactive.  Ça va désactiver mon micro ?  
+
+Speaker2: Non.  Normalement, vous pouvez toujours parler.  Alors, il faut juste retirer le son du téléphone.  Normalement, vous avez dit qu'il y avait l'option de mettre le son du téléphone ou pas ?  Vous pouvez le retirer.  
+
+Speaker0: Est-ce qu'il vous demande la source de ce que vous voulez partager ou il vous propose tout l'écran ?  
+
+Speaker2: Vous êtes là ?  
+
+Speaker0: Oui, on est là.  On vous entend.  
+
+Speaker1: En fait, c'est commencer à enregistrer ou à tester avec Gmail.  Il pose la question pour commencer.  
+
+Speaker2: Je vais essayer, moi, de mon côté.  Je vais regarder.  
+
+Speaker0: Vous avez un iPhone ou un Android, Séverine ?  
+
+Speaker1: Je ne sais pas, moi.  Non, moi, ce n'est pas Apple.  Moi, c'est un truc que normal.  Un téléphone.  
+
+Speaker0: Ok.  
+
+Speaker1: C'est quoi, alors ?  C'est un iPhone ?  Non.  
+
+Speaker0: C'est un Android, alors.  
+
+Speaker1: Android.  Je ne sais jamais.  Moi, je suis un peu... sur ce truc-là, moi.  ok ah merde alors avec les trois petits points là ?  trois petits points, l'écran avec la flèche.  Non, j'ai ce que je vous ai dit moi.  Commencer à enregistrer ou à caster avec Gmail, annuler, commencer.  
+
+Speaker2: Je pense que vous devez faire commencer parce que moi j'ai la même chose, j'ai Gmail qui est sélectionné et en fait il faut lancer la diffusion.  
+
+Speaker1: Bon du coup on va pas se perdre là ?  
+
+Speaker0: Normalement, non.  Essayons, et si on voit qu'on est dans le brouillard, on...  
+
+Speaker1: Alors, partager ou enregistrer une appli.  
+
+Speaker0: Ouais, c'est ça.  
+
+Speaker1: Faut que j'aille sur l'appli, du coup.  
+
+Speaker0: Ouais, c'est ça.  
+
+Speaker1: Alors, du coup, je sais plus c'était quoi.  Elle est où, cette appli ?  C'est FEPEM, le nom ?  
+
+Speaker2: Oui, le nom, c'est FEPEM.  
+
+Speaker1: Alors, est-ce que c'est en... Ouais, c'est en... Non.  F, F, F, F. Ah bah voilà autre chose, je l'ai pas.  Finbit ?  Finbit c'est quoi ça ?  J'ai pas.  C'est Fepen, vous êtes sûr ?  
+
+Speaker0: Est-ce que ça s'appelle... Moi sur le mur ça s'appelle A-Fepen.  
+
+Speaker1: Je peux pas même pas écrire.  
+
+Speaker2: Ah c'est APK au début, c'est pour ça.  peut-être que vous ne le trouvez pas.  Non.  
+
+Speaker1: J'ai pas.  Attendez, faut que je refasse tout.  Je croyais que c'était dans l'ordre alphabétique là.  
+
+Speaker0: Mais je crois que ça s'appelle...  
+
+Speaker1: Ah voilà, Fepen, ça l'est, je l'ai.  C'est bon, c'est bon.  Il y en a tellement que je le trouvais pas.  Alors, ça y est.  
+
+Speaker0: Ah, super.  Ok.  C'est bon ?  Oui.  Séverine, juste avant qu'on commence à manipuler l'application, s'il vous plaît, on voudrait... Ça faisait partie de l'étape, le test logistique, pour voir si on arrivait bien à s'entendre, à se voir et à partager l'écran.  Donc, on considère qu'on a réussi cette étape.  Et juste avant de démarrer sur le test et les scénarios dans l'appli, rapidement, est-ce que vous pourriez, s'il vous plaît... Donc, on va faire cinq minutes de contexte.  Est-ce que vous pourriez, s'il vous plaît, vous présenter ?  Qui êtes-vous ?  Est-ce que vous pouvez nous raconter votre contexte ?  Qui êtes-vous ?  Est-ce que vous avez déjà employé quelqu'un à domicile ?  Nous en dire un peu plus sur vous, s'il vous plaît.  
+
+Speaker1: Moi, j'ai bientôt 42 ans, je souffre d'une maladie invalidante chronique et du coup j'ai une prestation de compensation du handicap par la MDPH, donc aide humaine pour avoir des aides à domicile pour m'aider au quotidien.  et donc pour l'instant je passe par prestataire de service donc par des agences d'aide à domicile qui m'envoient des salariés et j'ai pour projet de passer justement en emploi direct.  donc je me renseigne je commence un peu à me renseigner.  j'ai adhéré à la FEPEN voilà ok j'ai 117 heures actuellement par mois d'aide mensuelle.  
+
+Speaker0: ok D'accord.  
+
+Speaker1: D'accord.  
+
+Speaker0: Ok, très bien, écoutez, parfait, donc on va passer à la phase de test, donc l'idée c'est qu'on fasse à peu près 30 à 40 minutes de test ensemble dans les parcours de l'application que vous avez pu télécharger, et donc là, vous nous avez dit tout à l'heure que vous avez déjà créé un compte et passé par le parcours d'accueil, c'est ça ?  
+
+Speaker1: Ben oui, en fait, quand je voulais un peu voir comment l'appli elle était, je me suis en planifiant janvier 2027 donc là je vois justement en haut qu'il y a mes annonces.  donc il y a marqué assistante de vie avec mon adresse et 28 janvier, bah oui je l'ai fait le 28 hier 28 janvier.  il y a la date où j'ai fait l'annonce.  
+
+Speaker0: voilà c'est tout ok, alors petite pause pour vous Séverine juste parce que par rapport au test qu'on souhaitait faire avec Thomas On était plutôt parti pour faire tester les toutes premières étapes avec recueillir vos retours sur l'accueil, sur les formulaires de création de comptes, etc.  Déjà pour s'assurer que ça fonctionne bien et qu'il n'y a pas de... Est-ce que vous seriez d'accord pour qu'on recrée un compte, s'il vous plaît ?  
+
+Speaker1: Ah oui, d'accord, il ne fallait pas que je le fasse en vrai.  
+
+Speaker0: Pas forcément, mais je ne sais pas, qu'est-ce que tu en penses Thomas ?  
+
+Speaker2: Je pense que ça peut être bien qu'on refasse effectivement, on va vous donner une adresse mal jetable pour que vous puissiez le faire.  
+
+Speaker1: Ah ouais, tu m'as dit comment j'étais tout à l'heure, comment j'ai fait hier, je sais pas.  
+
+Speaker2: En tout cas, c'est rassurant que vous ayez pu créer un compte et fait une annonce déjà, c'est bien.  Est-ce que vous pouvez aller du coup dans l'onglet compte, en bas à droite, et vous déconnecter ?  Voilà.  On aura juste pas la partie carousel de Victor, mais je pense que c'est pas très très grave à la limite cette partie.  
+
+Speaker0: Ok, d'accord.  Donc on va démarrer.  Donc là l'idée c'est effectivement que vous imaginez que vous cherchez une assistante pour vous accompagner au quotidien.  Et donc on va commencer par créer un compte.  
+
+Speaker1: Donc là faut que je rentre un mail ?  
+
+Speaker0: Ouais.  
+
+Speaker2: Exactement, je vais vous donner le mail que vous allez rentrer, c'est fepem2, arrobase, yopmail.com.  Yopmail ?  
+
+Speaker0: Oui D'accord Ok Ok Ok Ok Ok Ok D'accord, peut-être qu'on va pouvoir revoir ça ensemble.  
+
+Speaker1: Alors du coup, mot de passe, il faut que je crée un mot de passe.  Vous me le dites ou pas?  
+
+Speaker0: le mot de passe ?  Thomas, t'avais écrit un mot de passe de test ?  
+
+Speaker2: Pas besoin, si vous voulez, vous pouvez mettre chocolat avec un C majuscule.  
+
+Speaker1: Hum ?  
+
+Speaker2: Pourquoi il veut pas que je m'inscris ?  
+
+Speaker1: Ah non, c'est parce que j'ai pas appuyé là.  Oui, d'accord.  Je consens.  Ok, alors le mail avec le code de confirmation.  Faut que j'aille sur mon truc.  J'attends, il est pas reçu encore.  
+
+Speaker2: C'est moi qui vais vous envoyer le code du coup.  
+
+Speaker1: Ah bah oui, je suis bête.  Je ne risque pas de le recevoir.  
+
+Speaker2: Alors le code c'est 577.  Oui.  142.  Allez, c'est bon.  
+
+Speaker1: Ce mot de passe ça a été, je ne sais pas ce qu'il a marqué, je m'inscris.  Voilà.  Ah, mais pourquoi il a aveugué ?  Maintenant je suis repartie dans, il me demande un code.  Pourquoi ça fait affaire ?  Il me redemande un code.  
+
+Speaker2: Je vais vous redonner le code, c'est  252 871. 252,  pardon  ? 871.  
+
+Speaker1: Attendez, je n'ai pas eu le temps de voir tout à l'heure pourquoi ça n'a pas marché.  Ce mot de passe a été divulgué lors d'une fuite.  Il y a eu un truc, mais il s'est vite effacé.  
+
+Speaker2: Je n'arrive pas à lire.  À mon avis, ça doit être un petit bug.  
+
+Speaker1: Il y a un truc qui s'est affiché, une fenêtre, mais je n'ai pas eu le temps de tout lire.  Il y a marqué que le mot de passe avait une fuite.  
+
+Speaker2: C'est pour ça que ça ne marche pas.  On va changer le mot de passe.  Ce n'est pas très grave.  Vous pouvez mettre... Femme, avec un F majuscule, 1, 2, 3, arrobase.  
+
+Speaker1: 1, 2, 3, arrobase, on commence.  Femme, 1, 2, 3, arrobase, allez go.  Voilà, lui on demande le code.  
+
+Speaker2: Alors le code c'est 854-981.  
+
+Speaker1: C'est bon.  Voilà, votre compte a bien été créé.  Alors, créez mon annonce.  
+
+Speaker0: Déjà, juste une question à ce moment-là pour vous au niveau de la création de compte.  Quelles sont vos attentes par rapport à la création d'un compte ?  Quel est votre besoin ?  
+
+Speaker1: bon je mets aide à domicile du coup.  alors par contre je tiens à préciser le truc.  c'est que moi je peux faire avec ma PCH de l'emploi direct par le MDPH.  mais du coup ce qui est compliqué c'est que vous vous séparez ménage repassage avec aide à domicile.  alors ce qui est compliqué en fait justement c'est par rapport au référentiel parce que nous la PCH c'est de l'aide à la personne sauf que à l'intérieur des fois il y a de l'entretien il y a un peu de l'entretien du cadre de vie.  alors évidemment des fois c'est pas vraiment.  on appelle pas ça vraiment du ménage parce que logiquement on aurait pas tellement le droit d'avoir du ménage.  Mais je ne sais pas trop comment vous expliquer ça.  
+
+Speaker0: C'est-à-dire, ce que vous êtes en train de dire, selon vous, pourquoi ça pose problème ?  Parce que c'est une question de catégorisation qui n'est pas alignée avec la réalité, c'est ça ?  Qu'est-ce qui, pour vous, serait plus judicieux ?  
+
+Speaker1: Après, il faut voir ce que contient l'aide à domicile.  après, en fait.  
+
+Speaker0: D'accord.  
+
+Speaker1: Si vous avez mis de l'entretien du logement... en fait la chose que je sais pas moi c'est quel référentiel vous avez par exemple dans l'aide à domicile.  est-ce que vous vous appuyez sur des aides de APA pour les personnes âgées et de la PCH pour les personnes handicapées?  est-ce que c'est ça qu'il y a derrière ?  
+
+Speaker0: d'accord ok on demande de l'aide à domicile.  
+
+Speaker1: voyez c'est ça que moi je sais pas où vous êtes parce que là voyez vous mettez précisez le métier donc assistant de vie dame de compagnie donc déjà là vous catégorisez deux choses différentes.  ok ok Est-ce que c'est pour tout le monde votre application ?  
+
+Speaker0: Y a-t-il un intérêt à pouvoir proposer un classement et un filtrage selon les catégories dont vous nous avez fait part, PCH et tout ça, avant ?  Est-ce que pour vous, le fait de spécifier avant peut apporter quelque chose de plus précis dans la navigation ?  
+
+Speaker1: En fait, je ne sais pas.  Derrière, c'est vraiment que pour rechercher le salarié.  Ou est-ce que c'est réellement en lien avec la FEPEN ?  qui ensuite nous aide et nous accompagne au début justement pour clarifier au niveau de la rémunération, le contrat de travail, qu'est-ce qui est pris en charge, pas pris en charge, en fonction de nous, de nos aides qu'on peut avoir.  
+
+Speaker0: En fait, vous avez, effectivement, vous avez, si vous n'êtes pas adhérente à la FEPM, vous pouvez tout à fait passer par ce service et de venir poster une annonce de particulier employeur et recruter quelqu'un.  Le fait d'être adhérent à la FEPM vous apporte en plus du conseil et de l'accompagnement sur les formalités administratives.  Oui.  
+
+Speaker1: Mais c'est deux choses différentes quand même.  Non, ce que je veux dire, c'est que du coup, si c'est différent, il n'y a pas d'intérêt à spécifier si l'employeur bénéficie de l'APA ou de la PCH ou alors de rien du tout qui veut payer...  
+
+Speaker0: Disons que la manière dont c'est présenté aujourd'hui, c'est que ça permet de garder quand même des informations assez simples et lisibles.  Par contre, ce que vous nous dites, ce qui est intéressant, c'est que le fait de pouvoir préciser ces catégories-là rend le filtrage et la recherche des catégories beaucoup plus proche de la réalité des référentiels.  Là où on a quand même ici un regroupement, une simplification des référentiels.  mais qui n'est peut-être pas adapté selon la catégorie, selon votre catégorie.  Donc c'est ça la question qu'on a avec vous et ce que vous dites est hyper intéressant parce que ça soulève des questions d'organisation des données, de classification.  
+
+Speaker1: Encore une fois, est-ce que ça serait utile si c'est simplement pour rechercher le salarié ?  et c'est tout.  Ça dépend si l'application a un autre objectif ou pas.  
+
+Speaker2: L'application a un autre objectif à terme, effectivement, c'est d'accompagner aussi sur la partie contractualisation, etc.  Donc, évidemment, ces informations-là sont intéressantes pour la suite.  Maintenant, il y a quand même une différence, effectivement, donc pour répondre à votre question, sur les dénominations, etc.  En fait, les salariés, comme vous le disiez très justement, Oui.  
+
+Speaker1: Oui.  Oui.  donc moi je m'assitante de vie.  donc à qui est destinée l'aide?  vous-même donc quelles sont les missions que vous souhaitez confier?  bon alors moi j'avais tout quand j'ai fait mon annonce j'avais tout coché en vrai parce que moi c'est un peu tout.  mais effectivement dans la vie quotidienne c'est ce que je vous disais tout à. l'heure.  vous avez mis le ménage et moi je me suis posé la question parce que dans le référentiel en fait je sais qu'au niveau des agences prestataires quand on a une pch le ménage ça coince parce qu'on On identifie le fait que si on a une prise en charge, eux, ils ont un référentiel ou non, on ne s'occupe que de la personne.  Ouais, on peut faire un peu d'entretien du cadre de vie, mais on ne doit pas vraiment faire du ménage, passer à serpillère dans le logement, vous voyez, par exemple.  Mais je pense qu'en emploi direct, je pense qu'il y a un peu plus d'ouverture.  D'où ce qui est plus intéressant pour nous quand on cherche de l'aide, c'est que ce soit un peu plus libre, on va dire, dans les tâches.  Mais encore une fois, je ne sais pas où ça s'arrête, en fait, au niveau après des... des lois ou de la réglementation.  Là, vous voyez, vie quotidienne, donc moi j'ai coché ménage, tout en sachant que moi, si on vient me contrôler, logiquement, on ne peut pas me faire normalement du ménage, c'est un peu entre parenthèses, quoi.  Vous voyez ?  Dans mon aide à la personne.  
+
+Speaker0: Ok.  Et donc, qu'est-ce qui...  
+
+Speaker1: Non, j'ai tout mis, parce que présence, tout ça, je sais qu'il y a dans le référentiel PCH, je sais que j'ai tout, la présence, les sorties, lectures, ça peut être partie des activités... Je ne sais pas, il y a tout.  C'est bien, vous avez mis déplacement, soins, c'est un peu varié.  Soins, ça veut tout et rien dire, je ne sais pas trop.  
+
+Speaker0: Justement, selon vous, par rapport à toute cette liste-là, qu'est-ce qui pourrait être amélioré en termes de précision, de finesse, de choix ?  
+
+Speaker1: Précision, les soins.  Justement, le ménage, je pense, parce qu'il y a beaucoup de salariés qui savent que les PCH, normalement, n'ont pas à se taper forcément la serpillère et que des fois, ça pose... Par rapport à la notion de déplacement, pour vous, qu'est-ce que ça symbolise ?  Qu'est-ce que ça veut dire ?  Bah, enfin, moi, je sais pas, dans mon cadre à moi, c'est... Ok.  Ok.  Ah, hors médicaux, puisque médicaux, j'ai les bons de transport, normalement.  Mais donc, tous les autres déplacements, possiblement, on va dire.  Ok.  Ouais.  À pied, en voiture, ouais.  
+
+Speaker0: Ok.  Est-ce que la notion justement de voiture, de permis, pour vous, ça peut avoir un intérêt ?  
+
+Speaker1: Ah bah oui, parce que moi, s'il n'y a pas le permis, c'est mort, quoi.  
+
+Speaker0: Ok.  
+
+Speaker1: Bah oui, parce que sinon, après, ça dépend où on habite, mais c'est sûr que si c'est sur Paris, ils ne savent pas, mais...  
+
+Speaker0: ok donc pour vous ok donc c'est une information qui peut être discriminante.  
+
+Speaker1: déjà dans l'aide à domicile quelqu'un qui n'a pas le permis déjà c'est une galère.  ceux qui recrutent dans les agences elles voient plein de filles qui n'ont pas leur permis.  je ne vous explique pas être en trottinette dans nos petites villes villages en plein Paris ok.  mais là je veux dire quand tu es censé aller chez des bénéficiaires toute la journée c'est ingérable.  le truc comment vous voulez après lui demander d'aller faire des courses?  D'accord D'accord D'accord C'est plus les soins que je voulais savoir.  Je ne sais pas ce que ça veut dire les soins.  Quel type de soins ?  Soins et accompagnement.  
+
+Speaker0: Qu'est-ce que ça veut dire ?  Oui, c'est-à-dire ?  Qu'est-ce que... justement qu'est-ce que... parce qu'on a aussi un sujet justement pour clarifier tous les termes de l'application et tout.  Donc là, notre but c'est de ne pas vous répondre, mais c'est de vous questionner pour vous savoir justement pour quoi ça veut dire.  
+
+Speaker1: C'est tout de prendre soin dans la globalité.  
+
+Speaker0: Ouais, d'accord.  
+
+Speaker1: On va dire des choses qu'on n'arrive pas à faire ou alors que ça nous fait du bien pour notre estime de nous-mêmes, je sais pas moi.  D'accord.  Moi pour vous dire, des fois elle est... Elle m'épile juste les sourcils ou un coup de vernis à ongles.  Le prendre soin, on va dire, au-delà de la toilette pure et dure.  
+
+Speaker0: D'accord.  
+
+Speaker1: On va dire les petits à côté.  
+
+Speaker0: Ok.  Je ne sais pas.  Très bien, je pense qu'on peut continuer.  Oui.  Vous avez sélectionné...  
+
+Speaker1: Vous ne m'avez pas répondu, par contre.  Ah oui, c'est vrai, vous m'avez dit Non, pour le ménage, ben moi je vous ai dit ce que j'en pensais, voilà.  
+
+Speaker0: Bon, après c'est ce que j'ai dit.  D'accord D'accord D'accord D'accord D'accord.  
+
+Speaker1: Alors, continuez.  
+
+Speaker0: Ok.  
+
+Speaker1: L'adresse.  Donc, du coup, l'adresse.  
+
+Speaker2: Est-ce que vous pouvez mettre, excusez-moi, est-ce que vous pouvez mettre plutôt l'adresse de la FEPM ?  Parce qu'effectivement, comme vous l'avez souligné tout à l'heure, il n'y a que des annonces à Paris.  En fait, c'est parce que nous, on a créé une base de faux profils pour que vous puissiez voir quand même des résultats.  
+
+Speaker1: Ah, merde !  
+
+Speaker2: C'est bon, vous l'avez.  
+
+Speaker1: Ah oui, c'est pour ça les défauts pour nous utiliser au matin.  Bon, allez, c'est bon, continuez.  Alors, fréquence quotidienne.  Quotidienne, à savoir que moi, c'est hors dimanche et jour férié quand même.  Moi, c'est aussi personnel à moi parce que justement la PCH ne prend pas en charge les dimanches et jours fériés.  Donc, on n'est pas malade, on n'est pas handicapé le dimanche et jour férié en vrai.  Donc, du coup, comme moi, je ne peux pas me permettre d'avoir de payer en plus, on va dire.  Donc, du coup, c'est quotidien.  Mais dans le sens quand même où j'enlève les dimanches et jours fériés.  
+
+Speaker0: D'accord.  Ok, donc ça c'était sur le choix de la fréquence.  Ouais.  Ok.  
+
+Speaker1: Parce que sinon c'est du lundi au samedi quoi.  
+
+Speaker2: Ouais, ouais.  
+
+Speaker1: Dimanche et jours fériés, c'est bon pour vous ?  
+
+Speaker0: Ouais, donc pouvoir préciser, exclure les dimanches et jours fériés, enfin en tout cas affiner la...  
+
+Speaker1: Je sais pas s'il a pas, c'est pareil, je sais pas.  
+
+Speaker0: D'accord.  Et à présent, sur cette étape du choix, qu'est-ce que vous en pensez ?  
+
+Speaker1: Je choisis la date de libée d'intervention ?  Oui.  Ben là, moi, ça m'a un peu interpellée parce que justement, c'est qu'un projet, donc je n'avais pas trop quoi mettre, mais du coup, là, vous avez mis quoi ?  Du quoi maintenant ?  Et vous avez tiré jusqu'à quoi ?  Il n'y a pas de date.  Non, je choisis la date de début.  Non, c'est bien.  Quand on sait, quand on veut trouver, il n'y a pas de problème.  Je mets quoi, du coup, là ?  Pour tester, je mets quoi ?  
+
+Speaker0: Là, vous pouvez mettre la date du jour.  
+
+Speaker1: Allez.  Alors, j'indique le nombre d'heures hebdomadaires.  J'avais calculé hier, justement.  J'avais calculé 24 heures par semaine, 6 fois  4. 4  heures par jour, on va dire.  24 heures, ça faisait du 117 presque, quoi.  24 heures.  Ouais.  Je crois que c'est ça.  Pourquoi il veut pas ?  Hein ?  Pourquoi ça a pas marché ?  Pourquoi j'arrive pas à mettre le...  
+
+Speaker0: Ok Ok Le nombre d'heures souhaitées, le champ de saisie du nombre d'heures ne permet pas la validation.  
+
+Speaker1: Il faut servir du plus et moins, on ne peut pas l'écrire directement, c'est tout.  C'est un détail.  
+
+Speaker0: Oui, mais on est sur mobile, donc ça doit être optimal.  
+
+Speaker1: Ok.  Je vous ai mis 24 heures pour moi, ce que j'avais calculé vite fait hier.  Ok.  De toute façon, ce n'est pas très important pour tester, mais je suis agi les jours... Pour les jours et les créneaux, voilà, c'est ça.  Et donc, quand vous mettez je suis flexible, du coup, quand j'appuie, ça fait quoi ?  Je suis flexible.  
+
+Speaker0: Toute la journée ou...  
+
+Speaker1: Et du coup, si on est flexible, ça veut dire n'importe quand, non ?  C'est quoi l'idée là ?  
+
+Speaker0: Justement, qu'est-ce que ça veut dire pour vous ?  
+
+Speaker1: Je sais pas trop.  Je ne comprends pas trop comment ça marche votre truc là.  Je suis flexible du coup j'ai coché ?  Et après c'est quoi là ?  Du coup les 7 jours sont en bleu ?  Et du coup ?  
+
+Speaker0: En gros là c'est... Qu'est-ce que vous comprenez ?  Si vous dites je suis flexible, ça flexionne tout et ça veut dire quoi ?  
+
+Speaker1: Franchement je comprends pas ce qu'il faut faire là.  Flexible pour moi oui, ça veut dire que c'est pas... ok ok ok ok.  Exemple, c'est ça ?  
+
+Speaker0: le lundi, le vendredi, le samedi, uniquement le soir.  Par exemple, le dimanche, c'est jour férié.  Vous pourriez dire que c'est pas ces jours-là, par exemple.  
+
+Speaker1: Ouais, mais je vois pas trop... Enfin, ça veut dire que c'est flexible, il faut quand même poser sa semaine entière ou la... C'est ça ?  
+
+Speaker0: Non, en fait, là, ce qui se passe... Là, ce qui se passe, c'est quand je vous dis que je suis flexible et que vous sélectionnez tout... En gros, le paramètre que vous allez choisir ensuite, matinée, va s'appliquer à tous les jours.  Ça veut dire que vous allez souhaiter avoir une intervention à domicile d'une personne tous les jours le matin.  Tous les matins.  
+
+Speaker1: Donc là, quand c'est en bleu, c'est tout sélectionné.  
+
+Speaker0: C'est ça.  Après, si vous sélectionnez partiellement certains jours, vous allez pouvoir régler un choix de créneau d'intervention particulier.  
+
+Speaker1: par exemple je veux que le mardi et le jeudi du coup je les mets en bleu et ils ressortent.  après on les choisit ok d'accord mais du coup ça reste quand même sur une semaine.  là oui là si je pose je me dis tiens mardi jeudi samedi je veux quelqu'un à midi par exemple mardi jeudi samedi ok je fais mardi midi jeudi midi.  ah non là faut l'enlever ça.  ah ouais d'accord.  ah ouais c'est ouais.  par exemple j'ai fait ça là c'est ça que vous comprenez ?  bah ouais du coup y'a pas les Qu'est-ce que vous auriez vu de différent ?  
+
+Speaker0: non mais au contraire justement il faut que ce soit pas que ce soit pro.  
+
+Speaker1: justement si c'est pro ça répond pas le besoin que vous avez au fond vous là par rapport à ça c'est quoi donc c'est non c'est juste un problème de compréhension de comment ça fonctionnait en fait.  voyez qu'en fait il faut que ce soit bleu pour sélectionner.  effectivement après je vois qu'en sélectionnant mardi jeudi samedi après j'ai la fonctionnalité de pouvoir toucher les mardis jeudi samedi d'accord.  Et là après, comment ça se fait que le samedi, je peux en prendre plusieurs ?  Je peux sélectionner matin, midi, après-midi ?  En fait, je peux toute la journée, soit le matin, mais je peux sélectionner toute la... Comment ça se fait que je peux sélectionner ?  C'est pas normal.  Non ?  Parce que si je fais toute la journée, ok, mais si je veux que le matin... Ouais, je peux sélectionner matin et soir.  
+
+Speaker0: Ouais.  
+
+Speaker1: Oui bah oui c'est bien pour les PCH et tout c'est bien parce que parce que souvent on veut l'intervention matin et soir il y a de la récurrence dans la journée.  oui pourquoi pas?  moi c'est pas ce que je souhaite.  mais oui ok mais je trouve que c'est pas je sais pas je suis pas certaine que ce soit compréhensible pour tout le monde.  après j'ai pas d'autres idées comment on pourrait le faire autrement.  donc je vous dis ça comme ça ok c'est ma compréhension à moi.  
+
+Speaker0: mais et justement si on vous disait vous je choisis les jours d'intervention et les créneaux souhaités Pour vous, en termes de temporalité, c'est à la semaine, c'est au mois, c'est dans un planning ?  
+
+Speaker1: Encore une fois...  
+
+Speaker0: Qu'est-ce qui fait que ça pourrait être plus facile, selon vous ?  
+
+Speaker1: Non, mais c'est vrai, de toute façon, pour une salariée, on ne peut pas changer toutes les semaines.  Que ce soit bien sur la semaine, ouais.  Non, non, poser pour la semaine, non, non, c'est pas mal comme ça.  C'était plus la façon de comprendre, je vous dis la façon, comment c'est fait.  
+
+Speaker0: Bien sûr, ok.  
+
+Speaker1: mais bon voilà maintenant que j'ai compris vous me l'avez dit donc voilà moi par contre je suis flexible.  non donc moi j'avais choisi ça puisque moi c'est ça et moi j'avais mis toutes les après-midi en fait d'accord ah ouais voilà j'avais pas fait ça hier j'avais pas vu en fait que tout était répercuté j'étais fatiguée aussi je pense j'avais pas fait gaffe.  donc jeudi après-midi vendredi faut penser à déconnecter les autres ça aussi faut y penser parce que ça reste Bon, voilà.  
+
+Speaker0: En même temps, le but, c'est de pouvoir le faire facilement quand on est fatigué ou qu'on est déjà très occupé.  C'est aussi pour ça qu'on vous fait intervenir et qu'on vous demande de nous remonter des problèmes, parce qu'on n'est pas tout le temps en ultra bonne forme pour manipuler une appli dans laquelle on est dans un parcours.  Donc, c'est aussi intéressant de verbaliser ça, oui.  Ouais.  
+
+Speaker1: Mais en même temps, je trouve que c'est un peu compliqué, cette partie-là.  
+
+Speaker0: ok la partie du choix d'intervention ok ouais très bien on va en tout cas noter qu'on va vraiment rebosser.  
+
+Speaker1: c'est juste la compréhension.  au départ je pense que ça peut peut-être bloquer mais après je vais encore une fois.  après le truc que je me dis c'est que des applications pour les personnes âgées malheureusement c'est quelque chose que les applications ne sont pas trop ça reste encore pas très.  c'est très compliqué c'est sûr mais bon c'est quand même une super idée pour se trouver bien qu'il y ait des services.  j'ai vu qu'il y a un service sur les réseaux sociaux et tout quand même pour ceux entre employeurs.  enfin bref ça c'est un autre sujet.  alors je continue.  
+
+Speaker0: effectivement on va continuer.  
+
+Speaker1: du coup je sélectionne ma situation.  cette information servait alors les profils les plus adaptés.  donc là on est effectivement.  personnage en perte d'autonomie ok donc c'est plus la part.  ça S'il y a une prise en charge par le CCAS, ce ne serait pas là.  Personnes en situation de handicap, PCH, comme moi, logiquement.  Mais sauf que vous avez mis personnes en situation de dépendance.  Du coup, je ne sais pas la différence entre personnes en situation de handicap ou même la personne âgée en perte d'autonomie.  En fait, on est tous en perte d'autonomie.  Je ne vois pas pourquoi.  Alors, entre personnes âgées handicapées, oui, parce qu'il y a deux aides différentes.  Donc, ça reste quand même deux profils, même si c'est les mêmes besoins en perte de... OK.  OK.  Pour vous, qu'est-ce qui est le plus adapté à votre situation et comment vous améliorez cette partie ?  Non, c'est que je ne vois pas la différence entre personne en situation de handicap parce que du coup vous mettez moteur sensoriel cognitif.  bon oui parce qu'effectivement il y a de l'APCH pour le handicap psychique maintenant pour aider à la maison parce que d'ailleurs c'est assez récent mais pour moi je suis en situation de dépendance et de handicap c'est pareil en fait pourquoi vous avez vous avez séparé les deux en fait je sais pas puisque vous avez mis aussi un personnage et donc vous y avez pensé.  donc c'est ça que  
+
+Speaker0: ok ok  
+
+Speaker1: ok ok ok ok bon et déjà j'ai 17h de PCH mais je suis en handicap parce que permanent c'est rare on peut pas avoir quelqu'un à 24 mais assistance permanente je pense que si quelqu'un par exemple a besoin la nuit elle risque de penser à cocher celui-là par exemple.  je sais pas.  
+
+Speaker0: et pourquoi ?  
+
+Speaker1: parce que quand on se dit en permanence on se dit la nuit aussi quoi je sais pas Ok.  
+
+Speaker0: Ok, donc moi je vous propose qu'on continue d'avancer.  C'est pas chiant, dans l'échange qu'on a, on parle pas trop parce qu'on est vachement à l'écoute de ce que vous nous dites.  
+
+Speaker1: Ah d'accord, non non, j'ai compris bien ce que je dis.  Moi quand on a un rayon, vous pouvez me demander sur les référentiels, ça fait 20-30 ans que je fais de la MPPH, que je me tape des dossiers.  et j'étudie beaucoup les référentiels parce que comme j'ai eu dû faire des recours au tribunal pour me justifier malheureusement d'être dans l'état où je suis donc ça fait que voilà j'étais soignante de base en EHPAD.  
+
+Speaker0: donc d'accord bah en tout cas nous on prend si vous êtes une mine d'or on prend tous les problèmes à remonter les incompréhensions c'est vraiment c'est parfait.  
+
+Speaker1: donc on peut continuer à remonter parce qu'après tu parles aussi en tant que soignante parce que moi j'étais des deux côtés en fait.  Donc je suis un peu des deux côtés en fait, on va dire finalement.  Parce que j'ai travaillé aussi là-dedans, donc voilà.  
+
+Speaker0: Est-ce que vous pouvez, s'il vous plaît, continuer ?  Comme ça on continue d'avancer.  
+
+Speaker1: Indiquez ici vos besoins.  Ah ben voilà, c'est la présentation, donc c'est l'annonce, ça c'est ça ?  Ah non, mais indiquez vos besoins.  Ah non, là c'est les besoins spécifiques.  Quelques informations sur vos enfants pour aider.  Ah oui.  Mais là c'est l'annonce.  là ou c'est les besoins spécifiques du coup ?  
+
+Speaker0: Qu'est-ce que vous comprenez ?  
+
+Speaker1: Je sais pas, il y a marqué en gros présentez-vous simplement mais après il y a marqué d'indiquer vos besoins spécifiques.  donc du coup je pense que c'est les deux.  je crois que je m'en rappelle plus.  hier c'était l'annonce ici.  vous voyez je sais plus s'il y avait un autre truc derrière pour l'annonce besoin spécifique, horaire, jour de guerre, trajet, activité, etc.  Je vous avoue, je ne sais pas trop quoi mettre là.  
+
+Speaker0: Mettez ce que vous mettriez dans la vraie vie.  Il n'y a pas de mauvaise réponse ou de bonne réponse.  
+
+Speaker1: Je vais mettre femme de 42 ans.  Oh, j'ai ma mot-parleur qui marche pas, pas de chance.  Est-ce que je fatigue, là ?  Souffrant d'une maladie.  C'est pas pareil qu'un handicap, mais ça génère un handicap.  
+
+Speaker0: Euh... Et si vous êtes...  
+
+Speaker1: Mais pas la région, du coup, là.  Non, c'est les besoins spécifiques, ouais.  Les besoins spécifiques que j'ai déjà mis les après-midi.  Parce que, justement, le matin, je suis pas apte.  Jour de guerre, trajet, activité.  Est-ce que là, il ne faudrait pas que je mette que j'ai mon propre véhicule ?  Par exemple, c'est une particularité ?  Que si la personne, le salarié est ok pour conduire mon véhicule ?  Non ?  Mais du coup, je ne sais pas.  
+
+Speaker0: Faites comme vous le sentez naturellement.  Par rapport à ce que vous voyez, est-ce que vous en comprenez ?  
+
+Speaker1: Euh... euh le fait que je sois isolée aussi quand on n'a pas de famille aussi c'est ayant besoin d'une aide.  c'est pour tout un peu pour tout.  en fait je sais pas comment dire une aide quotidienne pour tout.  enfin je veux rien dire tout même.  
+
+Speaker0: bon écoutez on va considérer que voilà c'est L'étape est remplie.  
+
+Speaker1: D'accord.  ok ok d'accord D'accord.  D'accord.  D'accord.  Bon courage, le nom que vous avez mis pour arriver à prononcer le nom de la personne.  
+
+Speaker0: C'était passionnant comme échange.  On n'était pas du tout sur le même sujet, mais c'était vraiment aussi passionnant que l'échange qu'on a avec vous.  Vous voyez, à chaque fois, c'est un...  
+
+Speaker1: C'est une assistante de vie sur Paris ?  
+
+Speaker0: Qui n'est pas sur Paris, elle est sur Lognes.  Mais elle vient d'Érythrée, elle est arrivée il y a six mois d'Érythrée, et donc là, on est en recherche de pouvoir trouver une mission d'aide à domicile.  
+
+Speaker1: Ouais ?  
+
+Speaker0: Voilà, une personne sérieuse qui nous a montré ses diplômes, avec qui on a échangé pendant une bonne heure, 1h45.  Ah ouais.  Donc maintenant, votre annonce est publiée.  Et donc, quand vous regardez la page, qu'est-ce que vous comprenez ?  Qu'est-ce que vous comprenez ?  
+
+Speaker1: Donc là, c'est la page là ?  Complétez mon annonce, détail de mon annonce.  Alors, qui est destinée vous-même ?  Donc là, vous reprenez OK.  Ouais.  C'est pas mal.  Ah, niveau d'expérience.  Pourquoi on n'a pas rempli tout ça, là ?  C'est après qu'on... Du coup, niveau d'expérience souhaitée, logement, langue parlée, personne véhiculée.  Après, du coup, c'est à ce niveau-là qu'on peut compléter, alors.  
+
+Speaker0: C'est ça ?  Je sais pas.  Qu'est-ce que vous en pensez ?  
+
+Speaker1: Ben parce que tout à l'heure, ou c'est parce que j'ai pas pensé, quand vous disiez détailler l'annonce, j'ai pas pensé à marquer moi mes besoins ?  
+
+Speaker0: Ben après, est-ce qu'il y a un moment où on vous a posé la question de détailler en annonce ?  
+
+Speaker1: Ben non, justement.  
+
+Speaker0: Ok.  
+
+Speaker1: Y'avait pas, non ?  Ben non, niveau d'expérience.  Logement, c'est-à-dire logement.  
+
+Speaker0: Qu'est-ce que ça veut dire pour nous ?  
+
+Speaker1: Ça veut dire quoi, logement ?  Donc on offre le logement ?  Je vous place pour se garer.  Ah ouais d'accord Pas mal, ouais.  C'est vrai que c'est pas mal de spécifier ça, ouais.  Ça peut être... Ok.  Présence d'animaux, ouais, ok.  Bon, c'est pas trop le logement, le... Enfin, si, l'animal, ouais.  J'ai un ou plusieurs animaux, oui.  Voilà, ok.  Ouais, c'est vrai, c'était pas mal de rajouter ça.  Ok.  Je suis en train de me réfléchir, qu'est-ce qu'on pourrait rajouter d'autre ?  Et niveau d'expérience ?  Je précise le niveau d'expérience.  
+
+Speaker0: Qu'est-ce que ça vous...  
+
+Speaker1: Ça dépend du niveau d'expérience, mais bon.  Non, c'est bien.  Non, c'est bien.  7 ans, 0,3 ans, ouais.  Mais dire que c'est après qu'il faut rajouter ça... Effectivement, je n'ai même pas pensé à mettre mes besoins.  Ah merde, j'ai tout enlevé là du coup.  Non, qu'est-ce que j'ai fait ?  Ah, j'ai tout fermé, je crois.  
+
+Speaker0: Merde.  Alors, comment vous allez revenir ?  
+
+Speaker1: Ah, bonne question.  Mes annonces.  
+
+Speaker0: Ok.  
+
+Speaker1: Alors, mes suggestions, mes candidats.  Alors, quelle est la différence ?  Mes suggestions, c'est par rapport à mon annonce, et là, mes candidats ?  vous n'avez reçu encore aucune.  donc ça c'est quelqu'un qui va me trouver il va se mettre là.  alors bon comment il va faire pour me pour se retrouver là?  je sais pas.  prise de contact.  
+
+Speaker0: prise de contact donc selon vous qu'est-ce que vous entendez par?  est-ce que vous pourriez nous dire quelle différence vous faites entre mes suggestions et mes candidats s'il vous plaît?  
+
+Speaker1: alors Alors mes suggestions, ça c'est peut-être l'application en fonction de mon annonce qui me suggère des profils suite à ce que j'ai rempli.  
+
+Speaker0: D'accord.  
+
+Speaker1: Mes candidats, c'est ceux qui de l'autre côté par contre cherchent à travailler en tant qu'auxiliaires de vie et qui ont lu mon annonce et qui se sont portés candidats.  
+
+Speaker0: D'accord.  
+
+Speaker1: Ils ont été intéressés par mon annonce.  Non ?  
+
+Speaker0: Ok.  Il n'y a pas de bonne réponse, franchement, je ne vais pas vous dire.  Parce que ça fait partie des questions du test, justement, la compréhension entre les deux.  Et pour finir, à présent, si vous pouviez faire un choix, le choix d'un candidat.  
+
+Speaker1: Par contre, vous n'expliquez pas comment on fait pour prendre contact, du coup ?  
+
+Speaker0: Justement, est-ce que vous pouvez...  
+
+Speaker1: Ah oui, oui, alors les annoncer où ?  Attendez, c'était où ?  Comment je fais pour revenir ?  Alors par exemple, je choisis la dame qui était intéressante ce matin.  Je ne sais pas quand.  Du coup, ouais, assistante de vie, Paris, confirmée.  Confirmée, c'est quoi ?  Confirmée, c'est que ça a été validé par l'application ?  Son profil ?  Nouveau, zéro kilomètre.  Alors, 12 euros de l'heure, du coup, c'est net, brut, c'est quoi ?  
+
+Speaker0: C'est une bonne question.  
+
+Speaker1: Zéro kilomètre, pourquoi, en fait, zéro kilomètre ?  C'est par rapport à moi que vous calculez par rapport à mon... Ah bah oui, à mon adresse, du coup, on a mis Paris.  Du coup, ça génère zéro kilomètre, c'est ça ?  
+
+Speaker0: Oui.  
+
+Speaker1: Et son numéro de téléphone, du coup, là, il est caché.  Comment on fait pour le... du coup on se contacte d'abord par l'appli je suppose c'est ça ?  par le message ?  
+
+Speaker0: je sais pas qu'est-ce qui vous manque là pour le pour le contacter ?  
+
+Speaker1: alors là il y a quoi ?  envoyer mon annonce ?  ah pour lui envoyer parce qu'en fait là c'est attendez là c'est quoi ?  là c'est les suggestions.  donc on me suggère elle et du coup je lui envoie à elle.  je lui envoie mon annonce.  ouais D'accord.  Je vais répondre à quoi comme question ?  
+
+Speaker0: Qu'est-ce qui vous donne confiance dans ce profil et qu'est-ce qui vous manque pour le contacter ?  
+
+Speaker1: C'est bon, je l'envoie.  Bonjour, merci pour l'intérêt porté.  Ben non !  Merci pour l'intérêt porté à mon égard, ça veut dire que c'est pas les sujets, c'est pas ce que j'ai compris alors.  Je croyais que c'était l'application par rapport à mon profil qui me proposait cette personne.  Finalement, on me propose d'envoyer mon annonce à cette personne en lui disant merci pour l'intérêt porté à mon égard.  Donc ça voudrait dire en fait que c'est elle qui m'a trouvé.  Ouais, tout à fait.  Donc j'ai pas compris alors.  J'envoie un message, ah oui, avec le candidat.  Oui.  Mais c'était pas les candidats, c'était mes suggestions, non ?  Il me semble.  
+
+Speaker0: Oui.  
+
+Speaker1: Ah, il y a un truc qui va pas, là.  Pensez à jouer une photo de vous, oui.  Ok, continuez sans photo, ok.  Annonce, aujourd'hui, d'accord, on rentre dans un truc de messagerie, là.  Pouvoir converser, vous devez attendre qu'elle réponde.  positivement à votre demande.  Ok.  Mais du coup, j'ai pas compris.  Je croyais que c'était les suggestions, donc j'ai pas bien compris.  Parce que du coup, là, mes candidats... Ah, du coup, elle est passée dans mes candidats.  Vous n'avez encore reçu aucune candidature ?  Vous n'avez encore reçu aucune candidature pour cette annonce ?  
+
+Speaker0: tout va bien ?  je comprends pas.  
+
+Speaker1: en fait en fait elle était dans mes suggestions.  du coup comme j'ai envoyé mon annonce oui voilà elle est passée dans mes candidats.  ouais bon c'est logique mais ouais prise de contact.  ok J'essaye de réfléchir en même temps.  
+
+Speaker0: Ok, non mais vous ne creusez pas trop la tête, mais c'est intéressant ce que vous venez de dire.  
+
+Speaker1: Pardon ?  
+
+Speaker0: Non, je disais que c'est intéressant ce que vous venez de dire, notamment le passage du candidat, de mes suggestions à mes candidats.  
+
+Speaker1: Oui, parce que moi dans ma tête je me disais que mes suggestions c'est le profil qui, en fonction de mes critères, me propose des candidatures.  Oui.  Et du coup, quand on clique sur ces suggestions et que si on est intéressé, en fait, si on est intéressé, j'envoie mon annonce ou je dis merci d'avoir porté intérêt.  Mais pourtant, moi, j'avais pensé qu'elle n'avait pas encore.  Vu que c'est une suggestion, ça m'a paru bizarre.  le message automatique, en fait.  Du coup, après, c'est logique que si j'envoie, elle se retrouve dans mes candidats puisque c'est moi qui l'ai choisi.  
+
+Speaker0: Est-ce que vous pourriez revenir, s'il vous plaît, à l'écran de votre annonce juste avant, s'il vous plaît ?  
+
+Speaker1: Oui, bien sûr.  
+
+Speaker0: Donc ici, sur l'écran de mes candidats.  
+
+Speaker1: Alors.  Oui.  
+
+Speaker0: Oui, de l'écran de mes candidats, s'il vous plaît.  Oui.  Juste là, parce que j'aimerais prendre une capture d'écran.  Justement pour illustrer ce que vous avez dit sur le manque de logique entre le... le message qui dit vous n'avez encore reçu aucune candidature pour cette annonce et la prise de contact avec un candidat qui était dans vos suggestions.  
+
+Speaker1: ouais ok merci pour l'intérêt porté à mon égard.  donc c'est comme si que c'était elle qui était venue vers moi alors que c'est l'inverse.  on est bien d'accord.  oui donc il y a un problème là.  Bah, c'est intéressant.  de pouvoir, si j'ai pu apporter quelque chose.  
+
+Speaker0: Oui.  Et si vous pouviez changer une seule chose, si vous aviez une baguette magique, que vous deviez changer une seule chose pour améliorer tout ça, qu'est-ce que ce serait ?  
+
+Speaker1: Ne pas en avoir besoin et être en bonne santé.  
+
+Speaker0: Ok, super.  
+
+Speaker1: C'est pas très drôle, mais... Sinon, je sais pas, j'ai essayé de faire part des choses des fois qui me paraissaient... Voilà, à voir.  Vous m'avez dit mi-février, vous allez la mettre en route, c'est ça ?  Oui.  D'accord.  Et vous avez eu pas mal de retours, là ?  
+
+Speaker0: Alors là, on a le retour de ce matin par justement la personne avec qui vous êtes virtuellement rentré en contact.  Et là on a à peu près, on a prévu de faire encore huit échanges de la même manière en visio en direct justement pour le parcours de l'employeur, le parcours de l'aide à domicile.  et aussi des tests en ligne auprès d'autres usagers avec un volume de 30 personnes pour essayer d'accumuler plein de retours et ensuite d'améliorer finement tous les points pour que ça soit vraiment très adapté.  C'est vrai qu'il faut se mettre à la place des gens qui sont fatigués, déjà malades, handicapés.  Après, ça peut être un proche qui remplit aussi.  Non, non, mais c'est pour ça, c'est exactement pour ça qu'on souhaite vous rencontrer et puis qu'on passe une bonne heure, c'est vraiment pour ça quoi, parce qu'on sait que personne n'est parfait et que la vérité revient du terrain et des usagers en priorité.  Donc voilà, mais en tout cas c'est super.  Séverine, merci beaucoup vraiment pour votre temps et merci de nous avoir expliqué votre situation et pour nous c'était vraiment une mine d'or de pouvoir avoir votre regard éclairé, votre expérience.  Est-ce que vous serez disposée à ce qu'on vous recontacte éventuellement dans quelques semaines pour vous montrer une autre version ?  Oui, oui, on veut bien.  En espérant que je sois apte, mais bon, voilà.  Oui, il n'y a pas de problème.  Merci beaucoup.  

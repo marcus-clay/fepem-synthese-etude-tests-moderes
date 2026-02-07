@@ -1,0 +1,434 @@
+# User Testing Feedback on Domestic Help Hiring App
+
+> Date : 04 February 2026, 10:20
+
+> Duration : 01:28:22
+
+
+## Brief summary :
+
+A user tested a new mobile app for hiring domestic help, providing feedback on the user interface, ad creation, and candidate contact features, highlighting areas for improvement and security concerns.
+
+## Transcript :
+
+Speaker1: Thank you.  
+
+Speaker0: Putaaaaaan !  
+
+Speaker1: Thank you.  
+
+Speaker0: Salut Thomas !  Salut Victor !  Ça va ?  Ça va et toi ?  
+
+Speaker2: Ouais.  Tu m'entends bien ?  Ça doit résonner un petit peu.  
+
+Speaker0: Ouais, quand t'as marché là, ça a fait un bruit au style Powers.  
+
+Speaker2: Ah ouais, les salles de réunion ici, c'est un peu compliqué en termes de son.  Ok.  Pas mal.  Hum... Ecoute, elle est prête normalement, Anne-Sophie.  Là, c'est FPM.  Comme je t'ai dit, les deux derniers, c'est FPM.  Aurélie, cet après-midi, c'est annulé.  On ne pourra pas se libérer, finalement.  Donc, Anne-Sophie a téléchargé l'application et je lui ai envoyé le lien.  ce matin de réunion, matin en pouce, donc tout est bon.  Je vais relancer Stéphane pour voir au vendredi, mais sinon, salut.  
+
+Speaker0: D'accord.  
+
+Speaker2: pour les paiements je m'en occupe aujourd'hui avec Cyril.  normalement les incentives ça devrait se faire dans la journée.  je te tiens au courant dès qu'on a mais on va pas essayer.  normalement on fait ça aujourd'hui.  
+
+Speaker0: ok ce que je peux te dire c'est que ce que je peux te dire en terme de prix c'est qu'en fait t'as en gros Ok.  Ok.  Ok.  
+
+Speaker2: C'est des process un peu compliqué quand on a des solutions comme ça, tu sais, qui sont un peu...  
+
+Speaker0: Oui, oui, oui, je vois très bien.  Tout ce qui est ça, c'est les licences de... Quand c'est pas dans le process des dépenses de l'entreprise, je vois très bien.  J'ai déjà connu ça.  Non, non, mais pour te dire que peut-être que, je sais pas si vous avez l'occasion de, éventuellement, peut-être éventuellement provisionner à 200 dollars, en cas où, je sais pas, tu vois, parce qu'entre 159 et 200, il y a 40 dollars.  Je me disais, éventuellement, s'il y avait un quoi, s'il y avait un besoin, ou si on se disait qu'au dernier moment, on voudrait rajouter un critère en plus... Bonjour Anne-Sophie !  
+
+Speaker2: Salut !  Bonjour !  Bonjour !  Vous allez bien ?  Ça va, merci et vous ?  Ouais, très bien !  Très bien, très bien, on va pouvoir commencer.  
+
+Speaker0: Est-ce que vous êtes prêtes ?  ok super alors l'idée c'est qu'on met un échange pendant une petite heure avec vous même et Thomas qui est là.  donc déjà merci d'avoir accepté de nous consacrer de votre temps et de participer à cet échange.  alors moi je m'appelle Victor je suis consultant en expérience utilisateur et j'accompagne l'équipe de la FEPM Thomas, Alice et Cédric donc sur l'amélioration d'une application qui va être lancée dans quelques jours, une application mobile de mise en relation entre les particuliers employeurs et les salariés.  
+
+Speaker1: Très bien.  J'ai téléchargé sur mon téléphone.  Super.  Et je n'ai rien fait d'autre.  
+
+Speaker0: Très bien.  Justement, comme ça, on va pouvoir s'y mettre.  Mais pour l'instant, c'était pour vous redonner un petit peu de contexte et vous dire que cette application, par rapport aux autres services de la FEPM, C'est une première étape pour la FEPM pour lancer ce type d'offre, donc vraiment la mise en relation en direct sur mobile entre particuliers employeurs et salariés.  L'objectif aujourd'hui, ça va être de comprendre comment vous allez utiliser l'application dans la peau d'une particulière employeur.  Et l'idée c'est qu'on ait un échange assez honnête sur ce qui va et surtout ce qui va pas, ce qu'on doit vraiment améliorer.  parce qu'en fait on est...  
+
+Speaker1: On est tombé sur la bonne personne, parce que c'est peut-être un franc papier donc...  
+
+Speaker0: Ah bah super, parfait !  Sachant que là on est en phase de test d'une version avant de pouvoir la déployer en public sur les stores, l'App Store et le Google Play Store.  D'accord.  Voilà, et également, dernier point, comme on est dans une phase d'étude, on enregistre la conversation.  Et l'idée, c'est que cette conversation, elle reste dans le cercle privé de l'équipe de Thomas dans le temps de l'étude, donc trois mois.  Est-ce que vous êtes d'accord là-dessus ?  
+
+Speaker1: Oui, oui, pas de problème.  
+
+Speaker0: D'accord, super.  Oui.  Ensuite, après le partage d'écran, vérifiez que vous partagez votre écran, donc ça c'est top.  Et après, on va voir ensemble comment on va pouvoir partager l'écran de votre mobile pour pouvoir voir l'application et pouvoir la manipuler.  
+
+Speaker1: D'accord, parce que là, l'application je l'ai installée uniquement sur mon téléphone.  
+
+Speaker0: C'est très bien, parce que c'est une application pour téléphone, donc là-dessus on est bon.  Et en fait, ce qu'il faudrait là, c'est que vous puissiez...  
+
+Speaker1: pour accéder à la visio, c'est ça ?  
+
+Speaker0: Alors, c'est pas Teams, là, parce qu'on est dans un Google Meet, mais normalement, le...  
+
+Speaker2: Oui, je vais envoyer le lien par Teams, donc oui, Anne-Sophie, effectivement, il faut aller sur Teams, cliquer sur le lien pour rejoindre, et après, on pourra partager l'écran.  
+
+Speaker1: D'accord, ok.  
+
+Speaker2: Pardon, je vous ai tutoyé, moi, je suis morte, il n'y a pas de souci, non ?  
+
+Speaker0: Pas de problème.  
+
+Speaker1: Vous allez me voir sur mon téléphone et sur mon principe.  Oui.  Alors, configuration.  Rejoindre.  Pensez bien à utiliser le micro et... J'ai coupé le son de mon téléphone.  
+
+Speaker2: Oui, vous pouvez retirer la caméra aussi du téléphone.  
+
+Speaker1: Oui, parce que là, c'est sous tous les angles.  Voilà, parfait.  
+
+Speaker0: Ensuite, après, si vous voulez, je peux partager mon écran.  Je vous partage un petit guide de partage.  
+
+Speaker1: Je vous entends très bien.  D'accord.  Est-ce que je peux couper le son de mon téléphone ?  
+
+Speaker0: Oui, complètement.  Clairement, vous pouvez couper.  En fait, sur le côté, avec le bouton de volume, vous pouvez baisser.  C'est bon.  Merci.  Trop bien.  Pour commencer, quand vous vous trouvez dans la conversation, est-ce que vous êtes sur cet écran-là ?  
+
+Speaker1: Euh...  
+
+Speaker0: Quoi ?  Le premier écran, normalement, c'est l'écran où on est en... Vous êtes dans la visio... Vous êtes dans la visio ?  Oui.  Yes.  Ok, bah parfait.  Ensuite, après, en bas, vous avez une petite barre d'action avec des boutons.  Et le bouton à côté du bouton éteindre, c'est trois petits points.  Est-ce que vous le voyez ?  Oui.  Très bien.  Ensuite, quand vous allez appuyer dessus, ça va vous ouvrir un menu avec des options.  
+
+Speaker1: Oui, c'est bon.  
+
+Speaker0: Ensuite, l'icône, normalement, c'est l'icône en haut à droite qui est le carré avec la flèche pour partager.  
+
+Speaker1: Alors, le mien, il est plus allongé.  Alors, du coup, ce n'est pas à droite.  J'arrive pas à voir.  C'est celui qui est à côté.  
+
+Speaker2: La forme de l'icône, c'est un rectangle avec une flèche qui pointe vers le haut.  
+
+Speaker0: Faites voir.  Attendez, je vais essayer de voir.  
+
+Speaker1: Ah oui, ça y est.  Et moi, il est en bas.  Il est sur le côté à gauche.  C'est bon, j'ai appuyé.  Ok.  Oui, vous pouvez faire ça.  
+
+Speaker0: Oui, vous faites commencer.  ok donc là c'est toi parce qu'on voit bien votre écran.  ensuite après ensuite donc là on voit le l'écran en train de se partager dans la vidéo.  donc c'est un concept réalisé mais en gros pas paniqué.  là vous pouvez vous pouvez appuyer sur le bouton de d'accueil de votre téléphone le bouton rond milieu tout en bas.  là comme ça on va on va sortir de l'application mythe le bouton d'accueil.  oui tout en bas sur Android sur votre téléphone vous avez les trois les trois traits le bouton rond et le bouton back.  là le bouton flèche tout en bas vraiment en bas de l'écran le bouton les boutons du système.  
+
+Speaker1: d'accord.  donc là j'appuie sur le tout du milieu c'est ça.  Je pense que vous êtes tombé sur la bonne personne pour l'application.  
+
+Speaker0: Franchement, c'est fluide.  C'est juste que c'est quand même très complexe parce qu'il y a plein de visualisations, il y a plein de manips, mais honnêtement... Et ensuite, vous allez taper sur « Fais peine » tout en haut à droite.  et comme ça on va pouvoir la voir.  voilà comme ça.  et en plus on la voit comme ça dans la visio.  donc avant de démarrer le parcours voilà donc là c'est top parce que notre checklist logistique elle est validée.  donc c'est super euh... donc je vais vous expliquer un peu comment ça va se passer.  donc là on va prendre peut-être 5 minutes pour faire un petit peu connaissance comprendre qui vous êtes voilà, comprendre un petit peu qui vous êtes.  est-ce que vous pouvez attendre une application comme celle-ci?  ensuite après on fera une petite demi-heure ensemble de tests en testant l'application.  avec le démarrage la création d'un compte la création d'une annonce, sa publication et à la fin donc on verra comment... pour analyser des suggestions de candidats et choisir un candidat, voir si on a encore le temps de prendre contact avec lui.  D'accord ?  Oui.  Voilà, donc on va commencer par un petit peu de contexte.  Avec Thomas, on s'est déjà présenté tout à l'heure.  Est-ce que vous pouvez, s'il vous plaît, à vous présenter ?  
+
+Speaker1: Oui, bien sûr.  Je travaille à la FIPM depuis bientôt 15 ans.  Au mois de mars, ça fera 15 ans.  Je suis responsable régionale de l'île de la Réunion.  Donc nous avons un peu plus de 9000 km qui nous séparent.  Ce n'est pas anodin, ma présentation, il y a 9000 km qui nous séparent.  C'est pour la géolocalisation que je vous dis ça.  J'ai été particulière employeure à plusieurs reprises.  Actuellement, je suis en recherche d'une femme de ménage, ou d'un homme de ménage, mais c'est plutôt des femmes.  Une personne qui fasse le ménage à la maison.  Je n'ai pas encore effectué mes recherches pour l'heure.  Je pense qu'il n'y avait pas de suivi, je ne sais rien, il y a peut-être des problèmes techniques en tout cas.  Habitant à La Réunion, moi je n'avais aucun profil à trouver.  OK.  OK.  à mon expérience.  Pour le moment, c'est quand même une grande demande des particuliers employeurs d'être mis en relation.  Ce sera vraiment une plus-value pour nous, pour poser ce service aux particuliers employeurs.  Comme nous sommes sur une île, forcément, en 15 ans, le réseau que nous avons tissé est important.  Donc moi, j'expérimente quand même pas mal de projets sur l'île.  Depuis 10 ans, je fais ce qu'on appelle la semaine des particuliers employeurs, donc avec la réunion des différents partenaires institutionnels.  Et puis, l'an dernier, on fait un tour avec un bus.  Voilà la rencontre des particuliers employeurs.  C'était difficile vraiment de les rencontrer, mais je pense qu'avec une nouvelle offre de services et puis avec... Donc ce dispositif que vous mettez en oeuvre, ça va être un plus et on va réussir à atteindre nos objectifs.  Vous pouvez me poser des questions parce que moi je peux parler pour moi.  
+
+Speaker0: Oui, en tout cas, ça faisait partie du contexte.  Il y avait effectivement savoir si vous aviez déjà employé quelqu'un à domicile, quel pour quel besoin, comment vous l'aviez trouvé ?  C'est intéressant aussi ce que vous dites sur la démarche de développement du réseau et les questions liées à cette offre-là parce qu'effectivement c'est un vrai levier, on le pense, pour la FEPM de pouvoir attirer des nouvelles cibles, être encore plus au cœur du quotidien des gens parce que c'est présent sur mobile.  on a des questions nous sur le fait que ce soit une mobile native uniquement et qu'il n'y ait pas encore de version web.  on a déjà fait 6 ou 7 tests avec des particuliers employeurs ou des salariés futurs en recherche d'emploi.  tout le monde avait un point de vue assez différent aussi sur cette application et aussi des besoins du quotidien qui étaient vraiment différents liés à justement dans cette question de trouver un emploi ou bien de trouver un salarié.  et donc on a eu plein de contextes différents.  et en tout cas ce qu'on sait c'est que le fait d'être présent sur mobile ça permettra aussi d'avoir l'opportunité de communiquer d'avoir plus de proximité avec les usagers de créer peut-être de la récurrence, des rendez-vous aussi.  Et voilà, pour l'heure on a une application qui est quasi finalisée, donc je vous propose qu'on la teste ensemble, et puis que vous nous fassiez vos retours.  Encore une fois, l'idée c'est de verbaliser à haute voix ce que vous voyez, ce que vous comprenez.  On va vous poser quelques questions, et puis surtout quand il y a des choses qui sont incomprises ou qui ne sont pas claires, Voilà, on se le dit comme ça nous on prend ça en note et on améliore.  Donc là vous avez donc ouvert l'application.  Donc vous l'avez téléchargée.  Vous imaginez que vous allez rechercher une aide ménagère.  Et donc là vous allez commencer par créer un compte.  
+
+Speaker1: J'y vais.  
+
+Speaker0: Ouais.  
+
+Speaker1: Après je mets mon adresse mail.  
+
+Speaker2: Je suis à septième personne, c'est ça ?  
+
+Speaker0: Euh, oui.  
+
+Speaker1: Alors, je suis dans la recherche d'une aide à domicile.  Je clique là-dessus.  
+
+Speaker0: Est-ce que pour vous, c'est clair ?  
+
+Speaker1: Oui, c'est assez courant d'avoir ce genre de choses.  Donc, je crée mon compte.  Un faux compte où je mets mon nom.  
+
+Speaker0: Là, c'est des comptes test.  Donc, peu importe, en fait.  
+
+Speaker1: Moc.  
+
+Speaker0: Ouais.  
+
+Speaker1: le mot de passe.  
+
+Speaker0: vous pouvez mettre le mot de passe que vous souhaitez.  
+
+Speaker1: ah mince au moins un chiffre j'en ai mis.  j'ai mis un deux trois quatre pourquoi il me dit au moins un chiffre?  qu'est-ce que je fais là?  il faut que je joue le jeu de vraiment mettre des chiffres et des lettres.  oui bon Ah, mais j'ai déjà mis les chiffres, en fait, et... Ah oui, d'accord, OK pour le chiffre, et maintenant c'est majuscule, OK.  Je suis gentille.  8 caractères, et il me manque un truc spécial.  Attends, il faut que je me rappelle pour après, parce que je l'ai fait au hasard.  Attends, il faut que je recommence.  Alors, 1, 2, 3, 4, A minuscule, A majuscule, et un pourcentage.  A minuscule.  Ah, qu'est ce qui se passe ?  Je pense que j'ai mis le même code.  1, 2, 3, 4, A, A. Je suis madame.  C'est une adresse mail.  J'ai mis un code.  C'est poché.  Je consens.  Il fallait que je... Ah !  En fait, du coup, je croyais qu'il était déjà couché.  Et je n'ai pas recouché sur.  je consens que mes données soient...  
+
+Speaker0: Ok.  Pour vous, c'était quelque chose qui n'était pas clair ?  
+
+Speaker1: Alors là c'est Thomas qui va vous transmettre le code.  
+
+Speaker2: Alors, le code c'est 837 802.  Ok.  Alors, créez votre annonce.  
+
+Speaker1: Alors, Alors, on les a identifiés.  
+
+Speaker0: Vous avez identifié, mais après ils sont classifiés, il y a une certaine classification.  
+
+Speaker1: D'accord.  Alors, là je fais la même erreur que tout à l'heure.  
+
+Speaker0: Ok.  
+
+Speaker1: C'est-à-dire que j'avais l'impression que les trois étaient déjà sélectionnés.  Ça me dit que le lieu d'intervention, il faut l'adresse.  ah il me géolocalise c'est ça ?  ok bon ben là je suis pas chez moi je suis au bureau mais pareil j'ai un faux compte.  donc je recommencerai tout comme ça fonctionnera pour moi.  
+
+Speaker0: oui c'est ça.  
+
+Speaker2: pour l'adresse c'est pareil.  on va mettre une adresse une vraie adresse mais celle de l'AFPN.  du coup le 79 pour le test pour le test d'accord.  
+
+Speaker1: Et donc là, je dois faire quoi ?  
+
+Speaker0: Là, par rapport à ce que vous voyez, qu'est-ce que vous comprenez ?  Par rapport à l'adresse effectivement renseignée, vous pouvez renseigner l'adresse, 79 rue de Monceau.  
+
+Speaker1: Ah, mais elle est déjà inscrite.  Ok.  Il faut que je la réinscrive, c'est ça ?  
+
+Speaker0: Oui.  
+
+Speaker1: C'est Ballot de Monceau.  il est parti.  ok donc ça géolocalise j'enregistre il faudra vraiment faire un test pour la réunion quand même.  j'indique le lieu d'intervention.  c'est le même grand ménage est à des lieux réguliers qui est régulier.  j'ai choisi la date du début d'intervention.  c'est comment dire précis sans avoir rencontré la personne sans faire l'entretien et tout ça.  comment dire que je souhaite que l'intervention débute?  bon on va dire qu'on va être raisonnable.  Je suis flexible.  Je choisis les jours d'intervention et les créneaux souhaités.  Donc ça veut dire que je dois cliquer sur les jours.  la journée, ok ?  Ah non, il m'a sélectionné m'a dessiné, là ?  Ah oui, il sélectionne m'a dessiné directement tout seul.  
+
+Speaker0: Justement, qu'est-ce que vous comprenez, effectivement ?  
+
+Speaker1: Je comprends qu'il nous a mis en erreur, parce qu'en fait, moi je m'en moque que la personne vienne le matin ou l'après-midi, pas le soir, mais... Bon, je reclique donc sur les trois jours que j'ai sélectionné, je dois recliquer sur mon souhait, c'est-à-dire toute la journée.  C'est ça, elle peut choisir un créneau.  C'est ça, un créneau.  Elle ne va pas travailler toute la journée, on est d'accord.  Donc, je continue.  Félicitations, votre annonce est en ligne.  afficher des suggestions.  Je pense à mes parents qui ont 77 et 78 ans, qui n'utilisent pas Internet.  Ça, ils ne pourront pas le faire.  Ils me demanderont, mais...  
+
+Speaker0: D'accord.  Pourquoi ils ne pourront pas ?  
+
+Speaker1: Parce qu'ils s'agacent assez rapidement par manque de connaissances, compétences, on va dire, avec le téléphone.  Euh...  
+
+Speaker0: D'accord.  
+
+Speaker1: D'accord.  Oui, on a des partenariats.  Ces points d'information, on les appelle les espaces France Emploi Domicile.  C'est des partenariats que la FETEM effectue auprès de CCAS, auprès de services qui sont déjà en lien avec la population des usagers.  Une fois par an, on peut actualiser les connaissances de ces personnes sur notre secteur.  Quand il y a une nouveauté, on les briefe.  Ce sera un moyen... un sujet supplémentaire qu'on pourra avoir avec eux.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et on a des grosses structures mandataires aussi.  Les structures mandataires ont aussi un besoin de recruter des salariés.  Là, c'est pour les particuliers employeurs.  Je ne sais pas s'il y a une version pour les structures mandataires, si ce sera différent ou pas.  Mais sachez que nous, on a quand même des structures qui ont 1 000, 1 200 mandants, des particuliers employeurs, D'accord.  
+
+Speaker0: ça permet d'un côté de pouvoir évangéliser et faire la promotion du service.  donc ça c'est bien.  et en plus derrière en plus il peut y avoir de la médiation et une aide à l'usage et effectivement de la possibilité de créer des comptes rapidement et d'utiliser le service en étant en étant au clair.  en fait ça peut permettre de faciliter la la croissance du réseau qui sera présent sur l'application ?  Et une adoption ?  
+
+Speaker1: Il y a même des demandeurs d'emploi qui ont des soucis avec Internet.  C'est pour ça que nous, on a encore un service de proximité en direct.  Et plus ça va aller, plus ces personnes vont être formées, accompagnées, et puis les nouvelles générations vont suivre.  
+
+Speaker0: D'accord.  
+
+Speaker1: Il y a les proches aidants aussi.  On a un partenariat avec une association de proches aidants hum hum hum.  
+
+Speaker2: Il n'y a pas de date encore vraiment définie.  Ce qui est sûr c'est que l'application sera prête pour le 10 février.  L'annoncement n'a pas, en tout cas moi à date je n'ai pas encore d'informations particulières dessus, mais des échos que j'ai c'est vers mars.  D'accord.  et de ma connaissance aussi, encore une fois, Anne-Sophie, je ne crois pas que La Réunion ait été sélectionnée dans les régions, etc.  
+
+Speaker1: Oui, j'ai compris, il y en a toujours les derniers, mais... Pour autant, les problématiques qu'on rencontre, c'est surtout des soucis de géolocalisation.  Mais, quand on fait des recherches, souvent, quand le... C'est quand même un peu gênant.  Si on fait la promotion nationale, on croit que ce sera déployé au national.  le service ne fonctionne pas localement même si on est qu'un petit département isolé.  moi souvent ce que je dis à mes interlocuteurs c'est que DROM ça veut pas dire département et région oublié sur la mer.  
+
+Speaker0: après juste par rapport au terme déploiement.  en fait techniquement si l'application elle est déployée sur les stores en fait elle est trouvable ?  Est-ce que Thomas, tu disais au niveau du déploiement, c'était mise en ligne sur les stores et ensuite après communication et prise de parole autour de, enfin sur les sites, ou est-ce que c'est le déploiement sur les stores d'applications ?  Parce qu'en soi, quand c'est déployé, tu pourrais dire que c'est déployé sur France et Drome et Tom ?  
+
+Speaker2: J'en ai aucune idée.  Je sais que c'est en cours de discussion.  La volonté, c'est de déployer sur des régions.  Maintenant, la solution technique qui va être utilisée, j'en ai aucune idée.  Comme en fait, c'est pas tout à fait clair encore être tranché sur est-ce que déjà on fait en région ou pas et quelle région ?  Voilà, donc je donne juste les petits bouts du puzzle que j'ai, mais voilà quoi.  
+
+Speaker0: D'accord, ok.  
+
+Speaker1: Je pense que les tomes ne sont pas touchés parce que c'est pas la même législation.  Nous, la FEPM représente France Hexagonale et les drômes, mais pas forcément les tomes.  
+
+Speaker0: Ok, je vous propose qu'on avance.  En tout cas, merci pour ces informations locales et régionales.  Effectivement, vous avez validé la publication de votre annonce.  Où est-ce que vous pensez que vous vous situez et qu'est-ce que vous pouvez faire à l'écran ?  
+
+Speaker1: Je peux compléter mon annonce.  Non, je n'ai pas compris.  Ah, attends.  Je pensais que c'était mon annonce que j'allais voir.  Ah, mais je ne l'ai pas complété, donc il faut que je….  Je n'ai pas compris ce que c'était les suggestions là-dessus.  
+
+Speaker0: D'accord.  
+
+Speaker1: Il y a déjà des gens, en fait, c'est ça, qui se… qui sont positionnés juste parce que j'ai dit je cherche une femme de ménage sur Paris et les environs, c'est ça ?  
+
+Speaker0: Qu'est-ce que vous en pensez ?  
+
+Speaker1: Ben, j'en pense que je n'ai pas compris.  Attendez, moi, quand je ne comprends pas, de toute façon, je clique.  Alors, je fais comme si vous n'étiez pas là.  Non, je vais compléter mon annonce, ce qui serait logique, mais je ne comprends pas pourquoi j'interviens là encore.  Ah d'accord.  Ah mais c'est déjà complété ?  Les tâches, ah oui d'accord, c'est parce que j'ai enlevé le repassage et le d'accord, la fréquence et la date de début.  Disponibilité complétée.  Non, pourquoi j'ai déjà complété ça ?  Descriptions.  D'accord.  Donc là, il faut que je mette mon annonce.  Ok.  J'enregistre.  Niveau d'expérience souhaitée.  Ah !  On ne peut mettre qu'une... Le logement type d'habitation donc ça c'est le mien.  je complète sur mon logement.  ok d'accord et je peux regarder le détail de mon anneau.  
+
+Speaker0: Est-ce que cette annonce correspond à ce que vous envisagez ?  Est-ce que vous voyez des critères manquants à première vue ?  
+
+Speaker1: Qu'est-ce que je recherche ?  L'expérience.  Il peut y avoir quelque chose qui peut aider le particulier employeur, c'est de savoir si actuellement il travaille chez d'autres personnes.  
+
+Speaker0: D'accord.  
+
+Speaker1: Oui, donc ça... Je ne propose pas un tarif.  C'était dans l'annonce, peut-être qu'il fallait que je le mette.  
+
+Speaker0: Alors, du côté du salarié candidat, cette information est présente, elle existe et on lui demande de la renseigner.  
+
+Speaker1: Oui, mais pas l'inverse.  Ok.  Pour une femme de ménage, je n'ai pas demandé plus.  Si j'ai aimé que je trouvais qu'elle ait au moins trois ans d'expérience, je ne vais pas lui demander ce type de salarié, si elle s'est formée, si elle est diplômée.  Je m'en moque.  Si j'étais un parent, peut-être que là je questionnerais la garde d'enfants.  
+
+Speaker0: D'accord.  
+
+Speaker1: Je ne sais pas s'il y a des asthmates, je ne vais pas cliquer ça, mais... Pourquoi selon vous ?  
+
+Speaker0: Il trouve ce prétexte des animaux.  Je pense qu'entre vous, vous dites que c'est une excuse entendable.  Mais en fait, de manière un peu plus profonde, qu'est-ce qui, selon vous, lui fait dire ça ?  
+
+Speaker1: Pour l'instant, c'est le début de la perte d'autonomie, même pas de la perte d'autonomie, mais de la dépendance de ma mère.  C'est un crochet d'an.  Il n'a pas la situation.  Je pense qu'il y a un chemin à faire pour... Oui, je... Je sais pas.  
+
+Speaker0: Par rapport à ça justement, par rapport à ce que vous dites, parce que ce que j'entends entre les lignes, et je l'ai aussi vécu, mais effectivement c'est la conscientisation de la personne à sa perte d'autonomie et donc à accepter d'être aidée, accompagnée, ce qui est quelque chose de très difficile à assimiler, je pense.  Est-ce que selon vous, ce type de dispositif, ce type d'application peut être un moyen d'aider, d'accompagner ?  Si ce n'est sur les profils, mais aussi sur cette idée de mentaliser cette évolution ou de donner accès à des ressources complémentaires ou à des contacts en plus ?  
+
+Speaker1: Je ne sais pas.  Ce que je sais, c'est que beaucoup de personnes âgées, pas que mes parents, ont toujours cette crainte de faire rentrer quelqu'un qu'ils ne connaissent pas chez eux.  de rencontrer.  Il y a beaucoup d'emplois intrafamiliaux ici à la Réunion, donc je vous disais, il y a pas mal de projets aidants, mais souvent, des fois, les aidants sont salariés, pas forcément particuliers employeurs.  Donc, voilà.  En tout cas, à la Réunion, ils sont plutôt des actifs, à mon avis.  D'accord.  Des particuliers qui veulent conseiller leur vie professionnelle et personnelle.  Ok, merci.  
+
+Speaker0: A présent, effectivement, on a observé cet écran, vous avez vu les détails liés à l'annonce.  A présent, si on regarde dans cette zone un peu plus basse de l'écran, votre annonce est publiée.  J'aimerais qu'on revienne là-dessus, sur cette notion de... Tout à l'heure, vous nous avez dit que vous n'avez pas compris ce que c'étaient mes suggestions.  Quand vous regardez un petit peu plus cette partie avec les différentes cartes, On voit là, qu'est-ce que vous comprenez de ça ?  
+
+Speaker1: Oui, en fait, ce que je ne comprenais pas, c'est que mon annonce n'était pas terminée et que j'avais déjà des suggestions.  Mais là, je comprends que ce sont des suggestions.  Donc, si je clique sur le cœur, ça sera mes candidats, peut-être.  Mais est-ce qu'on peut dérouler pour avoir des précisions sur les candidats ?  Je peux essayer.  Alors, avec la photo, ça passe mieux.  Je crois que c'est dans différents sites.  c'est quelque chose qu'il faut recommander au candidat peut-être au particulier employeur mais au candidat en tout cas celle-ci qui sourit ça donne plus envie.  même si elle propose 18,56€ c'est précis de l'heure.  donc apparemment elle habite à proximité de là où je vis à 9km.  je trouve que c'est important.  la personne que je veux embaucher habite à ses 10-15km autour.  je sais que ici en tout cas je parle toujours de la réunion.  désolé je sais pas pour les autres mais le moyen de transport qui est pratiqué c'est le bus et des fois elles n'ont pas de permis de conduire et elles n'y vont pas en vélo au boulot parce que c'est comme ça.  c'est très pentu chez nous.  donc si elle habite à proximité c'est bien de pouvoir identifier le nombre de kilomètres.  d'accord Votre avis ?  Qu'est-ce que vous imaginez quand vous voyez ça ?  C'est-à-dire que pour avoir les coordonnées, il fallait payer une somme.  
+
+Speaker0: D'accord.  Donc là, selon vous, là, c'est ce qui... On est dans ce même cas de figure ?  
+
+Speaker1: Je sais pas.  Ben, sûrement.  Envoyer mon annonce.  Donc, envoyer mon annonce, ça veut dire que à cette personne, je peux lui dire que je recherche quelqu'un et que c'est elle que j'ai présélectionné ?  C'est une question pour répondre.  
+
+Speaker0: On pourrait tout vous dire et on terminerait le test, mais justement, c'est intéressant parce que c'est de savoir vous au ressenti comme ça, au feeling, qu'est-ce que ça veut dire envoyer mon annonce et qu'est-ce que ça implique ?  
+
+Speaker1: Ah ben non, elle n'est pas intéressée parce qu'elle cherche un temps complet.  Donc, elle propose, cette personne propose du ménage, du repassage, de l'entretien du linge.  Très bien.  Je sais cliquer dessus parce que peut-être que, non, ça c'est ses compétences.  C'est le début du 26 janvier.  OK.  Type de contrat en complet.  Je ne comprends pas ce qu'il faut que je fasse, en fait.  Pour moi, c'est envoyer mon annonce à cette personne.  Je fais ça.  Bonjour, merci pour l'intérêt porté à mon égard.  Je souhaite échanger avec vous.  Bonjour, merci.  Alors, c'est moi qui lui ai écrit.  Ah oui, d'accord, ok.  Je viens de comprendre.  Dans la simulation, je poste une annonce et ces trois candidats ont cliqué pour me dire qu'ils étaient intéressés.  Et donc, la personne, elle m'envoie un message, la candidate, Elle me remercie, c'est ça ?  Ou c'est un truc automatique ?  
+
+Speaker0: Merci d'explorer toutes ces pistes, parce que c'est exactement le genre de questions qu'on a. Là, en l'occurrence, c'est quand vous cliquez sur « Envoyer mon annonce », ça précharge un message pour aller plus vite.  Sachant que la candidate que vous avez contacté provenait de mes suggestions.  Donc vous avez dit tout à l'heure, je comprends qu'en fait j'ai publié mon annonce et donc en gros j'ai des suggestions qui me sont proposées.  Et là vous avez donc consulté le profil de cette candidate et donc vous avez envoyé votre annonce.  Donc elle n'a pas forcément manifesté d'intérêt envers votre profil ni votre annonce.  mais par contre vous avez l'opportunité de lui créer un message là.  Donc selon vous le message qui est présenté dans le champ, est-ce qu'il est adapté à votre contexte ?  Est-ce qu'il est faux ?  Est-ce que c'est pas exact ?  Est-ce que c'est trompeur ?  Qu'est-ce que vous feriez vous à la place dans un mode...  
+
+Speaker1: J'essaie de comprendre encore donc.  Mon annonce est parue et... Oui.  Oui.  C'est une très bonne question, une très bonne remarque.  Je croyais que c'était elle qui me remerciait au départ.  Oui, bien sûr.  
+
+Speaker0: Ce qu'on constate, c'est qu'effectivement, il y a une petite friction.  Par contre, le champ, est-ce que vous pouvez voir si vous pouvez l'éditer et lui écrire le message qui vous semblerait le plus….  
+
+Speaker1: Non, j'ai envoyé.  Excusez-moi, j'ai envoyé.  Il ne fallait pas que j'envoie.  Je peux faire marche arrière ?  Pas du tout.  
+
+Speaker0: Essayez de voir.  
+
+Speaker1: Non, je ne peux pas.  Mince.  Elle aura la phrase un peu….  
+
+Speaker0: Ok.  
+
+Speaker1: Je continue sans photo.  Du coup, j'aurais pu effacer ce qui était écrit, c'est ça ?  
+
+Speaker0: Oui.  
+
+Speaker1: Donc, en cliquant dans le cadre, j'aurais pu effacer et réécrire ce que j'avais envie.  Ok.  Ok.  
+
+Speaker0: Là, si vous souhaitez, vu que c'est passé un peu vite, on pourrait retenter, pourquoi pas, être un autre candidat.  
+
+Speaker1: Ok.  Alors, pourquoi voir l'annonce ?  Voir l'annonce de quoi ?  La mienne ?  
+
+Speaker0: Justement, oui.  D'accord.  
+
+Speaker1: Donc là, j'ai les suggestions.  Et est-ce qu'à droite, j'ai mes candidats ?  Et oui, j'ai mes candidats.  Celle qui m'intéresse, elle apparaît dans, elle a basculé dans mes candidats.  Mes suggestions, donc j'ai Jocelyne Pamar.  Donc je vais cliquer, elle est débutante, non ?  Ce que j'avais dit, confirmer, essayer de rester cohérent.  Elle habite à, voisine.  en fait, elle habite à zéro kilomètre de chez moi.  C'est-à-dire que c'est ma voisine du dessus.  Autant j'aime, je souhaite la proximité, autant je suis pas certaine que être voisin, ce soit un bon plan, mais bon.  On va cliquer quand même.  Allez.  
+
+Speaker0: Tu pourrais l'inviter à boire le café.  
+
+Speaker1: Oui, bon, après si elle fait mon ménage, moi c'est que certainement je travaille, donc je peux boire le café, mais en dehors du temps de travail.  Oui.  Alice Lamy, elle est aide-ménagère, elle demande, elle souhaiterait 18 euros de l'heure.  Elle habite à côté de chez moi, je n'ai pas son téléphone.  C'est-à-dire que je l'aurai si elle me répond, je pense.  Elle fait le ménage de repassage et OK.  Donc, je lui envoie mon annonce.  Et là, je modifie.  Je souhaite échanger avec vous afin de définir la contractualisation, blabla.  OK ?  Et est-ce que si je lui mets, pourriez-vous m'appeler au 06 92 bla bla bla bla, elle peut le faire directement ?  Elle pourra le faire directement ou il faut qu'on s'écrive ?  
+
+Speaker2: Vous pouvez essayer, on a notre numéro, essayez.  
+
+Speaker1: Les trois premiers messages ne doivent pas contenir le contenu tentant de quitter la plateforme.  Petit malin que vous êtes.  Mais ça, on l'écrit en lettres, si on ne peut pas payer.  Mais je fais pour vous.  Pour pouvoir converser avec Alislami, vous devez attendre qu'elle réponde positivement à votre demande.  Ok.  Ok.  
+
+Speaker0: J'ai pas compris.  L'écran juste avant, avec l'encart violet qui était au milieu, à quel endroit vous vous situez ?  
+
+Speaker1: Je ne comprends pas.  Sur la précédente...  
+
+Speaker0: Oui, sur l'écran précédent où il y avait la fenêtre avec à l'intérieur l'encart violet au milieu ?  
+
+Speaker1: Est-ce que je peux le revoir, cet écran-là ?  Je ne comprends pas ce que vous me dites.  
+
+Speaker0: Ok, ok.  Non, non, mais c'est pas... Parce que, justement, c'est un écran de l'application qui est un des écrans clés dans l'échange particulier.  Voilà, ici.  Où est-ce que vous vous situez, selon vous ?  Où est-ce que je me situe ?  Ouais, là, cet écran, c'est quoi comme écran  ? À  quoi il sert, selon vous ?  
+
+Speaker1: Quoi il sert ?  Il sert à échanger dans une première étape d'échange avec un candidat qui va faire le choix ou pas de me répondre.  
+
+Speaker0: D'accord.  Ok.  Encore une fois, il n'y a pas de bonne ou mauvaise réponse ni de piège.  C'est vraiment pour essayer de bien comprendre ce que vous en comprenez, si les codes sont clairs.  et savoir ce que vous pouvez faire avec.  
+
+Speaker1: C'est vrai que j'ai cette expérience de la plateforme que j'ai utilisée.  Donc, peut-être que du coup, je me suis un petit peu familiarisée à ça.  Mais du coup, est-ce qu'il n'y a pas... Est-ce qu'on peut... Parce que des fois, les candidats ne sont pas réactifs.  Est-ce qu'on pourrait pas avoir, comme pour Airbnb, ou pour des petites annonces entre particuliers, ce candidat a tendance à répondre au bout de 24 heures ?  Celui-là, il attend deux ans et demi.  Est-ce que c'est aussi un moyen de savoir si on doit patienter ou pas ?  Très bien.  Très intéressant ce que vous nous partagez là.  Oui, c'est pour ça que l'application il faut qu'elle soit expérimentée à la réunion moi je vous le dis mais oui mais complètement tout terrain.  
+
+Speaker0: et là admettons vous souhaitiez envoyer un message à Alice.  comment vous feriez ?  
+
+Speaker1: Alice et bien je ne savais pas que j'avais cette possibilité de lui envoyer un message encore.  je viens de lui en envoyer donc je vais cliquer sur sa photo.  tiens Alice, il n'y a pas une petite enveloppe quelque part ?  Et la petite enveloppe, ça peut être le symbole de « je vous écris » ?  Oui.  Alors, je vais voir.  J'ai appuyé sur le téléphone.  Voilà, j'ai la réponse à ce que je souhaitais.  « Vous souhaitez contacter un salarié en devenant adhérent à la FPM, accéder au numéro de téléphone des salariés afin d'échanger en direct  ? ».  Oui, excellente question.  Comment vous le feriez ça ?  c'est à dire qu'il faut peut-être stipuler que vous êtes adhérent.  vous pouvez rencontrer en direct et contacter en direct des candidats qui vous conviennent et sur une page d'accueil peut-être parce que là ça fait beaucoup de devinettes.  ok parce que là j'ai cliqué sur le téléphone parce que tout à l'heure j'avais déjà pressenti que c'était bloqué mais je n'avais pas cliqué dessus.  et c'est là seulement que je vois que je peux l'appeler directement Si je deviens adhérent.  Mais si je le suis déjà.  Peut-être que c'est quelque chose qu'il faut avoir une information en amont.  Et donc à votre question, comment vous lui écrivez à cette petite dame ?  Il n'y a pas de... Je ne vois pas.  Je ne vois pas comment faire.  J'ai cliqué sur le cœur là.  On a compris que c'était quelqu'un que j'aimais bien.  OK.  
+
+Speaker0: l'argent c'est l'argent c'est voilà c'est on sait.  non non et autrement sans passer par le parcours d'adhérent et par le paiement  
+
+Speaker1: il faut qu'elle me réponde elle en premier parce que c'est écrit il y a un petit verrou pour pouvoir converser avec Alice vous devez attendre qu'elle réponde positivement à votre demande et en bas après Merci.  
+
+Speaker0: Hum.  en tout cas c'est top parce que ça va vraiment nous aider.  là on est arrivé globalement au bout du parcours.  très bien je voulais revenir avec vous si on peut reprendre une petite seconde avant de faire la conclusion de fin parce qu'il est 12h26.  on arrive bientôt au terme de notre échange.  15h26 chez vous Tout à l'heure, dans un des premiers écrans, au moment du choix du besoin, vous avez dit, est-ce qu'il y a d'autres besoins ?  Et j'aurais aimé en fait...  
+
+Speaker2: Anne-Sophie, tu disais qu'il manquait certains métiers, que ce soit les besoins.  
+
+Speaker1: Ah oui, en fait...  
+
+Speaker0: Je vais vous partager ce que je l'ai là.  
+
+Speaker1: Vous avez mis les principaux, je suppose, mais il y a peu.  
+
+Speaker0: Justement, je vais repartager cet écran-là, vous voyez ?  
+
+Speaker1: Oui, oui.  
+
+Speaker0: Et donc, quand vous avez vu ça, effectivement, vous avez dit spontanément, est-ce qu'il y a les autres métiers ?  Enfin, vous avez eu une question qui m'a interpellé.  Et effectivement, la question, c'était de savoir, vous, qu'est-ce que vous aviez en tête ?  Est-ce qu'il y a un référentiel particulier ?  Est-ce qu'il y a un ordre d'affichage des informations attendues ou souhaitables ?  Qu'est ce que vous en pensez ?  
+
+Speaker1: deux statuts différents et peut-être que vous l'avez fait parce que par ailleurs, elles peuvent être mises en relation avec un autre système.  Jardinage, petit bricolage, cours particulier, assistant informatique.  Il y a une vingtaine d'activités dans les services à la personne et emploi domicile.  Je pense que vous avez mis les principaux.  J'arrive pas à voir lesquelles, puisque je vois en fonction de mes besoins, du coup, là j'ai vu qu'il n'y avait pas d'assistant maternel.  Aide à domicile, vous englobez donc l'accompagnement à la perte d'autonomie et l'accompagnement des personnes âgées et les personnes en situation de handicap.  Tout confondu, sachant que des fois, il y a des personnes handicapées qui sont jeunes, ce n'est pas forcément ce symbole-là.  D'accord.  C'est pas forcément... C'est différent.  
+
+Speaker0: D'accord.  
+
+Speaker1: Selon le handicap.  On pourra peut-être aussi demander au candidat son expérience au ministériel.  
+
+Speaker0: Et est-ce que selon vous, alors là je vous pose une question un peu en off, parce que vous travaillez à la CPM et tout ça, mais est-ce que vous pensez qu'un candidat...  
+
+Speaker1: C'est en off, mais attention, c'est enregistré.  
+
+Speaker0: C'est vrai.  Tiens les ardissons, tac !  Non mais pour ma comprension en fait, est-ce que vous pensez, est-ce que ce serait judicieux que les candidats qui s'inscrivent sur le service puissent mentionner, exemple, je fais de la garde d'enfants, de l'aide à domicile, de l'aide aux personnes à mobilité réduite, du jardinage, des cours, enfin qu'ils puissent proposer à multitude de services ?  Ou est-ce que selon vous c'est...  
+
+Speaker1: Je suis désolée, là il y a une tempête qui est très très éloignée mais j'ai une grosse pluie qui vient de sortir.  Ok.  Et je n'entends pas très bien, je suis au maximum du son.  
+
+Speaker0: D'accord, je vais redire.  
+
+Speaker1: J'essaie de m'accrocher, mais je ne peux pas mettre les...  
+
+Speaker0: D'accord, je vais essayer de parler plus fort, mais est-ce que selon vous, par rapport à... Pour une personne qui est candidate, est-ce que selon vous serait judicieux que ce service, l'application mobile Monde emploi directe, OK.  
+
+Speaker1: il y a des personnes, mais surtout dans notre secteur, puisqu'on parle d'évolution.  Certains démarrent par exemple en faisant le ménage, quelques heures de garde d'enfant, pourquoi pas assister une personne âgée d'abord pour son ménage et puis après être beaucoup plus à domicile, c'est-à-dire qu'elle aidera plus la personne que son entretien de cadre de vie.  Donc si on veut... Oui.  D'accord.  uh Je suis peu expérimentée, mais j'ai quand même une expérience.  Ce serait bien de pouvoir voir cette distinction.  
+
+Speaker0: D'accord.  De proposer à la fois un choix multiple, mais en même temps de vérifier que pour chaque choix, on a l'expérience et on peut répondre en montrant qu'on a les qualifications, pas juste se dire qu'on fait tout.  
+
+Speaker1: Et je trouve ça intéressant parce que, par exemple, je donne mon cas à perso.  Oui.  moi je suis une femme de ménage mais si je vois que c'est une personne aussi qui accompagne une personne âgée ça sera peut-être un moyen de me dire je vais embaucher cette personne tout se passe bien et ensuite de passer le relais.  pas passer le relais mais de la présenter peut-être à mes parents où elle pourra peut-être dans un premier temps commencer à faire une heure de ménage et peut-être accompagner après l'individu.  donc ça peut être aussi utile de savoir un petit peu ce qu'elle fait et quel niveau d'expérience elle a, ou de formation, mais bon, pour moi c'est plus expérience qui compte.  
+
+Speaker0: D'accord, très intéressant.  Effectivement, le transfert vers, pour un proche, en partant d'un cas pour soi.  
+
+Speaker1: Oui.  
+
+Speaker0: Et, bah écoutez, je vais arrêter de te présenter, mais Juste pour conclure, rapidement un petit débrief.  Si vous deviez résumer votre expérience en un mot ou en une phrase courte par rapport à ce qu'on a pu faire ensemble aujourd'hui, votre expérience sur le service ?  
+
+Speaker1: Je voudrais éteindre mon truc, mais je n'y arrive pas.  C'est enrichissant, j'ai l'impression que vous êtes à l'écoute.  
+
+Speaker0: Merci.  
+
+Speaker1: je pensais pas être utile et j'ai l'impression que je l'ai été.  il y en a un qui se sort des fleurs Anne-Sophie quand même pour moi c'est toujours important d'être en partie d'une échéance de personnes qui testent ces nouveaux dispositifs.  aussi comme vous avez peut-être pu le comprendre de faire comprendre qu'il ne faut pas oublier les spécificités de la réunion et je pensais notamment à la géolocalisation parce que c'était une problématique que nous avions.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et puis, moi, je suis super contente que ce dispositif puisse se voir le jour très prochainement parce que ce sera une vraie plus-value pour notre secteur et pour la CPM.  
+
+Speaker0: Ok.  Et qu'est-ce qui vous a le plus plu?  si on refocus dans l'application ?  
+
+Speaker1: Ce qui m'a le plus plu, précisément, c'est la version que vous allez créer suite à mon recommandation.  Oh là là, comment j'ai répondu à côté !  
+
+Speaker0: Non mais inversement, qu'est-ce qui vous a le moins plu ?  Ce que vous avez pu manipuler, voir ?  
+
+Speaker1: C'est ce que je vous ai exprimé au fur et à mesure, c'est-à-dire que quand les réponses sont déjà cochées, même si elles sont grisées, on voit forcément qu'il faudrait appuyer dessus.  
+
+Speaker0: D'accord.  
+
+Speaker1: Ce n'est pas forcément clair.  
+
+Speaker0: D'accord.  
+
+Speaker1: L'histoire de ce qui m'a le moins plu, c'est de devoir chercher que finalement, je clique sur le téléphone et je suis adhérente mais là on me considère pas comme adhérente.  donc j'ai pas droit à ce service même si vous êtes adhérente.  oui ça fait perdre du temps.  donc l'idée c'est aussi d'en gagner  
+
+Speaker0: et  
+
+Speaker1: il faut peut-être une première page où quand on est adhérent on a son code et là les numéros ne sont pas Sachant que comme on est dans un module en test aujourd'hui avec un faux compte  
+
+Speaker0: Là, on n'a pas pu vous reconnaître, mais ce que j'entends, c'est que potentiellement, le service pourrait, avec l'email que vous avez renseigné, vous reconnaître et donc vous proposer un parcours avec le mode adhérent actif.  
+
+Speaker1: Oui, parce que si on peut appeler directement... C'est quand même un moyen qui sera le plus utilisé d'attendre une réponse potentielle du candidat.  
+
+Speaker0: D'accord.  Si vous pouviez changer une seule chose, ne serait-ce qu'une chose parmi tout ce que vous avez vu aujourd'hui, si vous aviez une baguette magique ?  
+
+Speaker1: Il fallait que je change une chose ?  Oh, vous me posez quand même pas mal de questions.  
+
+Speaker0: C'est la dernière.  
+
+Speaker1: Le petit logo, je l'ai mis là.  Il faut que je retourne l'encre.  On dirait une petite vague.  Une chose a changé ?  
+
+Speaker0: Que ce soit visuel ou bien dans l'ordre dont les choses se sont présentées, ou dans votre aide à accomplir votre parcours, dans votre aide au choix ?  sur la relation, la confiance que vous pouvez accorder à une fiche candidat, sur les moyens de contact, sur le choix des métiers.  
+
+Speaker1: Ce qu'il y avait sur les concurrents, c'est aussi effectivement le sérieux des candidats.  Les candidats ont été vérifiés, contrôlés, c'est pas ça, c'est pas le terme, mais on n'est pas à faire à à des faux profils.  Il y avait eu ce problème-là.  Quand France Travaille s'appelait Pôle emploi, ils proposaient un espace pour les particuliers employeurs et nous pouvions recruter par le biais de cet espace.  On exprimait ses besoins et là, effectivement, on avait carrément des CV, des candidats ou on pouvait contacter un conseiller.  Soit on savait gérer les trucs qu'on avait envie de gérer seul, l'entretien,  etc.,  soit on passait par l'intermédiaire d'un conseiller pour l'emploi.  Moi, je suis passée en direct.  Ils ont arrêté ce dispositif parce qu'il y avait des faux profils d'un côté comme de l'autre, en fait.  C'était des particuliers qui n'étaient pas employeurs.  
+
+Speaker0: Ah, d'accord.  
+
+Speaker1: Et de l'autre côté aussi.  Donc, je crois que... il y a cette dérive qui peut exister de faux profils.  voilà parce que là on va inviter la personne ensuite après un entretien à avoir un entretien peut-être chez soi.  si on n'a pas le bon profil d'un particulier employeur et qu'on est un violeur excusez-moi j'y vais franco et que ça peut.  je ne sais pas comment sécuriser ça.  C'est juste par une adhésion à la FPM.  C'est déjà un premier pas.  Et de l'autre côté, pareil, de voir comment on contrôle si ce n'est pas une machine.  
+
+Speaker0: Mais je note ça.  En fait, vous n'êtes pas la première à nous l'avoir mentionné dans les différents échanges qu'on a pu avoir avec les différents profils.  On a eu des profils de salariés future candidats, on a aussi des profils de particuliers employeurs, on a eu aussi madame, une personne de la FEPEM hier, avant-hier.  
+
+Speaker1: C'était  
+
+Speaker2: Véronique Dubovalla, tu sais, Sophie, voilà, on l'a eu hier, donc pareil, c'était un truc à exprimer, de vérifier les candidats d'un côté, mais aussi les annonces de l'autre, parce qu'en fait, ça c'est critique, et même ne serait-ce que, enfin nous on l'a en tête aussi en tout cas à la DSI, c'est qu'il y a un vrai enjeu aussi de confiance vis-à-vis de la FPM aussi derrière, parce que si on est capable de vérifier tout ça, c'est sur nous que ça va  
+
+Speaker0: tomber.  
+
+Speaker1: Comment on peut vérifier ça en fait ?  Parce que là, moi par exemple, j'ai continué dans la simulation ma requête sans photo, est-ce que ça peut être un moyen de se dire à un moment donné, il faut que tu te prennes en photo pour voir que tu es une vraie personne  
+
+Speaker2: en fait il y a un vrai sujet dessus.  moi je pense il y a plein de dispositifs qui sont faisables.  après il faut voir comment on peut les implémenter quand on peut les implémenter aussi dans le parcours parce qu'il y a des logiques aussi RGPD et tout.  mais il y a plein de dispositifs.  par exemple on pourrait ne serait-ce que l'avoir un peu comme les banques en ligne en anglais.  
+
+Speaker1: Pour les papiers, excuse-moi, mais pour les papiers, l'identité de la personne, c'est au particulier employeur lors de l'entretien de vérifier ça.  C'est pas en amont.  En principe, c'est lors de l'entretien, si la personne est née à l'étranger, de faire un point sur ce sujet.  Parce que les personnes nées à l'étranger peuvent tout à fait travailler en France.  Mais... Il faut peut-être le spécifier.  Les candidats que nous vous proposons se basent sur le déclaratif et de se désengager de toutes difficultés.  
+
+Speaker0: En tout cas, du côté candidat... Ok.  En tout cas, du côté du candidat, il y a une étape où on lui demande, on lui suggère fortement de renseigner sa photo, plus pour valoriser son profil.  
+
+Speaker1: C'est vrai.  Mais de l'autre côté, ça peut être aussi intéressant que le particulier employeur mette une photo, mais bon, après, il ne faut pas que ce soit trop de contraintes.  Là, maintenant, on est dans un monde où il faut aller vite, complètement rapide.  
+
+Speaker0: Et après il y a en plus les sujets liés aussi à l'identité, les services France Identité, l'identité numérique, tous ces services-là d'État qui proposent justement des solutions standardisées, des briques technologiques standardisées pour l'authentification ou pour la vérification.  Et je pense à Thomas aussi, ça serait intéressant de... d'en discuter avec l'équipe, voir avec Cédric aussi ce qui est prévu, parce que comme c'est des solutions qui existent déjà, qui sont déjà disponibles en tant que modules mis à disposition par Betagouv et la direction du numérique, en fait il y a peut-être un sujet de pouvoir l'implémenter automatiquement sans recréer de process... qui ne serait peut-être même pas ultra sécurisé ou qui nécessiterait 6 mois de dev très très cher.  
+
+Speaker2: En tout cas, c'est un vrai sujet.  
+
+Speaker0: Ok, écoutez Anne-Sophie, on arrive au bout.  On a un petit peu discuté, on a un petit peu dépassé, mais en tout cas c'était passionnant et on tenait à vous remercier vivement pour votre participation et pour nous avoir partagé.  Merci beaucoup.  
+
+Speaker1: Merci à vous.  Vous allez manger là peut-être.  Bon appétit.  Merci.  À bientôt.  
+
+Speaker0: Bye bye.  Dommage pour cette fois.  Cette fois, remets-toi bien.  Remets-toi bien.  Il va continuer de travailler les leçons de la semaine dernière.  

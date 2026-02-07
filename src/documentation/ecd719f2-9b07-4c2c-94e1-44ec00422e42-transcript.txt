@@ -1,0 +1,856 @@
+# Critical Feedback for New Mobile Recruitment App
+
+> Date : 02 February 2026, 12:56
+
+> Duration : 01:51:27
+
+
+## Brief summary :
+
+An employer tested a new mobile recruitment app, providing critical feedback. She stressed the need for a desktop version, better search filters, and more detailed candidate profiles for effective hiring.
+
+## Transcript :
+
+Speaker2: Victor nous rejoint.  
+
+Speaker1: Bonjour madame Ah mais ça me fait plaisir de voir Victor.  alors Bonjour madame Ah mais c'est pas mon Victor.  
+
+Speaker0: Non Je suis très content de vous voir aussi.  
+
+Speaker1: Ben écoutez, je suis ravie aussi.  
+
+Speaker0: Alors je vais voir, donc je suis là, je suis de ce côté là, hop, voilà Super.  
+
+Speaker1: Est-ce que vous allez bien ?  Oui, mais vous voyez, après on ne voit pas ce qui se passe.  Quand on est sur un téléphone, il faut passer d'un écran à un autre.  Franchement, ça m'agace.  Oui.  
+
+Speaker0: C'est sûr que c'est contraignant, c'est par rapport à un ordi, c'est contraignant, mais après c'est vrai que l'utilisation du service là est prévue sur une app mobile, donc c'est pour ça qu'on...  
+
+Speaker1: Ah ben moi j'irai jamais, alors déjà vous pouvez, j'irai jamais sur l'application mobile.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et parmi les particuliers employeurs, si vous ne mettez que sur mobile, déjà c'est un point négatif.  
+
+Speaker0: D'accord, et pourquoi selon vous ?  
+
+Speaker1: Mais parce que vous, les jeunes, vous passez votre temps sur les portables, mais pas les adultes d'un âge certain.  
+
+Speaker0: D'accord.  
+
+Speaker1: C'est pas fait que pour vous, c'est pas fait que pour la jeunesse, l'application.  
+
+Speaker0: Non, mais c'est vrai.  
+
+Speaker1: Elle est faite pour les papis et mamies qui sont quand même dégourdis sur leur ordinateur, mais qui n'aiment pas la taille de travail d'un écran de téléphone.  
+
+Speaker0: D'accord.  Et qu'est-ce que vous autoriseriez ?  
+
+Speaker1: Le confort, il est sur l'ordinateur, il est quand vous êtes assis à votre bureau.  Le particulier employeur d'un âge certain, je ne parle pas des forcément vieux, quand il va travailler, il va travailler sur son ordinateur dans son bureau.  Il ne va pas faire ça dans un couloir de métro.  Franchement, l'état d'esprit n'est pas le même.  
+
+Speaker0: D'accord.  
+
+Speaker1: Vous, les jeunes, vous faites tout sur votre portable.  
+
+Speaker0: C'est vrai, il y a de plus en plus d'usages qui sont sur le téléphone, c'est vrai.  On est d'accord.  
+
+Speaker1: On est d'accord, mais ce n'est pas pour autant qu'on en est satisfait.  Il y a plein de trucs que je ne fais pas, parce que c'est que sur téléphone.  
+
+Speaker0: Je comprends.  Par exemple, qu'est-ce que vous ne faites pas ?  
+
+Speaker1: Citez-moi des trucs, je vous dirai oui ou non, parce que là, spontanément...  
+
+Speaker0: Par exemple, réserver un créneau chez le médecin sur Doctolib.  
+
+Speaker1: Ok, ok.  
+
+Speaker0: Et pour les questions liées à...  
+
+Speaker1: Notez-le, parce que franchement, ça peut être une vraie frêle, ça.  
+
+Speaker0: Bien sûr, mais en fait, c'est vrai que... Alors, c'est très intéressant, parce que là, le service est effectivement une application mobile, et en fait, on va vous redonner un petit peu de contexte, si vous voulez, la FEPM est un acteur historique pour les particuliers employeurs et les salariés.  
+
+Speaker1: Attendez, excusez-moi, vite fort.  Il y a encore 3 ou 4 mois ou 5 ou 6, j'étais le vice-président en charge de la cohésion sociale et internationale et je siégeais au BE.  Donc l'AFEPEM, je connais bien moi.  
+
+Speaker0: Ok, ça marche.  
+
+Speaker1: Je ne fais pas le discours à moi, je suis vraiment ancien VP avec Julie, Michel, Peggy et Stéphane Lebrun.  
+
+Speaker0: D'accord, ok, ok.  Très bien, mais c'était pour redonner un petit peu de contexte, notamment sur pourquoi l'application est sortie.  Et l'idée, c'était de pouvoir dynamiser l'image de la FEPM et de proposer un moyen facilité de mettre en relation des personnes, des particuliers employeurs qui ont... besoin de... Ok.  
+
+Speaker1: Moi si c'est que sur mobile, c'est clair, je n'irai pas.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et je ne suis pas la seule.  
+
+Speaker0: Après c'est vrai que c'est sûr que par rapport à ce que vous dites, le fait que ce soit que sur mobile, ça peut être un frein, un vrai frein, on est d'accord, l'usage.  
+
+Speaker1: Le jeune parent, lui, il va y aller pour chercher une nounou,  etc.,  Mais la personne plus âgée qui est par exemple à la retraite, elle ne va pas faire ça sur son téléphone pour recruter.  Moi quand je recrute, là j'ai recruté quelqu'un qui est rentré ce matin, je me mets à mon bureau, je m'installe tranquillement, je vais regarder les annonces, je fais mes démarches, tranquillou, confortablement.  Et sur un téléphone, ce n'est pas confortable.  
+
+Speaker0: D'accord.  Ok.  Est-ce que vous acceptez quand même de passer cette petite heure avec nous ?  
+
+Speaker1: Bien sûr, au contraire, c'est fait pour.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et je peux me permettre, moi, vu mon... Je me permets de vous dire crûment les choses.  
+
+Speaker0: Vous avez raison, parce que justement, on est là pour ça.  
+
+Speaker1: Ce que quelqu'un d'autre ne ferait peut-être pas.  
+
+Speaker0: Bien sûr.  Très bien, effectivement, nous, c'est vraiment les attentes qu'on a, c'est le fait de pouvoir avoir un échange avec vous dans le but de vous présenter une première version de l'appli.  et de connaître comment vous l'utiliseriez, même si vous n'êtes pas forcément la cible en particulier, et de comprendre les endroits où il y a des choses qu'on doit vraiment corriger, et les éléments qui fonctionnent bien pour vous, dans l'idée de la mise en relation entre particuliers employeurs et salariés.  Donc en fait, ce qu'on va faire, c'est qu'on va passer cette heure ensemble, l'idée ce sera que vous puissiez penser à haute voix par rapport à ce que vous allez faire, et voilà sachant qu'on va bon.  ben c'est bien parce qu'on a déjà eu une première partie d'échange avec le contexte et en savoir un petit peu plus sur vous et après on pourra faire 2 milliards de tests sur le démarrage de l'application, la création de compte la création d'une annonce et sa publication.  et Et d'ailleurs, je voulais voir avec vous, qu'est-ce qui vous intéresserait le plus ?  Est-ce que ce serait plutôt vous mettre dans la peau d'un particulier employeur, ou plutôt d'un salarié qui va chercher un emploi ?  
+
+Speaker1: Moi, je suis particulier employeur, donc je ne vais pas savoir me mettre dans la peau d'un salarié.  
+
+Speaker0: D'accord.  Très bien.  Très bien.  Ok.  Est-ce qu'avec Thomas, vous avez pu faire la petite vérification logistique tout à l'heure ?  
+
+Speaker2: Je sais pas si vous avez réussi, Véronique.  
+
+Speaker1: J'en sais rien.  Fichiers installés, mais ça me met toujours aucun fichier installé.  Moi, je comprends pas.  
+
+Speaker2: Et quand vous cliquez sur fichiers installés, ça fait quoi ?  
+
+Speaker1: Ça fait rien ?  Aucun fichier d'installation, mais dans les téléchargements... Attendez, téléchargements... Ben non, 30 janvier, c'est pas aujourd'hui, hein ?  Il ne sait pas télécharger.  C'est une carte SD.  Elle est là.  Je l'ouvre.  Vous voyez, il n'y a rien de plus désagréable que de travailler sur... Vous voulez vous installer, mais je l'ai déjà installé, non ?  Ah non, je l'ai téléchargé.  Bon, je n'ai pas besoin d'analyser l'appli.  
+
+Speaker2: Non.  
+
+Speaker1: Plus de détails.  Ah oui, mais si je l'ai installé sans... En fait, vous pouvez peut-être installer l'appli sans l'analyser, ou utiliser un code PIN.  
+
+Speaker2: On va vous inviter à cliquer sur les trois petits points que vous avez en bas.  Vous allez pouvoir cliquer après sur l'icône avec un petit rectangle et une flèche vers le haut.  Ça sera pour partager votre écran.  
+
+Speaker1: Ça, ça partage l'audio apparemment.  
+
+Speaker2: Alors, vous n'avez pas besoin de cocher pour l'audio, vous pouvez faire continuer directement.  
+
+Speaker1: Attendez, parce que j'ai appuyé sur les boutons.  Partager ou enregistrer une appli ?  Attendez, qu'est-ce que c'est ?  
+
+Speaker2: Ce sera partager une application.  
+
+Speaker1: Alors, oui, mais c'est marqué.  partager, non ?  Vous voyez les écrans, les tactiles.  Franchement, si j'avais su que c'était quand on téléphone, je n'aurais pas accepté.  Clairement.  Donc là, qu'est-ce que je fais maintenant ?  
+
+Speaker2: Vous avez quoi à l'écran actuellement ?  
+
+Speaker1: J'ai mon petit écran avec le petit bonhomme et le petit plus, ou la petite étoile.  Je vous ai tous les deux, plus moi bien sûr.  Mais sur ma visio à moi, j'ai un petit... A côté des trois points, à gauche des trois points, j'ai un petit... Comme un truc de connexion quoi, avec une figure dedans, avec...  
+
+Speaker2: Et vous avez donc les trois petits points là ?  Oui, oui.  Vous pouvez cliquer dessus ?  Attendez, il faut que j'y revienne.  
+
+Speaker1: Alors, est-ce que je peux me permettre de vous partager un petit guide ?  Je vais essayer de... Plus jamais sur un téléphone portable.  
+
+Speaker0: Par contre, je ne vous entends pas très bien.  Ah oui ?  
+
+Speaker1: Oui, tout à l'heure, j'ai eu la première touche.  
+
+Speaker0: D'accord.  Est-ce qu'ensuite, après, vous avez pu accéder aux trois petits points avec cette fenêtre-là ?  
+
+Speaker1: Elle avait déjà disparu, ma fenêtre.  
+
+Speaker0: D'accord.  D'accord, parce que dans l'idée, c'est que vous puissiez aller sur les trois petits points, ensuite afficher le panneau des menus, le panneau de menus avec les contrôles.  
+
+Speaker1: Je vais revenir en arrière pour voir.  
+
+Speaker0: Non.  
+
+Speaker1: Je vais revenir en arrière.  Et si je vais dans paramètres ?  
+
+Speaker2: Ce ne sera pas normalement dans les paramètres.  
+
+Speaker0: C'est tout en haut à droite de cette petite fenêtre-là ?  
+
+Speaker1: Non, sur ma fenêtre, je n'ai que la caméra et ma roue de paramètres.  Et là, maintenant, je n'ai même plus rien.  
+
+Speaker0: Alors...  
+
+Speaker1: Alors, attends... Non, mais ça c'est la vôtre, c'est votre écran que je vois.  
+
+Speaker0: Oui.  
+
+Speaker1: Les petits points je les vois pas, ils sont pas... J'ai mon écran, votre écran ?  
+
+Speaker0: Oui.  Vous voyez quoi au centre ?  Est-ce que vous voyez vous ?  
+
+Speaker1: Ah, mais je me vois, moi, je vous dis, j'ai mon écran, moi, où  
+
+Speaker0: je me  
+
+Speaker1: vois, j'ai le vôtre, où vous, et plus deux, alors je sais pas ce que c'est que les plus deux, j'arrive même pas, voyez, le tactile fonctionne pas bien, donc, j'ai beau appuyer, voyez, sur mon petit rond plus deux, rien ne se passe, pour aller voir les autres écrans,  
+
+Speaker0: D'accord.  
+
+Speaker1: Plus jamais sur mobile.  
+
+Speaker0: D'accord.  On va essayer de faire au mieux.  
+
+Speaker2: On va partager mon écran du coup, et on va faire comme ça.  Ce qu'on va faire Véronique, c'est que je vais partager mon écran, comme ça vous allez pouvoir voir l'application directement.  Et c'est moi qui vais...  
+
+Speaker1: Écoutez-moi encore, un autre argument pour que ça puisse se faire sur ordinateur.  
+
+Speaker0: Hum hum.  
+
+Speaker1: Les retraités, même des gourdis, ils n'ont pas la même vue que vous.  Oui.  
+
+Speaker0: Ben oui, oui, oui.  Non, mais on a bien...  
+
+Speaker1: Non, ça ne va pas.  Sur le téléphone, ça ne va pas.  Pour les jeunes parents, oui, mais...  
+
+Speaker0: Vous voulez écrire, vous voulez prendre des notes.  Oui.  Mais comment vous faites ?  Sur quoi prendre des notes ?  
+
+Speaker1: Vous avez un entretien.  Nous avons un entretien.  Rien que nous trois.  C'est un entretien.  Comment je fais pour prendre des notes ?  Alors que je suis obligée de tenir le téléphone ?  
+
+Speaker0: Ben là, disons que c'est un cas particulier, parce que là, on est en... Mais non, quand vous faites...  
+
+Speaker1: Mais non, Victor, vous êtes en train de regarder, vous êtes sur votre plateforme.  Vous analysez des candidatures, etc.  Vous prenez des notes.  Comment vous les prenez ?  
+
+Speaker0: Ben là, dans l'immédiat, vous pouvez à minima mettre les profils qui vous intéressent les mettre en favori de coté.  Après, pour l'instant, ce que vous êtes en train d'expliquer, c'est le fait d'être en entretien avec... Enfin, ce que vous dites, c'est qu'en fait, là, vous feriez passer des entretiens avec les personnes en direct dans la busse.  
+
+Speaker1: Non, pas forcément, mais vous regardez les CV, vous regardez... Moi, je le fais régulièrement, ça.  Par exemple, je vais sur le site de Pôle emploi, de France Travail, je vais regarder les candidatures qui, a priori, m'intéresseraient, Bien sûr.  Oui.  
+
+Speaker0: Alors là, je suis d'accord avec vous qu'il y a toute cette partie prise de notes et qualification des personnes et enrichissement des informations sur les profils qui est tout à fait, et j'entends, et c'est un très bon point pour nous, pour la conception, pour la suite.  Pour l'instant, dans l'immédiat, la partie prise de notes en direct sur des profils, c'est pas au programme, là, dans la première version.  Maintenant, si c'est...  
+
+Speaker1: Mais les prises de notes, Victor, vous ne les prenez pas sur votre écran, vous ne les prenez pas sur votre ordinateur, vous les prenez sur votre bloc-notes.  
+
+Speaker0: Tout à fait.  
+
+Speaker1: Donc, ça n'a rien à voir avec l'appli en tant que telle.  
+
+Speaker0: Non.  
+
+Speaker1: Voyez ?  Oui, oui.  Mais vous faites défiler vos profils.  Il y a un truc qui vous interpelle sur un... Ah, tiens, je note ça !  parce que vous allez pas et vous défilez les autres.  peut-être que ça va pas vous servir ce truc-là parce que vous avez déjà vu un autre plus loin et plus intéressant mais vous savez vers lequel revenir et vous allez pas vous mettre.  moi je comprends ce que vous voulez dire.  favoris je sais qu'on peut faire ça.  moi je fais jamais ça.  parce que à ce moment là vous vous mettez tellement de favoris que de toute façon à un moment donné il va falloir que vous veniez faire un tri bien sûr et donc la prise de note est indispensable.  
+
+Speaker0: d'accord Et comment vous la feriez, la prise de note, vous ?  Typiquement, si vous étiez dans une...  
+
+Speaker1: Mais la prise de note, je me la fais sur mon bloc-note, sur mon bureau.  Je suis sur mon bureau.  Tiens, et cette personne, elle est intéressante.  Alors, je mets des étoiles, et je marque, par exemple, si c'est un véhicule ou n'a pas de... Voyez, en fait, je note.  Et au fur et à mesure, je sais vers lesquels j'élimine au fur et à mesure.  que si vous mettez tout en favoris, à la fin, vous pouvez garder trois favoris, par exemple.  
+
+Speaker0: Bien sûr, mais vous n'aurez pas à garder le contexte.  Mais vous en aurez peut-être 10 ou 15.  Je vois très bien ce que vous voulez mettre en évidence, et c'est vraiment dans la phase où vous êtes en train de consulter les profils, de pouvoir enrichir les profils avec des informations et des notes que vous allez retrouver derrière, qui vous aideront à prendre votre décision.  N'est-ce pas ?  Là où aujourd'hui...  
+
+Speaker1: C'est dans le comparatif qu'on fait des candidats.  
+
+Speaker0: Bien sûr.  
+
+Speaker1: Moi, je ne sais pas comment vous faites, mais moi, je ne crois pas être la seule à fonctionner comme ça.  Je suis sûre qu'effectivement, les jeunes parents ne doivent peut-être pas fonctionner de la même manière, parce que votre génération, elle ne fonctionne qu'avec le téléphone.  D'accord ?  Je vous entend pas mal.  Et sur mon téléphone, c'est pas grand-chose.  
+
+Speaker0: Et là vous m'entendez mieux ?  
+
+Speaker1: Non, je vous entends pas mieux, je vous entends loin dans le brouillard.  
+
+Speaker0: Ah alors, ok.  
+
+Speaker1: C'est désagréable ceci.  
+
+Speaker0: D'accord, bon.  
+
+Speaker2: Véronique ?  Oui ?  Je vous invite à aller sur votre ordinateur maintenant, puisque comme vous allez pas faire le test vous-même sur l'application, c'est moi qui vais vous partager l'écran.  Vous pouvez retourner sur l'ordinateur.  
+
+Speaker1: Mais je peux avoir les deux.  
+
+Speaker2: Comme vous souhaitez.  Mais comme ça, vous serez peut-être plus à l'aise.  
+
+Speaker1: Si on a les deux, c'est encore mieux.  Pourquoi je suis pas restée dessus ?  Aïe.  Non, non, mais je vous assure, pour les... Moi, je fais partie des dégourdis.  C'était mon métier avant.  C'est bon.  
+
+Speaker0: Est-ce que vous avez... C'est bon, vous nous entendez à nouveau ?  
+
+Speaker1: Je vous entends pas suffisamment, mais c'est pas grave.  Je peux tendre l'oreille.  Attendez, je suis partie du coup en badrouille.  
+
+Speaker0: D'accord.  
+
+Speaker1: Où est-ce qu'elle peut se télécharger ?  A priori, elle se serait téléchargée.  
+
+Speaker2: Sur votre ordinateur, ça ne se téléchargera pas, Véronique.  L'idée, c'est juste que vous alliez sur notre meeting, mais sur l'ordinateur.  Je serais plus à l'aise pour observer.  
+
+Speaker1: Ah, d'accord, je n'avais pas compris.  J'avais lancé le téléchargement, c'est ça.  
+
+Speaker2: Voilà.  
+
+Speaker1: Ah, ben là, je vous entends.  
+
+Speaker0: Ah, ben super.  
+
+Speaker2: Vous voyez bien mon écran aussi.  Ah, ben là, je vous entends, je vous vois.  
+
+Speaker0: Là, on peut ouvrir une petite bouteille pour se poser.  Là, on peut boire un petit coup et discuter.  Non, mais après, par rapport à ce que vous dites sur les besoins dont vous faites part, on est tout à fait conscients de ça et on sait très bien que une expérience uniquement sur le téléphone, ça va amener des freins et ça va bloquer tout un tas de personnes.  Non, mais clairement.  Bien sûr, et merci de nous le redire, parce qu'on le sait.  Et en même temps, aujourd'hui, l'objectif, c'était de pouvoir proposer une première version de cette application, de ce service.  et d'interroger au maximum les personnes importantes de l'AFPM, des usagers, pour avoir un maximum de retours, et ensuite refaire une version dans laquelle on prend en compte le besoin de prendre des notes, le besoin de pouvoir rentrer en relation facilement entre les particuliers et les employés.  C'est vrai qu'aujourd'hui on ne peut pas tout mettre dedans, comme on est au point de départ du lancement de ce service, L'échange avec vous, il est vraiment clé.  Et encore une fois, on vous remercie du temps que vous nous accordez, parce que nous, ça va nous aider énormément à mettre à jour très vite l'application, sur l'accueil dans l'application, le démarrage, la création de profil, la création de compte, de manière à pouvoir, à horizon mars-avril, avoir une nouvelle version, beaucoup plus évoluée.  
+
+Speaker1: Pourquoi vous avez sélectionné vos testeurs ?  
+
+Speaker0: Alors, c'est une recherche de panel que Thomas a fait avec aussi d'autres personnes de l'équipe de conception, avec Alice notamment.  
+
+Speaker1: Oui, mais quels critères vous avez mis ?  
+
+Speaker2: Alors, pour vous donner les critères, nous, on a travaillé sur la partie, donc le segment aide ménagère et assistance de vie, qui représente une grande majorité... Une grande majorité... qui représente une grande majorité des profits qu'on a à la FEPEN.  C'était très important pour nous d'avoir les retours de ces futurs usagers-là pour avoir le maximum d'informations et répondre à leurs besoins.  On s'est basé sur ces deux segments-là.  Là, on a interviewé des salariés et des particuliers employeurs de ces deux catégories-là.  
+
+Speaker1: Et alors, qu'est-ce qu'ils disent ?  Ils disent comme moi ou pas du tout, les employeurs ?  
+
+Speaker0: Les employeurs, on a eu des...  
+
+Speaker2: On n'a eu qu'une employeur.  On a beaucoup d'employeurs cette semaine.  On n'a eu qu'une future employeur, qui n'est pas encore.  Pour le coup, le parcours s'est plutôt bien passé.  En tout cas, le fait d'utiliser sur mobile,  etc.,  ça n'a pas été un frein.  Maintenant, comme c'est une future particulière employeur, c'est peut-être aussi pas un problème pour le moment.  donc voilà mais en tout cas on a pu remarquer d'autres freins mais sur la partie salarié là qui sont un peu plus fort pas forcément sur l'application mais surtout sur finalement le La manière dont ils voient aussi l'emploi, et la manière dont ils le recherchent, qui n'est pas forcément sur une application, et qui sont, en tout cas ceux qu'on a interviewés, qui étaient plutôt sur la partie assistance de vie, qui nous disaient que finalement, eux ce qu'ils cherchaient c'était avant tout un travail, et cette manière qu'on apporte de mettre des critères, ou définir un peu des choses, c'était pas forcément ce qu'ils avaient en tête, dans un premier temps.  
+
+Speaker1: C'est tout ce qu'on va voir maintenant.  
+
+Speaker2: Là, on va voir la partie particulier employeur, mais sur le côté salarié, c'est assez similaire, en tout cas, mais c'est fait plutôt pour les salariés.  Ce  
+
+Speaker1: que  
+
+Speaker0: nous a remonté pour enrichir ce que dit Thomas, la personne qui était future particulier employeur, c'était une ingénieure, qui était en train de réfléchir à trouver des solutions d'aide et d'auxiliaire de vie pour ses parents, qui commença à devenir âgés, et l'usage de l'app mobile, elle était plutôt ingénieure, donc assez au fait de la technologie, donc elle était assez précise, et elle était assez à l'aise avec l'application, et les autres personnes qui étaient du côté salarié, C'était des personnes qui étaient clairement dans une situation de précarité, qui étaient dans une posture d'être dans un besoin concret de trouver un emploi, avec très très peu de critères à renseigner, mais plutôt moi je suis disponible, et en gros par rapport à la localisation, je peux travailler, donc c'est bon.  Là où nous on leur proposait un parcours quand même en étape, avec un choix,  etc.,  On n'est vraiment pas sur le même besoin.  
+
+Speaker1: Ça, ça ne détonne pas.  
+
+Speaker0: Non.  
+
+Speaker1: Moi, je comprends.  Ce qu'elles veulent, c'est travailler.  Moi, je vois quand je recrute, les gens, ce qu'ils veulent, c'est travailler.  
+
+Speaker0: C'est ça.  
+
+Speaker1: Et donc, peu importe, en fait, ce qui les intéresse, c'est de bouffer.  
+
+Speaker0: Exactement.  Complètement.  Mais donc, c'est intéressant.  
+
+Speaker1: Alors que l'employeur, lui, il va chercher quelqu'un qui vient chez lui, avec quand même un contact.  Le salarié, moi, je comprends.  
+
+Speaker0: Oui, et le particulier employeur, il va aussi se projeter dans créer une relation de confiance avec quelqu'un qui va venir pendant plusieurs années.  Donc si la personne est fiable, qu'elle est ponctuelle et tout, globalement, c'est des critères qui peuvent faciliter la chose.  Thomas, vas-y.  
+
+Speaker2: Oui, juste pour compléter, on a eu une autre particulière employeur qui était dans la partie assistant de vie.  C'était une femme d'une quarantaine d'années qui a la maladie de Lyme et qui nous avait dit 117 heures de PCH.  L'application, pareil, c'était assez fluide pour elle.  Elle n'avait pas de problématiques à l'usage.  Par contre, elle nous a remonté des éléments comme, par exemple... voilà, qu'elle ait un lien dans tout ce qu'elle renseigne avec justement sa PCH, parce qu'elle est très dépendante de ça finalement, pour avoir son aide, et donc elle veut être sûre qu'elle comprenne bien les champs en fonction de son aide.  Voilà.  
+
+Speaker1: Bon, je suis prête.  
+
+Speaker0: Super, donc là, effectivement, c'est bon, on a vérifié l'installation, on a vu que vous pouvez partager l'écran, vous nous entendez bien, donc ça, c'est très bien.  
+
+Speaker1: Je pense que ça vient de chez vous, le fait qu'on n'entende pas bien.  
+
+Speaker0: Non, on entend bien.  Moi, j'entends bien.  Et toi, Thomas, c'est bon aussi ?  
+
+Speaker2: Moi, j'entends bien aussi.  Merci.  
+
+Speaker1: D'accord.  
+
+Speaker0: Et pour quels besoins en particulier?  ?  Être ménagère.  Être ménagère, d'accord.  Et comment avez-vous trouvé cette personne ?  
+
+Speaker1: France Travail.  
+
+Speaker0: France Travail, d'accord.  Très bien.  Je passe beaucoup par France Travail, moi, quand je recrute.  J'en suis assez satisfaite.  D'accord.  Et en termes de processus, entre le moment où vous avez formalisé votre besoin, le moment où vous avez recherché et prise dans le contact, plus... C'était hyper rapide.  C'était rapide ?  
+
+Speaker1: Par force travail, c'est hyper rapide.  
+
+Speaker0: D'accord.  
+
+Speaker1: Là où je perds du temps, c'est quand je commence pas par force travail.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et que je cherche à droite, à gauche, les différentes plateformes qui peuvent exister.  Voilà, c'est du souvent tout et n'importe quoi.  Et donc je... Et à chaque fois, je fais pareil.  Je ne pense pas spontanément à mon travail.  D'accord.  Et puis, au bout d'un moment, je me dis « Le bon sang  ! ».  France Travaille.  Et là, parce qu'on a accès au, même si vous n'êtes pas, parce que le traitement par France Travaille du particulier employeur n'est pas le même, vous le savez, que pour les entreprises.  Et pourtant, c'est les services entreprises de France Travaille qui gèrent la relation particulier employeur salarié.  
+
+Speaker0: D'accord.  
+
+Speaker1: Mais vous avez pour autant accès, vous pouvez mettre vos critères de sélection sur la base de l'OMI France Travaille, et ça nous sort des candidats.  Et donc vous avez quand même accès à leur CV, mais après par contre vous n'avez pas accès à eux, il faut passer par France Travail.  Mais c'est très fluide et très rapide.  
+
+Speaker0: Et justement, qu'est-ce qui vous donne cette impression de fluidité et de rapidité ?  
+
+Speaker1: Parce que c'est rapide et parce que c'est fluide.  
+
+Speaker0: C'est une bonne impression.  
+
+Speaker1: C'est pas une impression, c'est une réalité.  
+
+Speaker0: C'est une réalité.  
+
+Speaker1: Vous avez... Oui.  Oui.  Vous pouvez aller regarder leur CV, vous pouvez donc faire un pré-choix, et après vous êtes obligés de passer par France Travail.  Mais c'est le service entreprise, donc le service entreprise il est quand même, il a l'habitude de travailler rapidement avec les entreprises, donc vous bénéficiez de ça.  Donc vous avez un rappel immédiat, vous avez un... la mise en relation avec les rapides, et c'est bien simple.  Vous validez, dans l'heure qui suit, vous aurez une première candidature.  
+
+Speaker0: D'accord.  Et quand vous dites, vous renseignez les critères, vous validez, donc ensuite vous validez, donc à ce moment-là, votre demande est envoyée ?  et là vous recevez des profils de candidats potentiels.  dans l'heure, c'est ça ?  
+
+Speaker1: C'est les candidats eux-mêmes qui vous envoient leur... D'accord.  Donc vous en avez à tout moment, pas du jour et de la nuit, puisque c'est par internet, mais c'est vraiment très rapide.  
+
+Speaker0: D'accord.  
+
+Speaker1: après ces fonctions là vous attendez que les salariés répondent.  mais je vous dis moi le premier salarié qui a répondu c'était dans l'heure la dernière fois et ça a toujours été comme ça.  ça a toujours été très rapide.  vous en avez vous en avez une bonne quantité vous avez de quoi faire votre choix vraiment et ça répond à vos propres critères.  
+
+Speaker0: ok D'accord ?  Ok, très bien.  Il est 14h35, on a jusqu'à 15h, donc ça va peut-être pas être 35 minutes, mais plutôt 20-25 minutes, mais on va essayer d'avancer.  On va passer par l'étape d'ouverture de l'application et de la création de compte.  Ensuite, on créera une annonce et on fera la publication de cette annonce.  Ensuite, après, on fera la...  
+
+Speaker1: La question, elle sera où ?  La plateforme, elle sera intégrée dans un de nos... une de nos applis particuliers employeurs ou elle sera sur France Emploi au domicile, comment ça sera ?  Où elle sera.  la plateforme ?  L'accès à la plateforme, il se fera par quoi ?  
+
+Speaker2: L'accès à la plateforme, alors il se fera de manière très pratico-pratique, ça va être sur les stores, donc Apple Store et Google Play Store.  Et ensuite, il va y avoir un site aussi qui va être dédié qui va être dédié à l'application.  Et en fait, on va aussi faire le lien avec France Emploi Domicile, qui va en parler dans des articles, etc.  
+
+Speaker1: D'accord, ok.  
+
+Speaker0: Et vous, Véronique, si vous pouvez en faire la promo de votre côté, ce sera tout bien.  Non, mais en tout cas, et d'ailleurs, je tenais à vous dire... Merci pour la qualité de notre échange parce que c'est vraiment précieux pour nous d'avoir des personnes importantes comme vous et qui sont assez francs du collier.  C'est hyper important parce que nous, ça nous permet de nous améliorer très vite et très fort.  Encore une fois, merci.  On va tâcher de vous présenter des choses qui ne fonctionnent pas pour que vous nous disiez comment vous verriez les choses.  On a lancé l'application, on a téléchargé l'application depuis le store ou depuis le site de promotion du service, mon emploi direct.  Là, on ouvre l'application.  Là, on est sur l'écran d'accueil.  On a plusieurs écrans d'explications qui défilent.  Je vous demandais de pouvoir les observer et de nous donner votre point de vue sur votre compréhension.  Et ensuite, après, on va imaginer que vous cherchez une aide à domicile, et donc que vous allez commencer par créer un compte.  
+
+Speaker1: Non, mais tout ça, c'est très bien.  Votre présentation, elle est très bien.  Je l'ai vue, revue, il n'y a rien à dire, si ce n'est que ça va.  
+
+Speaker0: D'accord.  Selon vous, est-ce qu'il y a des informations, Thomas, excuse-moi, dans ce que vous avez vu dans le carousel, là ?  D'accord.  D'accord.  Super, on va continuer, donc là on va passer à la création du compte.  
+
+Speaker1: Facile.  Alors par contre, moi je vais vous dire, et ça tout le monde à la FEPEN va vous dire que je suis à cheval là-dessus, je suis désolée, je renseigne pas mon e-mail, je renseigne mon courriel.  
+
+Speaker0: Ok.  
+
+Speaker1: On est en France, on parle français, il y a des mots français, donc c'est pas e-mail, mais c'est courriel.  Il y a différentes académies françaises qui acceptent courriel, mail, courriel, c'est beaucoup plus courant à entendre que courrier, courriel... D'accord.  D'accord.  
+
+Speaker0: Alors là, par rapport aux courriels qu'on renseigne, pour vous donner juste un peu plus d'informations, on renseigne des courriels qui sont des courriels de test utiles à nos séances d'entretien.  Donc c'est pour ça que Thomas renseigne un courriel qui est comme celui-ci.  D'accord, pas de souci.  Donc là, on continue.  
+
+Speaker1: Qu'est-ce que vous feriez à ce moment-là, vous ?  Rien à dire, là, tout va bien.  Je confasse le niveau de fatigue.  Condition générale, je m'inscris.  Confirmation de la... Créez mon annonce.  
+
+Speaker2: Quel est votre besoin ?  
+
+Speaker1: Aide à domicile.  Vous avez cliqué sur aide à domicile ?  
+
+Speaker0: Oui.  
+
+Speaker1: Vous ne devez pas avoir assistant de vie ou dame de compagnie.  
+
+Speaker0: Ah.  
+
+Speaker1: Aide à domicile, c'est... Ou alors vous mettez... Si c'est... Alors, parce que... à un moment donné, vous avez mis aide de vie.  Mais aide de vie, j'avais compris, non, vous aviez mis aide à domicile.  J'ai compris que c'était au sens large que vous l'aviez mis.  Vous pouvez revenir la fiche avant, ménage-repassage d'enfants.  Ah oui, donc vous mettez ménage-repassage d'enfants, ça ne m'a même pas sauté aux yeux, ça.  Aide à domicile.  D'abord, vous pouvez descendre, que j'aille vous voir jusqu'au bout, ce qu'il y a, assistance informatique.  Aide à domicile, Et donc, vous remontez, s'il vous plaît.  Ah oui, vous mettez ménage et repassage, mais l'aide à domicile en tant que telle, ça peut être plus large que simplement le ménage et le repassage.  Et l'aide à domicile, en fait, l'aide à domicile, elle est générale.  Donc, à ce moment-là, si vous voulez... parce que après vous mettez aide à domicile et vous le limitez à un artisan de vie.  et quoi là?  dame de compagnie d'abord un, faut pas mettre dame de compagnie faut mettre homme ou dame de compagnie parce que vous avez aussi de la même manière que vous mettez assistant.  entre parenthèses vous devez mettre homme ou dame de compagnie faut pas vexer ses messieurs d'une part et là, aide à domicile ça peut être aussi l'aide ménagère.  Donc où vous mettez carrément ménage, repassage, aide ménagère, et vous ne mettez pas aide à domicile, vous mettez trois catégories.  à ce moment-là, voyez ?  Vous mettez garde d'enfant, parce que finalement, on commence par le bébé, et garde d'enfant, les gardes d'enfant et l'assistante maternelle, vous la mettez où ?  C'est une autre page d'emploi ?  c'est une autre plateforme.  parce que la vous mettez garde d'enfant à domicile.  
+
+Speaker2: moi je pense que vous auriez intérêt à mettre tout ça directement parce que la il y a des confusions.  
+
+Speaker1: Là vous compliquez, moi je mettrais, je commencerais par assistante maternelle, garde d'enfants à domicile, aide ménage, ménage repassage, virgule aide ménagère, assistante de vie, vous voyez, je ferais crescendo, mais je mettrais sans sous-groupe.  
+
+Speaker0: D'accord.  
+
+Speaker1: Je pense que ça serait beaucoup plus clair.  
+
+Speaker0: Ok.  
+
+Speaker1: Et ça fait une opération en moyenne en plus ?  Parce que là, ça prête à confusion, donc vous avez vu, je suis revenu en arrière.  Tout à fait.  Ça revient au même que quand vous faites jardinage et puis bricolage.  parce que quand vous faites vos simulations sur les sites, jardinage, petit bricolage, c'est ensemble, donc effectivement, c'est comme le reste.  
+
+Speaker0: Oui, moi je mettrais assistante maternelle, garde d'enfants, ménage, repassage, aide ménagère, et puis toujours en mettant masculin ou féminin, ensuite, assistante de vie, Oui, il n'y a pas de niveau de sous-niveau qui laisserait la place à l'interprétation personnelle, là où il n'y en a pas forcément besoin.  D'accord.  Ok, mais c'est noté, donc on se note bien la parité homme-femme, le fait de pouvoir regrouper toutes les informations, tous les besoins dans le même écran.  Très bien.  Et le courriel, bien sûr, qu'on va noter.  Très bien, donc là, bon, imaginons que là vous étiez dans une posture de faire un choix.  Donc là, pour vous, quel est votre choix du besoin ?  Ménage-repassage.  Ménage-repassage, d'accord.  
+
+Speaker1: Je fais comme la salle que je viens de recruter, là.  
+
+Speaker0: D'accord.  
+
+Speaker1: Ménage-repassage, entretenue, très bien, continue.  
+
+Speaker0: D'accord.  
+
+Speaker1: J'indique le lieu d'intervention, très bien.  
+
+Speaker0: Alors là, pour les besoins du test, on va indiquer l'adresse de la FEPM.  
+
+Speaker1: Oui, oui, c'est très bien.  Alors, j'ai niqué l'intervention du score.  
+
+Speaker0: Est-ce que, attendez, Thomas, est-ce que tu peux juste revenir en arrière ?  D'ironique selon vous, pour des personnes, des particuliers employeurs qui ne seraient pas des experts, si vous observez cet écran, est-ce qu'il y a des informations qu'on devrait clarifier ?  Des éléments qui devraient être plus précisés ?  
+
+Speaker1: Non, vous inquiétez pas, si je vois quelque chose, je vous le dis.  
+
+Speaker0: Et pour vous, le lieu d'intervention, ça veut dire quoi ?  
+
+Speaker1: D'accord.  Ok, très bien.  Ok.  
+
+Speaker0: Alors, on peut continuer.  
+
+Speaker1: D'accord.  Très bien, là, aucun souci.  A quelle date vous souhaitez démarrer ?  Et bien là, on va mettre le 9, parce que... Non, c'est trop court.  Il faut mettre... Mettez le 1er mars.  
+
+Speaker0: D'accord.  
+
+Speaker1: C'est plus logique.  Vous avez prévu des cas où c'est urgent ?  Que vous voulez tester ?  
+
+Speaker0: Disons que là, dans l'immédiat, on n'a pas forcément trop de variations autour de... de ce cas-là, et le calendrier permet un choix de date à partir de la date du jour.  Oui,  
+
+Speaker1: oui, mais vous savez très bien que quand vous lancez, bon, je suis particulier employeur, je recherche quelqu'un, je ne vais pas l'avoir pour demain, donc je me fixe moi, en tant que particulier employeur, une date à partir de laquelle je pense que je serai en mesure de faire le recrutement correctement.  Donc, pour que ça gagne du temps, on va mettre le 16, ça donne une quinzaine, allez, on va mettre le 16.  
+
+Speaker0: D'accord, pour que tout soit... Et d'ailleurs, justement, j'ai...  
+
+Speaker1: Quand même, si on veut bien choisir, il faut un certain délai quand même, pour que les candidatures arrivent sérieuses.  Mais là, pour le test, on va mettre le 16.  
+
+Speaker0: Et d'ailleurs, j'ai une question à vous poser, Véronique, pour vous.  Quand vous planifiez la date de début d'intervention... quelles sont les étapes qui doivent être accomplies entre maintenant et le début de l'intervention, en termes de contrat, en termes de...  
+
+Speaker1: Le contrat doit être prêt à ce moment-là, c'est pour ça que je vous dis, là j'avance au 16, mais si je l'avais fait dans la réalité, là tel qu'on est, on est le 2, j'aurais mis un recrutement, pas le premier puisque c'est le dimanche, mais j'aurais mis le 2 mars.  
+
+Speaker0: D'accord.  
+
+Speaker1: C'est une logique quand même intellectuelle.  Parce que vous savez, faire le choix va vous prendre quand même un peu de temps.  Après, faire les papiers, ça va vite.  C'est le choix qui est l'analyse des candidatures, éventuellement recevoir quelques personnes.  C'est un recrutement comme dans une entreprise.  
+
+Speaker0: Bien sûr, oui.  
+
+Speaker1: Alors, mettez comme j'ai fait moi-là pour celle-ci, lundi et jeudi.  Matinée.  Je dis matinée aussi.  C'est ça que je fais, ce que je viens de faire.  Ah, mais moi je suis pas contente que mon annonce soit en ligne déjà.  
+
+Speaker0: Ah non, pourquoi ?  
+
+Speaker1: Ben, on a pas mis ce que je voulais.  Ah.  Alors là, là ça va pas.  
+
+Speaker0: Ok.  
+
+Speaker1: Il faut, les salariés, vous aviez mis des critères.  apparemment pour les salariés, elles vous disent qu'elles en veulent pas.  Par contre, moi, employeur, j'ai des critères qui ont de l'importance.  
+
+Speaker0: D'accord.  Est-ce que vous pouvez nous les lister, s'il vous plaît ?  
+
+Speaker1: Du coup... Est-ce que c'est des éléments... Pourtant, il me semble que j'en remplis, j'en remplis la distance, j'en remplis... on me demande la distance approximative puisque moi je cherche par exemple je cherche déjà la proximité immédiate.  donc ça vous devriez mettre quand même.  vous devriez mettre quand même un certain nombre de critères comme par exemple faire questionnement de 0 à 5 km ou le mettre en temps parce que ça ne veut peut-être rien dire en termes de kilomètre suivant les lieux, mais moi je pense qu'il faudrait vous mettre quelques critères, ou même ça peut être à proximité immédiate, ou plus loin, quelque chose comme ça, vous  
+
+Speaker0: n'êtes pas  
+
+Speaker1: obligé de mettre un choix, mais à proximité ça peut servir autant le salarié que l'employeur.  Une autre chose qui est importante, c'est temps de conduire voiture.  D'accord.  Diplôme, certificat, les différentes qualifications.  Oui.  Qualifier, titres de certification, parce qu'il y a plein de diplômes, entre guillemets, il faut le mettre, ça.  Parce que moi, j'ai justement recherché des gens qui avaient une certification.  Je comprends que les gens, ils veulent pas mettre leurs critères, parce qu'ils veulent travailler, mais...  
+
+Speaker0: expérience ou non.  
+
+Speaker1: Certificat de diplôme, qualification.  Il faut parler de l'expérience, de la qualification, de la distance.  Il faut parler de la voiture et du permis.  Ça, vous n'y pensez pas en région parisienne.  Voiture et permis.  Et il y avait encore autre chose qui m'est venue à l'esprit.  Ça, c'est important.  Ça m'a échappé, oui.  et disponibilité.  La disponibilité du salarié quand il va vous... Ce n'est pas parce que vous vous mettez que vous attendez quelqu'un pour le 16, ou le premier, ou le deuxième, peu importe, mais il faut que la personne mette si elle est disponible ou non immédiatement.  Disponible immédiatement, sinon dans quel délai ?  Parce que si le candidat est bien... et qu'il n'est disponible que quinze jours après, l'employeur va se dire, je peux peut-être attendre quinze jours.  Il n'attendra pas trois mois, mais ah oui, celle-là elle est bien, elle n'est pas disponible tout de suite, mais ça vaut le coup que, vous voyez, il faut ces critères-là, pour moi il les faut impérativement dans le questionnaire.  
+
+Speaker0: Ok.  D'accord.  
+
+Speaker1: moi quand je fais mes quand je vais sur la plateforme de France Travail c'est ça que je mets le kilométrage à moins de kilomètres voiture permis.  tout ce que je vous ai dit là je le mets et ça y est sur les critères à remplir.  vous êtes allé la voir la plateforme de France Travail ?  
+
+Speaker0: Là, dans l'immédiat, non.  Mais dès qu'on termine, on va aller faire une veille et regarder tout ce qui existe.  Là, on a complété l'annonce.  On l'a publiée.  Maintenant, on est sur cet écran-là.  Qu'est-ce que vous en comprenez ?  
+
+Speaker1: Et il y a déjà quelqu'un qui est en cible.  Mais détail de mon annonce, qu'est-ce qu'il y a dans le détail de mon annonce ?  Ça donne quoi ?  Moi, je repasse ça, j'en profite une.  Oui, il y aurait tout ce que je voulais dire après.  
+
+Speaker0: Descriptions, voilà.  
+
+Speaker1: Et là, on peut ajouter une description.  C'est l'IM.  Le probleme, vous voyez, là encore, vous avez fait un sous... Votre description, vous devriez la mettre directement dans votre questionnaire.  
+
+Speaker0: Ok.  
+
+Speaker1: Parce que vous n'avez pas spontanément, vous voyez, vous n'avez pas spontanément l'idée d'aller le faire, et ce que vous dites, mais ça y est pas, c'est...  
+
+Speaker0: Bien sûr, c'est... Moi, je pense qu'il faut le mettre en direct, pas en sous...  
+
+Speaker1: pas en sous-éléments.  Ok.  Vous voyez, mais tout ce que je vous disais, c'est là.  Le logement, a mon avis, vous pouvez le laisser, mais ça n'a pas... Autant la voiture et le permis ont de l'importance, pour aller faire les courses, pour... Autant le logement...  
+
+Speaker0: D'accord.  Sachant que, pour vous donner... Vous n'avez pas mis...  
+
+Speaker1: Attendez, excusez-moi.  Vous n'avez pas mis dans les emplois, gouvernante.  Gouvernant, gouvernante, ou majordome, gouvernante.  Et c'est pourtant un emploi à domicile.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et c'est de l'emploi à domicile, au même titre que les autres.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et c'est dans la convention collective, il faut le mettre.  Moi j'ai déjà recruté une gouvernante.  
+
+Speaker0: D'accord.  
+
+Speaker1: Et ça rentre dans notre convention collective.  D'accord.  Vous avez été les regarder, les métiers de la convention collective ?  
+
+Speaker2: Oui, ça a été un long sujet d'ailleurs, pour la création de l'application.  les métiers, justement.  Mais bon, en tout cas, c'est un peu un perpétuel changement, en tout cas, dans les...  
+
+Speaker1: Dans les vocables.  
+
+Speaker2: Exactement.  
+
+Speaker1: Ah oui, oui, mais quand même, gouvernement, c'est pas une question de vocables.  Gouvernante et majordome, c'est sur les salaires élevés, c'est sur les hauts... Mais il faut les mettre, hein, parce que le particulier employeur qui est à l'aise, il va chercher, il va pas trouver, là.  
+
+Speaker0: D'accord.  
+
+Speaker1: Moi, j'ai déjà un club et une gouvernante, et je ne suis pas Rothschild.  Vous savez, vous êtes trop jeunes pour avoir connu ça, mais dans le temps, dans les familles, c'est la notion du logement qui s'est passé.  Il y avait ce qu'on appelait les bonnes.  Vous êtes trop jeunes pour avoir connu ça, mais c'était des assistantes de vie qui vivaient à domicile.  et gérer la maison à la place de la maitresse de maison.  Et c'est gouvernante, en gros, aujourd'hui.  
+
+Speaker0: Ok, mais ça, on va effectivement le rajouter.  
+
+Speaker1: Il faut le rajouter, majordome, virgule, gouvernante, ou... D'accord.  
+
+Speaker0: Ah d'accord.  
+
+Speaker1: Donc cette information-là, il faut qu'elle soit beaucoup plus tôt, quand vous dites où vous habitez, où habite le particulier employeur, je complète les informations sur mon logement, je complète les informations sur mon logement, c'est un appartement, c'est une maison, ça dépend de ce quartier, il y a la place pour le garer, ça c'est très bien, mais il faut que ça soit tout de suite après l'adresse.  Et on comprend bien que c'est les caractéristiques du particulier employeur et non pas du candidat.  
+
+Speaker0: D'accord.  
+
+Speaker1: Ah, mais très bien, ça !  Là, il faut se garer.  Oui, oui, ça, c'est important.  Je n'y avais pas pensé, c'est très bien.  La superficie, c'est bien aussi, parce que ça donne une... On ne fait pas le ménage de la même manière dans un appartement ou une maison.  Alors, vous voyez, sur les... Sur les critères pour recruter, quand le particulier employeur met son annonce, C'est ça qui est... Je crois que c'est ça.  Parce qu'une personne qui vient travailler, qui est aide-ménagère dans une maison, alors je ne parle pas dans un appartement, mais dans une maison, elle fait systématiquement un peu de jardinage.  
+
+Speaker0: Ok.  
+
+Speaker1: Elle va ramasser les feuilles mortes à la maison pour que le devant de porte soit propre, vous voyez.  Donc, je ne sais pas s'il faut...  
+
+Speaker0: Est-ce que c'est des critères qui sont, selon vous, pertinents de pouvoir être précisés tout en amont ?  
+
+Speaker1: de France Emploi Vélissime avec le basculement sur un particulier employeur pour les critères de les simulations d'emploi, etc.  Non, c'est pas vous ?  
+
+Speaker2: Oui, en tout cas, c'est dans mon équipe DSI, effectivement.  
+
+Speaker1: Ça va pas du tout, oui.  Ça va pas du tout.  
+
+Speaker2: Sur le simulateur paritaire ?  
+
+Speaker1: Oui.  Il était bien mis avant.  Là ?  Je vais être vilaine, je vais être grossière, je vais être...  
+
+Speaker2: C'est nul à chier.  
+
+Speaker1: Ok, je vais le prendre.  Le précédent était impeccable.  
+
+Speaker0: Qu'est-ce qui... Pourquoi vous...  
+
+Speaker1: Vous pouviez remettre votre fiche de poste à la salariée.  Et je suis allée... J'ai tenté de retrouver l'ancienne, je ne l'ai pas retrouvée.  Et je n'ai pas pu sortir de fiche de poste pour la salariée que j'ai retrouvée ce matin.  D'abord, parce que l'impression se fait en format et visage, déjà, c'est con.  Euh... Ça me fait trois pages... papier là, ou ça pourrait tenir sur un recto-verto, et encore, et vous ne pouvez pas affiner le poste.  Alors qu'avant, justement, dans votre questionnement, y a-t-il d'autres choses à faire ?  Ben oui, un peu de bricolage, parce que changer une ampoule, c'est dans la case bricolage.  Faire un peu de jardinage, c'est dans la case... Et pourtant, ça reste de l'entretien du lieu de vie.  Et vous n'allez pas recruter un jardinier, parce que vous avez trois feuilles à l'automne à ramasser devant votre véranda.  Donc ça, il faut vraiment...  
+
+Speaker0: Je vous entends plus là.  
+
+Speaker1: Je crois que la connexion... Vous avez regardé comment fonctionnait la précédente, parce qu'elle était bien, il n'y avait rien à y changer.  
+
+Speaker0: D'accord.  D'accord.  D'accord.  C'est Cedric Sesbert.  Voilà, Cedric Ok.  Ok.  
+
+Speaker1: D'accord.  Mais il faut bien préciser que c'est indemnité de congé payé inclus, de manière à ce que règlement est, congé payé inclus.  Parce que là, j'imagine, c'est quoi ces salaires ?  
+
+Speaker0: C'est des salaires qui sont renseignés par le candidat dans son parcours à lui.  
+
+Speaker2: C'est lui qui choisit son tarif.  
+
+Speaker1: Non, mais vous avez, c'est vous qui avez créé ce...  
+
+Speaker2: Oui, oui, c'est fictif.  On a mis...  
+
+Speaker1: Oui, oui, parce que quand je vois ce montant, c'est pas possible.  On perd un peu la convention collective, ou alors il faut préciser si c'est brut, si c'est net, si c'est...  
+
+Speaker2: Merci pour ce retour.  Il y a aussi ce sujet du côté SPE, de bien leur informer aussi, comme Sous-titres par Jean Laflute Moi, je le précise toujours dans mes contrats.  
+
+Speaker1: Votre fiche de poste, quand vous sortez la fiche de poste, avant, le truc actuel, c'est pas bon du tout.  Mais avant, vous sortez votre fiche de poste, pour ce poste-là, le salaire minimum conventionnel est de tant.  Parce que généralement, tout le monde donne plus que le minimum conventionnel.  Mais le fait de mettre... Sur l'annonce minimum conventionnelle, ça serait bien, mais salaire minimum conventionnel, mais à négocier.  
+
+Speaker2: D'accord.  
+
+Speaker1: Néanmoins, les gens savent, et ils ne mettent pas des salaires triplés par rapport aux réalités.  Ok.  
+
+Speaker2: J'ai une question là-dessus, Véronique, justement.  Dans l'usage, dans votre usage en tout cas, est-ce que le salaire, c'est quelque chose que partage généralement le salarié ?  Il a son salaire en tête et il vous donne son prix ?  Ou est-ce que c'est plutôt, vous fournissez la fiche de poste, on donne le minimum, et en fait, il y a une négociation qui s'opère après ?  
+
+Speaker1: Comment ça va ?  Comme mon annonce elle est claire, votre annonce elle est claire, si vous dites, il y a une certification, vous savez que vous allez, c'est pas, alors, ah, mais prévoyez aussi de mettre débutant, expérimenté, comme je vous ai parlé d'expérience.  En fait, vous pouvez avoir une case débutant, une case expérimentée.  ou une case sans expérience au plus, je ne sais pas.  Mais ça, c'est important.  Parce que moi, par exemple, je ne recherche jamais de candidats débutants.  
+
+Speaker0: D'accord.  Et ça vous aiderait, vous, par rapport à ce que vous dites, de l'avoir ici affiché ?  
+
+Speaker1: Mais non, mais pour les candidats, les candidats Vous allez pas, au moins, vous perdez, vous, employeur, vous perdez pas de temps à recevoir des CV de gens dont vous avez pertinemment qu'ils peuvent pas correspondre à vos besoins.  Donc, vous voyez, il faut tout de suite mettre.  Et vous mettez aussi salaire proposé.  Il faut que vous mettiez salaire proposé.  
+
+Speaker0: A quel endroit ?  
+
+Speaker1: Dans la partie employeur.  
+
+Speaker0: Donc, ici, dans les...  
+
+Speaker1: Vous définissez le poste.  Vous avez vos questionnements, vous savez, je vous ai dit de rajouter, moi je plus j'ai pur permis, etc.  Ok.  Mais ça c'est le questionnement du salarié, mais avant, à la fin de la présentation du post proposé, vous mettez salaire proposé, puisque vous avez défini tous vos critères, vous avez dit je veux quelqu'un d'expérimenté, mais il n'y a pas... vous en avez une compte, vous savez combien vous voulez payer.  Donc vous mettez salaire proposé, et pareil, vous le mettez, vous le mettez pas en brut, vous le mettez en net, indemnité de congé payé inclus, et comme ça, vous n'avez pas la personne qui veut le triple qui va vous répondre, et vous n'avez pas non plus le... Voyez, vous avez... Et là, la sélection, elle est propre, quoi.  Vous ne perdez pas de temps.  Le salarié ne perd pas de temps, l'employant ne perd pas de temps.  
+
+Speaker0: D'accord.  Ok, ok.  Très bien.  Maintenant, si on observait cet écran-là, entre mes suggestions et mes candidats, qu'est-ce que vous comprenez ?  Quelle différence faites-vous entre les deux ?  
+
+Speaker1: Pour le moment, je n'en fais pas.  Ok.  Sauf qu'il y en a un qui n'a pas mis son milieu de vie.  
+
+Speaker0: Ok.  
+
+Speaker1: Mais comme dans le... Si on a bien fait les trucs... Nous, on a dit qu'on ne voulait pas dépasser 15 km, par exemple.  Donc, on parle du principe que c'est des gens qui répondent à ces critères-là.  Moi, je pense qu'ils répondent à mes critères.  Et là, s'ils répondent à mes critères, le salaire s'affiche.  Euh... Je regarde plutôt la distance que le salaire.  Parce que le salaire, moi, je ne le mettrais pas là.  Parce que ce n'est pas le salaire qui va faire la différence, c'est le kilométrage, c'est l'éloignement par rapport au lieu de travail.  
+
+Speaker0: D'accord.  
+
+Speaker1: Le salaire, vous l'avez indiqué ?  mais vous avez mis une tranche.  vous avez mis mettons moins de 15 km entre 15 et 30 mais même pas moins de 15. plus de 15 dit ça comme ça.  donc vous partez du principe que les gens entre ceux qui sont dans plus de 15 ça peut être 16 comme ça peut être 35. oui Donc ça, il faut le mettre.  Le kilométrage, ou le temps de trajet, je sais pas ce que vous voulez mettre, peu importe, mais il faut qu'on ait une notion de distance, soit en temps, soit en...  
+
+Speaker0: En distance, quoi.  
+
+Speaker1: Parce que les salaires, c'est plus ciblé, déjà.  
+
+Speaker0: Bien sûr.  
+
+Speaker1: C'est mon point de vue, et après, d'autres voudront peut-être autre chose.  
+
+Speaker0: Et si vous deviez en regarder un en premier, ce serait mes suggestions, mes candidats ?  Qu'est-ce que vous comprenez à cette terminologie ?  
+
+Speaker1: Ah merde, je n'avais pas vu la différence.  Ne mettez pas mes suggestions.  Les candidats, point barre.  Oui.  Vous faites un sous-groupe, là, en fait, c'est vous qui supposez à la place du particulier employeur, et vos critères ne sont pas suffisants pour pouvoir dire mes suggestions.  Le particulier employeur, il est capable d'aller chercher dans les candidats... Et par contre, triez-le par kilométrage.  D'accord.  Que tout de suite, il va voir les candidats, il comprend que c'est par kilométrage, vous voyez, et c'est là où vous avez besoin d'avoir votre... parce que là vous allez ce que je vous expliquais tout à l'heure.  vous allez vouloir aller voir Amina Kamara et Al-Islami mais s'il y en a 15 bon vous commencez par Amina Kamara.  il y a un critère déjà alors c'est dommage parce qu'elle est noire.  vous allez dire je commence par Amina Kamara et puis je suis raciste.  je précise pas que ça n'a rien à voir mais vous allez aller voir les critères et puis il y en a un qui ne vous convient pas.  vous dites non celui-là il est régulatoire.  j'aime mieux.  Vous passez à la suivante.  Ah, là, elle n'a pas ce que je voulais, mais elle a aussi cette autre chose.  Ah, alors, je le marque.  Elle s'appelle la nuit.  La nuit, et je marque un truc.  Et je continue.  Ah, oui, alors, maintenant, il faut que je revienne voir la nuit.  Oui, parce que la nuit est en cours d'effigiement.  Vous pouvez revenir, parce que vous êtes sur une deuxième fiche, là, où vous vous dites, ah ben elle est aussi bien que la nuit, là, entre les deux, laquelle je choisis.  Mais ça, vous ne pouvez le faire qu'en crémouillant à côté.  C'est pour ça que je vous dis, un recrutement sur un téléphone, ça ne va pas le faire.  Il y a beaucoup de subjectivité quand vous faites un recrutement.  C'est pas « c'est blanc, c'est noir ».  Moi je pense que la solution téléphone, c'est vraiment pas la meilleure, mais je vais en discuter avec mes amis.  
+
+Speaker0: Disons que la solution téléphone, pour avoir le bénéfice, c'est de proposer de raccourcir les moyens de communication, de permettre d'accéder plus vite à la communication entre les personnes ?  pouvoir envoyer des messages, pouvoir...  
+
+Speaker1: Les messages vous les envoyez après avec votre téléphone, ça ne change rien.  
+
+Speaker0: C'est ça.  
+
+Speaker1: Mais un recrutement, ce n'est pas juste un échange de courriel, c'est une réflexion.  Avant de faire appel à ces gens-là, il va se passer peut-être une nuit, ça ne va pas être immédiat.  Oui.  Un recrutement, vous ne le faites pas comme ça en claquant des doigts, vous réfléchissez, vous allez faire rentrer des gens chez vous.  Et je disais que pour les parents, les jeunes parents, la solution téléphonique est bien, elle est encore moins bien, parce qu'ils vont encore plus réfléchir pour compter leur enfant à quelqu'un.  On va prendre le curriculum vitae, on va le regarder, on va le flusher.  Vous ne pouvez pas le faire sur le téléphone, ça.  
+
+Speaker0: Et à présent, si on avançait dans le choix d'un candidat, on suppose que vous allez choisir un candidat et vous allez essayer de le contacter.  
+
+Speaker1: D'abord, vous n'en choisissez jamais un seul.  
+
+Speaker0: D'accord.  Mais si vous consultez la fiche... Bien sûr.  Bien sûr.  Je comprends bien ce que vous dites.  Il y a une multitude de paramètres qui rentrent en jeu.  Les paramètres financiers, les paramètres de distance, les paramètres de qualification, les paramètres de compatibilité avec la personne.  Je suis tout à fait d'accord.  On est assez d'accord que cette première version est peut-être un peu sèche et qu'il y aurait tout un tas de fonctionnalités complémentaires qui pourraient aider à recréer cette idée du recrutement plus que de la mise en relation.  
+
+Speaker1: Paradoxalement, le tarif, c'est pas le tarif, le tarif, si vous avez fixé votre tarif, c'est pas ça qui va vous guider, là.  
+
+Speaker0: Non, non, bien sûr.  Bien sûr, et en plus, le recrutement d'une personne, d'un auxiliaire de vie ou d'une aide à domicile, c'est beaucoup plus que une mise en relation ou qu'un échange de messages, en fait.  C'est quelque chose de très structurant, et bien sûr.  Mais là si vous...  
+
+Speaker1: Même un jardinier, quel que soit l'emploi, vous faites rentrer quelqu'un dans votre domicile.  
+
+Speaker0: Et là si vous rentriez sur la fiche d'une candidate et que vous consultiez la fiche...  
+
+Speaker1: On y rentre, on y rentre, on voulait y rentrer, c'est ça ?  
+
+Speaker0: Ouais.  Alors... Qu'est-ce que vous observez sur cette fiche ?  
+
+Speaker1: D'accord.  Très bien.  Mais si on consultait la fiche de madame Lamy, peut-être ?  
+
+Speaker0: Et Thomas, tu penses que ça va aller si on envoie un message ?  
+
+Speaker1: Il n'y a rien d'autre derrière.  Moi, je recrute mes numéros.  Là, on ne pourra pas recruter si on se limite à ça.  
+
+Speaker0: Qu'est-ce qui, selon vous, est nécessaire?  absolument ici ?  
+
+Speaker1: Là, moi, avec deux CV comme ça, je ne recrute aucune des deux.  
+
+Speaker0: Qu'est-ce qui vous a bloqué, là, si on parle d'al-Islami ?  
+
+Speaker1: Il n'y a rien, on ne sait pas où elle habite, on ne sait pas, elle ne met même pas si elle a des recommandations ou quoi que ce soit.  Il n'y a rien, moi je suis désolée, je ne fais pas rentrer quelqu'un dont je ne ressens pas le fond.  Non, là, il faut plus de compétences.  Qu'est-ce que ça veut dire, ménage, repassage, entretenement ?  Non, il faut... Et qu'est-ce que vous disent les salariés sur les fiches de poste ?  En fait, sur les propositions comme ça, là, les salariés, qu'est-ce qu'elles vous ont dit ?  
+
+Speaker0: Il n'y a pas eu de retour bloquant en particulier, qui soit aussi étranger que le vôtre ?  Il y avait des incompréhensions, pas sur cette fiche, mais sur l'autre fiche, une incompréhension typiquement, Thomas, est-ce que tu peux revenir en arrière, s'il te plaît ?  Même sur cet écran-là, il y a eu une incompréhension.  sous le prénom et le nom, il y a écrit aide-ménagère, aide-ménagère, et en fait le salarié, ne comprenez pas que c'était un employeur, par exemple.  Là, vous, vous avez quand même compris que c'était des salariés potentiels à recruter, mais c'est vrai que du côté des salariés, quand ils ont vu cette liste de particuliers employeurs et tout, ils n'ont pas compris.  
+
+Speaker1: Je comprends leur réaction.  Les fiches de candidats ne doivent pas être nivelées de la même manière.  
+
+Speaker0: En fait, le candidat...  
+
+Speaker1: Ce qu'il veut voir, c'est la fiche des employeurs potentiels.  
+
+Speaker0: C'est ça.  Et il y avait une confusion sous le nom, le fait de voir aide ménagère ou auxiliaire de vie, sachant que le particulier employeur, c'est pas ce qu'il fait.  
+
+Speaker1: En principe, vous devriez pas avoir à le mettre, effectivement.  Parce que c'est la réponse à une sélection.  Et on cherche une aide ménagère.  Donc, par essence, Toutes les réponses doivent être aide-ménagères.  
+
+Speaker0: Bien sûr.  Clairement.  Ouais.  
+
+Speaker1: Et au contraire, les réponses, les candidatures, eux, ils vont mettre leurs différentes... ce qu'ils ont déjà fait.  J'ai été aide-ménagère, j'ai été assistante de vie, je me suis occupée... vous avez des tas de réponses des candidats.  donc il faut leur donner la possibilité aux candidats.  et c'est justement par contre dans les candidats.  et oui parce qu'en fait quand on reçoit les candidatures de Pôle emploi on reçoit carrément leur CV.  d'accord On reçoit clairement l'offre.  Il y a une lettre ou un CV dont vous avez une vraie vision de la personne.  Par exemple, vous avez ça, Amina Kamara, Seine-Denis, confirmé, 9,9 km, voilà, il y a ça, point barre, mais derrière, vous cliquez, Il y a le CV, ou il y a la lettre de motivation, ou les deux.  Et c'est là-dessus que vous allez choisir vos candidats.  Ce n'est pas sur le simple affichage de la photo, parce que des fois, il n'y a même pas de photo, d'ailleurs.  
+
+Speaker0: Et donc là, si vous deviez, pour avancer, si vous deviez rentrer en contact avec une des deux personnes, qu'est-ce que vous feriez ?  
+
+Speaker1: Objectivement, je ne rentrerai en contact avec aucune des deux, tel que c'est aujourd'hui.  Et après, j'ai vu que vous aviez, alors, vous devriez quand même mettre l'adresse de courriel, adresse de courriel et portable, oui.  Mais directement, c'est que le recruteur qui va voir ces numéros, donc, ils peuvent être affichés.  Ça m'a choqué qu'ils ne soient pas affichés.  
+
+Speaker0: Il faut  
+
+Speaker1: mettre l'adresse de courriel et numéro de téléphone, parce que vous allez pouvoir ou envoyer un texto en disant « Votre candidature a retenu mon attention, quand est-ce qu'on peut le voir  ? »  adresser un courriel un petit peu plus précis en disant, voilà, votre candidat t'intéresse, mais je vous propose ça, ça, ça et ça.  D'accord.  Et s'il n'y a pas d'adresse de courriel, vous ne pouvez pas.  
+
+Speaker0: Très bien.  Très bien.  Très bien.  Très bien.  
+
+Speaker1: Très bien.  
+
+Speaker0: Très bien.  Très bien.  On avait juste la fin du parcours, c'était envoyer un message, envoyer mon annonce à la personne.  
+
+Speaker1: Non, elle a déjà vu l'annonce puisqu'elle vous a répondu.  
+
+Speaker0: Là, dans l'immédiat, elle n'a pas répondu.  Là, elle est... Parce que vous avez mes suggestions et mes candidats.  
+
+Speaker1: Ah oui, d'accord.  Par France Travail, en fait, c'est les candidats qui répondent à notre annonce.  Et là, que de recevoir des tas de trucs qui vont encombrer votre boîte et qui n'ont aucun sens.  
+
+Speaker0: D'accord.  Ah oui, mais là, c'est vos suggestions.  
+
+Speaker1: En fait, là, c'est ça.  
+
+Speaker0: Justement, une des questions qu'on avait, c'était quand vous avez publié votre annonce, Vous êtes face à mes suggestions et mes candidats, donc qu'est-ce que vous comprenez de ça ?  C'est bien parce que vous venez de nous donner, vous venez de nous écrire sur le fait que potentiellement c'était, vous l'avez compris a posteriori, et le deuxième point c'était maintenant si vous deviez entrer en contact avec une des personnes qui vous était suggérée par rapport à votre annonce, comment vous feriez ?  Et est-ce que c'est suffisant ?  Et si vous pouviez passer par la plateforme, qu'est-ce que vous en pensez ?  Non.  Non.  
+
+Speaker1: Je pense qu'à partir du moment où on est arrivé à un certain seuil, il faut que ça soit un contact direct, candidat, recruteur, recruteur, candidat, et c'est à eux de se dépatouiller.  
+
+Speaker0: D'accord.  
+
+Speaker1: Moi, je pense que là, il faut... L'idéal, la plateforme, elle est là pour mettre en relation et faciliter le recrutement.  
+
+Speaker0: D'accord.  
+
+Speaker1: Mais après, le recrutement, il ressort du recruteur lui-même.  
+
+Speaker0: D'accord, ok.  
+
+Speaker1: Moi, je m'arrêterai là.  Moi, je suis satisfaite sur France Travail de m'arrêter là.  
+
+Speaker0: D'accord, et justement, si vous deviez résumer votre expérience en un mot, ou en quelques mots, de ce que vous venez de vivre là, si vous deviez résumer le parcours et là où vous vous arrêteriez, qu'est-ce que vous pourriez nous dire ?  
+
+Speaker1: Où je m'arrêterai par rapport à la proposition...  
+
+Speaker0: Oui, c'est ça.  
+
+Speaker1: Moi, je m'arrêterai là.  
+
+Speaker0: D'accord.  
+
+Speaker1: Par contre, rien n'empêche de prévoir, d'avoir un petit renvoi 15 jours après, un questionnaire de satisfaction, on croit.  
+
+Speaker0: D'accord.  
+
+Speaker1: Il y aura, vous trouverez la perle que vous recherchez... ou souhaitez-vous renouveler parce que vous n'avez pas trouvé le candidat correspondant à votre aspiration.  Moi, je pense que ça, oui, dire à partir de là, revenez vers nous, les candidats, je ne sais pas comment il faut le formuler, mais oui, il ne faut quand même pas que ça s'arrête là brutalement.  Mais il ne faut pas que ça se transforme en accompagnement de recrutement.  C'est un accompagnement social, c'est gentil d'être passif, c'est pas...  
+
+Speaker0: ok ok ok Oui, c'est sûr que c'est là dans ce qui est prévu, il y a tout un service autour de l'usager, donc avec des notifications, avec un suivi, avec un suivi des communications intra-applications.  Mais l'idée, effectivement, c'est qu'il y a un vrai suivi et que ça ne s'arrête pas uniquement à de la proposition de profil.  Maintenant, ce que vous dites, c'est intéressant, parce que le métier de maître en relation, ce n'est pas le même métier que le recrutement.  Donc, c'est...  
+
+Speaker1: Rien n'empêche de dire, au contraire, par contre, nous sommes là pour vous aider dans la formation, dans la pub, c'est faire la pub aussi, de la formation, de la valorisation des acquis, etc.  Oui, mais je ne pense pas qu'à partir du moment où le recruteur, il a recruté, il ne veut plus qu'on l'emmerde.  
+
+Speaker0: Bien sûr.  Par contre, qu'on l'aide...  
+
+Speaker1: Pour que son salarié soit mieux, quand lui permettent d'avoir les accès aux ASC à tout un point, oui, il faut dire que la FEPEN reste à son... Oui, la FEPEN, puisque c'est au service du... C'est un outil FEPEN ou un outil... 100% FEPEN.  Alors, donc, le salarié, le particulier employeur, on le chouchoute, on lui dit qu'on est là, qu'on peut l'aider s'il a besoin de formation, etc.  Mais, on ne se mêle pas de son recrutement.  A mon sens, on ne se mêle pas de son recrutement.  Parce que là, d'abord, si on met le doigt dans un grenage, on s'en sort plus, parce qu'autant de recruteurs, autant de mamies, et de...  
+
+Speaker0: Non, mais par contre, on offre un service.  
+
+Speaker1: La TPM... et à vos côtés pour former vos salariés, les faire évoluer, n'hésitez pas à revenir vers nous pour ça.  Voilà.  Le recrutement il est terminé, on passe dans le service après-vente.  On est prêt pour le service après-vente.  
+
+Speaker0: Ok.  Si vous aviez... Moi je vois les choses comme ça.  En fait c'est très... On note et effectivement c'est très intéressant justement ce que peut faire l'application et ce que ne ne devrait pas faire l'application et en tout cas là où effectivement par rapport à son lien à la FEPEM et aux différentes offres, notamment les offres d'adhérents et tout l'accompagnement, voir comment une application comme ça pourrait être un relais vers ces offres.  
+
+Speaker1: C'est réservé aux adhérents ou à tout le monde ça ?  
+
+Speaker0: C'est à tout le monde.  
+
+Speaker2: C'est à tout le monde.  
+
+Speaker1: Ah ben alors il faut dans la foulée immédiatement faire faire l'adhésion.  Ah ça c'est clair, oui.  
+
+Speaker0: Hum hum.  
+
+Speaker1: Vous avez été satisfait de notre soutien.  Bien sûr qu'il faut enchaîner sur tout ce qui est sur la prévente.  
+
+Speaker2: Et vous le verriez dans l'application ou hors de l'application ?  
+
+Speaker1: Ah non, moi je le mettrais directement dans la foulée.  Vous avez recruté, dans 15 jours après, ça nous dit 15 jours après, c'est une image, il ne faut pas que ça soit dans la foulée tout de suite, il faut que ça soit un automatisme qui, 15 jours après, relance, dit avez-vous finalisé votre recrutement, en quoi on peut vous aider, sachez que nous pouvons former, que vos salariés peuvent avoir droit, si c'est ça ou pas, et puis nous pouvons vous offrir un service supplémentaire juridiques et compagnie, vous pouvez agréer, bien sûr, il faut le faire.  Mais pas dans la phase recrutement même.  
+
+Speaker0: Bien sûr, oui, il y a postériori...  
+
+Speaker1: Peut-être un jour après, vous voyez ce que je veux dire.  
+
+Speaker0: Oui, une relance et de la sollicitation pour proposer de la valeur supplémentaire.  Qu'est-ce qui vous a le plus plu dans ce que vous avez pu faire avec nous aujourd'hui ?  Non, non, mais de l'application et justement de ce que vous en avez compris.  Ok.  
+
+Speaker1: D'accord.  
+
+Speaker0: Ben, c'est sûr que clairement, le fait que vous nous remontez ça, ça peut être un axe de réflexion aussi, et puis de voir aussi à l'usage, c'est-à-dire maintenant qu'on a éclaté toutes les catégories qui sont au même niveau, est-ce qu'on note de la facilité, est-ce que ça clarifie les choses, et si, je vous demandais, qu'est-ce qui vous a le moins plu ?  
+
+Speaker1: Non, globalement, franchement, ça m'a bien plu.  Je vois pas de... Vous avez vu, je le cache.  Non, non, je trouve que c'est très bien fait.  
+
+Speaker0: J'aurais bien aimé que vous nous disiez un gros point de problématique, justement, pour qu'on...  
+
+Speaker1: Qu'est-ce que vous me disiez ?  
+
+Speaker0: Non, je disais, j'aurais bien aimé que vous soyez cash et que vous nous sortiez quelque chose de vraiment merdique et qu'on puisse... Mais moi, j'ai rien vu de merdique.  Ok.  Bon, ben, écoutez...  
+
+Speaker1: Franchement, j'ai rien vu de merdique.  
+
+Speaker0: Merdique, j'entends, c'est un terme, mais...  
+
+Speaker1: Ce qui n'allait pas, je vous l'ai dit.  
+
+Speaker0: Ok.  Et rien n'était merdique, en fait.  Ok.  Ah ben, top.  Et le moment où vous vous êtes sentie... Est-ce qu'il y a un moment où vous vous êtes sentie perdue ou frustrée ?  
+
+Speaker1: Non, aucun moment.  Ok.  Non, non.  Ok.  Ok.  Ok.  Franchement, je trouve que c'est bien.  Et c'est normal que vous n'ayez pas... Voilà, moi j'ai souvent reflété dans ce cadre-là, donc je sais quoi faire.  Donc vous, vous ne savez pas forcément.  Mais pour des gens qui ne savent pas, vous avez fait du bon boulot.  
+
+Speaker0: Ok.  Franchement, oui.  
+
+Speaker1: Vous avez vu, même au début, mais par contre, là... La chose sur laquelle, pour moi, c'est rédhibitoire, c'est que ça ne soit que sur un portable, sur un téléphone.  Pour moi, c'est rédhibitoire.  
+
+Speaker0: Ok.  Après, vous savez, en tout cas, encore merci, parce que pour nous, c'est comme du pétrole.  Chaque mot, on va le... le reprendre, le remettre à plat, et comme je vous le redis, c'est vraiment une première version qui a été faite un peu à la bourre, et l'idée c'était de pouvoir sortir sur le marché très vite, tout en ayant des défauts, et potentiellement quelques incohérences, et on s'en rend compte quand on échange sur la terminologie, sur la structure des informations, le choix, même la logique entre la phase de mise en relation et ce que vous disiez sur le recrutement, le suivi, une application mobile ça peut faire beaucoup de choses mais c'est vrai qu'il y a des endroits où il n'y a pas besoin d'y aller et c'est pas à cet endroit qu'on doit le faire.  donc effectivement on le note bien.  
+
+Speaker1: moi je pense que même pour les jeunes parents au départ je me disais les jeunes parents mais je pense qu'ils vont attacher encore plus d'importance que moi ce que je ressens parce que sur un portable ils vont pas recruter la personne qui va s'occuper de la promène de leurs yeux.  simplement sur un portable bien sûr Ils vont prendre le temps de la réflexion, et la réflexion vous ne pouvez pas l'avoir sur le téléphone portable.  Le téléphone portable c'est de l'instantané, c'est du spontané, c'est du rapide, mais ce n'est pas du travail de fond.  Et recruter chez soi, pour ses enfants, pour ses parents, pour ses meubles et son argenterie et ses tableaux qui n'ont pas de prix, On ne va pas recruter comme ça à l'avenir.  Quel que soit le métier, je pense, pour moi, que c'est une erreur de démarrer par le portable.  
+
+Speaker0: Ok.  
+
+Speaker1: L'instruction de démarrer par le portable, elle vient d'où ?  
+
+Speaker2: L'instruction... Ça date d'il y a un bon moment, moi j'ai été sur le sujet pour vous donner un peu aussi du contexte il y a de ça quelques mois, et ça fait déjà maintenant plus de bientôt un an, donc j'ai pas...  
+
+Speaker1: J'ai quitté le bureau exécutif au mois de septembre.  
+
+Speaker2: J'ai dû commencer à travailler dessus justement par là au mois de septembre.  Je sais que ça avait commencé déjà bien avant.  Je sais que la décision de base était de faire une version mobile et une version aussi sur ordinateur.  Le fait est que... délais au final ont été trop courts.  
+
+Speaker1: Depuis le temps qu'on le prenne, oui.  
+
+Speaker2: Voilà, et il y a eu aussi, je pense, une incompréhension avec le prestataire sur la façon d'opérer, et en fait, la version ordinateur, elle n'était pas sortable, donc on a préféré sortir ce qu'on avait, tant pis, et puis en tout cas, derrière, on va prioriser les sujets, et je suis en tout cas, je peux pas vous dire avec certitude, mais avec certitude, ce sera un des sujets, une version ordinateur.  Maintenant, la priorisation qu'on va mettre dessus, j'en ai...  
+
+Speaker1: Non, mais moi, je vais en discuter avec mes petits camarades, parce que... Je vais en discuter avec mes petits camarades, parce que... J'ai... Moi, j'ai fait une grande partie de ma carrière, j'étais au tout début de l'informatique de bureau, même si j'ai perdu le fil depuis longtemps, vous m'avantage, j'ai quand même une fibre, et quand même, il y a des choses... Non, il faut... Bon, je vais en discuter.  Qu'est-ce que je voulais dire ?  Et vous, Victor, vous êtes à la FEPEN ou vous êtes le sous-traitant ?  
+
+Speaker0: Moi je suis sous-traitant, je suis un expert en design et en test utilisateur.  en fait, et je travaille avec l'équipe de Thomas, Alice et Cédric pour la mise en place et toute la méthodologie autour des tests, pour justement permettre à l'équipe de collecter un maximum de retours sur cette application.  
+
+Speaker1: Franchement c'est bien, je vais faire remonter, ils connaissent mon...  
+
+Speaker0: C'est très bien, merci Véronique, parce que c'est des retours comme ça qui nous aident à construire le produit, un produit qui a du sens et qui est adapté à tous les usages.  Et je pense que dans le fond, ce qu'on se dit, et ça fait plusieurs fois qu'on s'en rend compte, c'est que L'application mobile, c'est un prétext, mais en soi, le fond, c'est la création du lien.  Exactement.  Un lien qui est bien souvent sur des années, avec la confiance, c'est des gens qui viennent des proches de la famille.  Donc c'est vrai que moi, j'ai plaisir, ça fait un mois que je travaille avec Thomas, avec Alice, Cédric, sur... Il y a cette nouvelle application, comment on construit une méthodologie pour recueillir un maximum de retours, que ce soit de personnes, des encadrants de la FPM ou bien un peu monsieur, madame, tout le monde, que ce soit un salarié, un particulier employeur, de façon à avoir un maximum de retours pour que ce soit le plus facile à comprendre et le plus utile.  Parce qu'on en connaît plein des applications, on en connaît plein des services comme ça, et c'est vrai que lancer ça sur le marché, c'est pas évident.  
+
+Speaker1: Franchement, le meilleur moi que je connaisse à l'heure actuelle, la meilleure plateforme, il y en a X, les Indies, les compagnies,  etc.,  il y en a même le Boncoin, vous en trouvez partout des plateformes de mise en relation, et elles sont toutes mauvaises.  Il n'y en a qu'une qui est bonne, c'est celle de France Travail, et là vous vous en rapprochez.  
+
+Speaker0: D'accord, ben on va essayer d'y aller au maximum.  
+
+Speaker1: Tout le monde va pas sur France Travail.  Par contre, un particulier employeur, si on arrive à faire comprendre que c'est gna gna, il viendra ou sera un autre.  
+
+Speaker0: Mais c'est aussi comment on arrive à... C'est vous, c'est vous, c'est PEM.  Mais c'est ça aussi, c'est-à-dire comment on arrive à valoriser tout le savoir-faire et tous les services de la FEPEM ?  au travers de plusieurs outils, l'application, site et autres, en n'étant pas calé sur les applications de petits services, type Leboncoin ou autre, parce qu'en fait on se rend compte que c'est pas juste « je vais recruter une personne pour un petit service avec un paiement et un rendez-vous mardi prochain », c'est beaucoup plus que ça.  ça apporte beaucoup plus de...  
+
+Speaker1: Ça, c'est à nos voisins.  
+
+Speaker0: Bien sûr.  
+
+Speaker1: Il ne faut pas qu'on soit sur à nos voisins.  Il faut qu'on soit en travail.  
+
+Speaker0: Exactement.  Avec le savoir-faire, avec l'accompagnement.  Exactement.  C'est vraiment le but.  Et ça fait le cinquième test qu'on fait, et je voudrais vous remercier encore, et ça renforce nos convictions là-dessus.  Vraiment travailler en profondeur sur un service qui a du sens, qui est simple, qui s'adresse à tout le monde.  qui n'est pas excluant uniquement sur une application, qui pose les bonnes questions, et qui arrive à chacun à positionner les bons critères, et on l'a bien compris, la localisation, la proximité, faciliter les démarches pour permettre aux salariés de travailler plus vite, et en même temps aux particuliers employeurs de faire leur choix de manière plus éclairée et plus rapide.  tout en ayant un vernis proche de France Travaille avec le vernis de la compétence, de la certification, des diplômes, des recommandations.  donc ouais ouais on a en tout cas franchement vous avez fait du bon boulot et ben écoutez merci et puis on va transmettre ça.  je le dis pas pour vous faire un petit poil je le dis parce que je le pense vraiment.  et ben écoutez merci beaucoup et on va transmettre vos bons mots à l'équipe.  
+
+Speaker1: je vais transmettre aussi.  
+
+Speaker0: super dans la foulée le bureau va avoir mais soyez honnête et hésitez pas à dire aussi ce qu'on doit améliorer parce qu'on peut toujours améliorer les choses.  
+
+Speaker1: Merci, je vous ai bloqué longtemps.  
+
+Speaker0: Je pense que c'était inutile.  Merci beaucoup.  Si vous êtes disponible dans les 3 mois à venir, peut-être qu'on se permettra de vous recontacter pour vous proposer une nouvelle version.  D'accord.  Super.  Merci beaucoup.  Bonne journée.  Au revoir.  
